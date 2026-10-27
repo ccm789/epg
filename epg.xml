@@ -2,11 +2,11 @@
 <tv generator-info-name="merged-epg">
   <channel id="368550">
     <display-name lang="zh">港台电视31</display-name>
-    <icon src="" />
+    <icon src="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/RTHK31.png" />
   </channel>
   <channel id="368551">
     <display-name lang="zh">港台电视32</display-name>
-    <icon src="" />
+    <icon src="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/RTHK32.png" />
   </channel>
   <channel id="368553">
     <display-name lang="zh">港台电视34</display-name>
@@ -470,7 +470,7 @@
   </channel>
   <channel id="368326">
     <display-name lang="zh">tvN</display-name>
-    <icon src="" />
+    <icon src="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/tvN.png" />
   </channel>
   <channel id="368327">
     <display-name lang="zh">半島電視台英語頻道</display-name>
@@ -498,7 +498,7 @@
   </channel>
   <channel id="368336">
     <display-name lang="zh">Nickelodeon</display-name>
-    <icon src="" />
+    <icon src="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/Nickelodeon.png" />
   </channel>
   <channel id="368337">
     <display-name lang="zh">NHK World-Japan</display-name>
@@ -514,7 +514,7 @@
   </channel>
   <channel id="368342">
     <display-name lang="zh">France 24</display-name>
-    <icon src="" />
+    <icon src="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/france24.png" />
   </channel>
   <channel id="368344">
     <display-name lang="zh">華語劇台</display-name>
@@ -562,15 +562,15 @@
   </channel>
   <channel id="368358">
     <display-name lang="zh">黃金翡翠台</display-name>
-    <icon src="" />
+    <icon src="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" />
   </channel>
   <channel id="368359">
     <display-name lang="zh">無綫新聞台</display-name>
-    <icon src="" />
+    <icon src="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png" />
   </channel>
   <channel id="368361">
     <display-name lang="zh">TVB Plus</display-name>
-    <icon src="" />
+    <icon src="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/TVBPlus.png" />
   </channel>
   <channel id="368362">
     <display-name lang="zh">ROCK Action</display-name>
@@ -586,7 +586,7 @@
   </channel>
   <channel id="368366">
     <display-name lang="zh">翡翠台</display-name>
-    <icon src="" />
+    <icon src="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" />
   </channel>
   <channel id="368367">
     <display-name lang="zh">Nick Jr</display-name>
@@ -598,11 +598,11 @@
   </channel>
   <channel id="368369">
     <display-name lang="zh">明珠台</display-name>
-    <icon src="" />
+    <icon src="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" />
   </channel>
   <channel id="368370">
     <display-name lang="zh">Arirang TV</display-name>
-    <icon src="" />
+    <icon src="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/ArirangTV.png" />
   </channel>
   <channel id="368371">
     <display-name lang="zh">天映經典頻道</display-name>
@@ -610,7 +610,7 @@
   </channel>
   <channel id="368373">
     <display-name lang="zh">DW</display-name>
-    <icon src="" />
+    <icon src="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/DW.png" />
   </channel>
   <channel id="368375">
     <display-name lang="zh">中央電視台綜合頻道 (港澳版)</display-name>
@@ -622,7 +622,7 @@
   </channel>
   <channel id="368377">
     <display-name lang="zh">亞洲新聞台</display-name>
-    <icon src="" />
+    <icon src="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%BA%9A%E6%B4%B2%E6%96%B0%E9%97%BB.png" />
   </channel>
   <channel id="368378">
     <display-name lang="zh">測試頻道</display-name>
@@ -734,7 +734,7 @@
   </channel>
   <channel id="430245">
     <display-name lang="zh">TRACE Urban</display-name>
-    <icon src="" />
+    <icon src="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/traceurban.png" />
   </channel>
   <channel id="430246">
     <display-name lang="zh">Concerto</display-name>
@@ -750,7 +750,7 @@
   </channel>
   <channel id="430249">
     <display-name lang="zh">TRACE Sport Stars</display-name>
-    <icon src="" />
+    <icon src="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/TRACESportStars.png" />
   </channel>
   <channel id="430250">
     <display-name lang="zh">PULSE Documentaries</display-name>

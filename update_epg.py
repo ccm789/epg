@@ -31,7 +31,7 @@ def find(name):
         if n2 and n2 in lmap: return lmap[n2]
     return None
 
-BASE = 'https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/'
+BASE = 'https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/'
 hk = fetch('https://epg.pw/xmltv/epg_HK.xml')
 try:
     tw = fetch('https://epg.pw/xmltv/epg_TW.xml')
@@ -44,6 +44,7 @@ def repl(m):
     logo = find(name); st[0 if logo else 1] += 1
     icon = '    <icon src="%s%s.png" />\n' % (BASE, urllib.parse.quote(logo)) if logo else '    <icon src="" />\n'
     return '<channel id="%s">\n    <display-name lang="zh">%s</display-name>\n%s  </channel>' % (cid, name, icon)
+# 保留 epg.pw 台湾段原有高清台标（不覆盖空 icon）
 PAT = re.compile(r'<channel id="(\d+)">\s*<display-name lang="[^"]*">([^<]*)</display-name>\s*<icon src="" />\s*</channel>')
 def body_of(src):
     i = src.find('>', src.find('<tv')) + 1

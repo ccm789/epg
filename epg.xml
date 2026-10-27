@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="merged-epg">
-<tv date="20261027080002 +0000" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg_HK.xml">
   <channel id="368550">
     <display-name lang="zh">港台电视31</display-name>
     <icon src="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/RTHK31.png" />
-  </channel>
   </channel>
   <channel id="368551">
     <display-name lang="zh">港台电视32</display-name>
     <icon src="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/RTHK32.png" />
   </channel>
-  </channel>
   <channel id="368553">
     <display-name lang="zh">港台电视34</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="410275">
     <display-name lang="HK">Viu 頻道</display-name>
@@ -460,246 +456,197 @@
     <display-name lang="zh">港台电视33</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="574572">
     <display-name lang="zh">港台电视35</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="368323">
     <display-name lang="zh">娛樂新聞台</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="368325">
     <display-name lang="zh">千禧經典台</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="368326">
     <display-name lang="zh">tvN</display-name>
     <icon src="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/tvN.png" />
   </channel>
-  </channel>
   <channel id="368327">
     <display-name lang="zh">半島電視台英語頻道</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="368328">
     <display-name lang="zh">myTV SUPER直播足球4台</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="368329">
     <display-name lang="zh">創世電視</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="368332">
     <display-name lang="zh">ROCK綜藝娛樂</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="368334">
     <display-name lang="zh">myTV SUPER 18台</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="368335">
     <display-name lang="zh">亞洲劇台</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="368336">
     <display-name lang="zh">Nickelodeon</display-name>
     <icon src="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/Nickelodeon.png" />
-  </channel>
   </channel>
   <channel id="368337">
     <display-name lang="zh">NHK World-Japan</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="368339">
     <display-name lang="zh">Thrill</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="368340">
     <display-name lang="zh">東方衛視國際頻道</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="368342">
     <display-name lang="zh">France 24</display-name>
     <icon src="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/france24.png" />
-  </channel>
   </channel>
   <channel id="368344">
     <display-name lang="zh">華語劇台</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="368345">
     <display-name lang="zh">myTV SUPER直播足球3台</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="368346">
     <display-name lang="zh">CGTN (中國環球電視網)英語頻道</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="368347">
     <display-name lang="zh">CGTN (中國環球電視網)記錄頻道</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="368348">
     <display-name lang="zh">美亞電影台</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="368350">
     <display-name lang="zh">KIX</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="368351">
     <display-name lang="zh">黃金華劇台</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="368353">
     <display-name lang="zh">戲曲台</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="368355">
     <display-name lang="zh">Love Nature HD</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="368356">
     <display-name lang="zh">Global Trekker</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="368357">
     <display-name lang="zh">無線衛星亞洲台</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="368358">
     <display-name lang="zh">黃金翡翠台</display-name>
     <icon src="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" />
-  </channel>
   </channel>
   <channel id="368359">
     <display-name lang="zh">無綫新聞台</display-name>
     <icon src="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png" />
   </channel>
-  </channel>
   <channel id="368361">
     <display-name lang="zh">TVB Plus</display-name>
     <icon src="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/TVBPlus.png" />
-  </channel>
   </channel>
   <channel id="368362">
     <display-name lang="zh">ROCK Action</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="368363">
     <display-name lang="zh">無線衛星新聞台</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="368364">
     <display-name lang="zh">Love Nature 4K</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="368366">
     <display-name lang="zh">翡翠台</display-name>
     <icon src="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" />
-  </channel>
   </channel>
   <channel id="368367">
     <display-name lang="zh">Nick Jr</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="368368">
     <display-name lang="zh">ZooMoo</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="368369">
     <display-name lang="zh">明珠台</display-name>
     <icon src="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" />
   </channel>
-  </channel>
   <channel id="368370">
     <display-name lang="zh">Arirang TV</display-name>
     <icon src="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/ArirangTV.png" />
-  </channel>
   </channel>
   <channel id="368371">
     <display-name lang="zh">天映經典頻道</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="368373">
     <display-name lang="zh">DW</display-name>
     <icon src="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/DW.png" />
-  </channel>
   </channel>
   <channel id="368375">
     <display-name lang="zh">中央電視台綜合頻道 (港澳版)</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="368376">
     <display-name lang="zh">SUPER FREE</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="368377">
     <display-name lang="zh">亞洲新聞台</display-name>
     <icon src="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/%E4%BA%9A%E6%B4%B2%E6%96%B0%E9%97%BB.png" />
   </channel>
-  </channel>
   <channel id="368378">
     <display-name lang="zh">測試頻道</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="368379">
     <display-name lang="zh">myTV SUPER直播足球5台</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="368380">
     <display-name lang="zh">SUPER Kids Channel</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="368381">
     <display-name lang="zh">粵語片台</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="397763">
     <display-name lang="zh">myTV SUPER直播足球2台</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="398976">
     <display-name lang="zh">myTV SUPER直播足球6台</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="410289">
     <display-name lang="HK">KBS World</display-name>
@@ -737,216 +684,173 @@
     <display-name lang="zh">myTV SUPER直播足球7台</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="425921">
     <display-name lang="zh">福建海峽衛視國際頻道</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="425922">
     <display-name lang="zh">北京電視台國際頻道</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="425923">
     <display-name lang="zh">湖南電視台國際頻道</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="425924">
     <display-name lang="zh">中國中央電視台戲曲頻道</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="425925">
     <display-name lang="zh">中國中央電視台娛樂頻道</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="425926">
     <display-name lang="zh">廣東廣播電視台大灣區衛視頻道</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="425927">
     <display-name lang="zh">深圳衛視國際頻道</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="425928">
     <display-name lang="zh">江蘇電視台國際頻道</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="425930">
     <display-name lang="zh">安徽廣播電視台國際頻道</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="425931">
     <display-name lang="zh">中國中央電視台中文國際頻道</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="425932">
     <display-name lang="zh">浙江電視台國際頻道</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="425933">
     <display-name lang="zh">雲南瀾湄國際衛視</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="430245">
     <display-name lang="zh">TRACE Urban</display-name>
     <icon src="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/traceurban.png" />
-  </channel>
   </channel>
   <channel id="430246">
     <display-name lang="zh">Concerto</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="430247">
     <display-name lang="zh">NewsWorld</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="430248">
     <display-name lang="zh">Action Hollywod Movies</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="430249">
     <display-name lang="zh">TRACE Sport Stars</display-name>
     <icon src="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/TRACESportStars.png" />
-  </channel>
   </channel>
   <channel id="430250">
     <display-name lang="zh">PULSE Documentaries</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="430251">
     <display-name lang="zh">NOW 80s</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="430252">
     <display-name lang="zh">NOW 90s00s</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="430253">
     <display-name lang="zh">NOW 70s</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="430254">
     <display-name lang="zh">Globetrotter</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="430255">
     <display-name lang="zh">Rialto Classic Movies (RCM)</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="430256">
     <display-name lang="zh">Pet Club TV</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="430257">
     <display-name lang="zh">DocsVille</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="430258">
     <display-name lang="zh">NOW ROCK</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="430550">
     <display-name lang="zh">SUPER EYT</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="430551">
     <display-name lang="zh">SUPER煲劇</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="430552">
     <display-name lang="zh">SUPER識嘆</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="430553">
     <display-name lang="zh">SUPER Music</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="430554">
     <display-name lang="zh">SUPER識食</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="430555">
     <display-name lang="zh">SUPER劇場</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="430853">
     <display-name lang="zh">SUPER Sports</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="430854">
     <display-name lang="zh">SUPER獎門人</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="431161">
     <display-name lang="zh">SUPER金曲</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="431446">
     <display-name lang="zh">SUPER話當年 (免費)</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="443416">
     <display-name lang="zh">ROCK Extreme</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="548540">
     <display-name lang="zh">NewTV古裝劇場 (免費)</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="548541">
     <display-name lang="zh">New TV科教 (免費)</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="548542">
     <display-name lang="zh">NewTV功夫 (免費)</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="548543">
     <display-name lang="zh">NewTV養生 (免費)</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="548544">
     <display-name lang="zh">The Indonesia Channel (免費)</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="565551">
     <display-name lang="HK">ViuTVsix</display-name>
@@ -1000,11 +904,9 @@
     <display-name lang="zh">PopC</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="368330">
     <display-name lang="zh">中國電影頻道</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <channel id="410376">
     <display-name lang="HK">大灣區衛視</display-name>
@@ -1014,11 +916,9 @@
     <display-name lang="zh">PPA亞洲職業匹克球巡迴賽1500 •恒生銀行香港大滿貫2026直播921台</display-name>
     <icon src="" />
   </channel>
-  </channel>
   <channel id="574281">
     <display-name lang="zh">PPA亞洲職業匹克球巡迴賽1500 •恒生銀行香港大滿貫2026直播920台</display-name>
     <icon src="" />
-  </channel>
   </channel>
   <programme channel="368323" start="20261027000000 +0000" stop="20261027003000 +0000">
     <title lang="zh">娛樂新聞報道[粵]</title>
@@ -370939,9 +370839,7 @@ But they are not the pedigree pooches who compete to be labelled "Best in Show".
       <stereo>stereo</stereo>
     </audio>
   </programme>
-</tv>
 
-<tv date="20261027080002 +0000" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg_TW.xml">
   <channel id="370137">
     <display-name lang="TW">民視第一台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110134547243_53.png" />

@@ -44,10 +44,15 @@ def repl(m):
     logo = find(name); st[0 if logo else 1] += 1
     icon = '    <icon src="%s%s.png" />\n' % (BASE, urllib.parse.quote(logo)) if logo else '    <icon src="" />\n'
     return '<channel id="%s">\n    <display-name lang="zh">%s</display-name>\n%s  </channel>' % (cid, name, icon)
-hk2 = re.sub(r'<channel id="(\d+)">\s*<display-name lang="[^"]*">([^<]*)</display-name>\s*<icon src="" />', repl, hk)
+PAT = re.compile(r'<channel id="(\d+)">\s*<display-name lang="[^"]*">([^<]*)</display-name>\s*<icon src="" />\s*</channel>')
+def body_of(src):
+    i = src.find('>', src.find('<tv')) + 1
+    j = src.rfind('</tv>')
+    return src[i:j].strip('\n')
+hk2 = PAT.sub(repl, body_of(hk))
 print('HK icons:', st[0], 'miss', st[1])
 
 merged = '<?xml version="1.0" encoding="UTF-8"?>\n<tv generator-info-name="merged-epg">\n' \
-         + hk2.split('\n',1)[1] + ('\n' + tw.split('\n',1)[1] if tw else '')
+         + hk2 + ('\n\n' + body_of(tw) if tw else '') + '\n</tv>\n'
 open('epg.xml','w',encoding='utf-8').write(merged)
 print('written', len(merged))

@@ -251,3 +251,5 @@ http://iptv.4666888.xyz/iptv2A.php?id=56
 http://iptv.4666888.xyz/iptv2A.php?id=45
 #EXTINF:-1 tvg-id="龙华电影台" tvg-name="龙华电影台" group-title="台湾" ,龙华电影台
 http://iptv.4666888.xyz/iptv2A.php?id=56
+#EXTINF:-1 tvg-id="RTHKTV31.hk@SD" tvg-name="港台电视31" tvg-logo="" group-title="香港",港台电视31
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8

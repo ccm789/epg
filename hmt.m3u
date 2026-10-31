@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="世界卫视" tvg-name="世界卫视" group-title="台湾",世界卫视
-http://111.59.139.85:11888/tsfile/live/1220_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="东森洋片台" tvg-name="东森洋片台" group-title="台湾",东森洋片台
-http://111.59.139.85:11888/tsfile/live/1217_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="人间卫视" tvg-name="人间卫视" group-title="台湾",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-#EXTINF:-1 tvg-id="公视三台" tvg-name="公视三台" group-title="台湾",公视三台
-http://111.59.139.85:11888/tsfile/live/1222_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="原住民族电视台" tvg-name="原住民族电视台" group-title="台湾",原住民族电视台
 https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" group-title="台湾",台视新闻
@@ -27,22 +21,6 @@ http://173.208.234.146/live/fhzw.m3u8
 http://173.208.234.146/live/fhzx.m3u8
 #EXTINF:-1 tvg-id="凤凰香港台" tvg-name="凤凰香港台" group-title="台湾",凤凰香港台
 http://173.208.234.146/live/fhxg.m3u8
-#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" group-title="台湾",三立新闻
-https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
-#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" group-title="台湾",三立新闻
-https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
-#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" group-title="香港",TVBS新闻
-https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
-#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" group-title="台湾",东森新闻
-https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
-#EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" group-title="台湾",华视新闻
-https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
-#EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" group-title="台湾",民视新闻
-https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
-#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" group-title="台湾",中视新闻
-https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" group-title="台湾",中天新闻
-https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 #EXTINF:-1 tvg-id="Pet Club TV" tvg-name="Pet Club TV" group-title="台湾",Pet Club TV
 https://petclub-samsungaus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV-Billiards" tvg-name="CCTV-Billiards" group-title="香港",CCTV-Billiards
@@ -135,8 +113,6 @@ http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
 #EXTINF:-1 tvg-id="EBS1" tvg-name="EBS1" group-title="韩国",EBS1
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 tvg-id="俄罗斯Shanson TV (Opt-1)" tvg-name="俄罗斯Shanson TV (Opt-1)" group-title="俄罗斯",俄罗斯Shanson TV (Opt-1)
-http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="俄罗斯camapa" tvg-name="俄罗斯camapa" group-title="俄罗斯",俄罗斯camapa
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT Muzik" tvg-name="TRT Muzik" group-title="土耳其",TRT Muzik
@@ -181,3 +157,25 @@ http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
 http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
 #EXTINF:-1 tvg-id="三立戏剧台" tvg-name="三立戏剧台" group-title="台湾",三立戏剧台
 http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 tvg-id="AnimaxAsia.sg@Taiwan" tvg-name="Animax Asia Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/960px-Animax.png" group-title="台湾",Animax Asia Taiwan
+http://125.227.210.55:3056/VideoInput/play.ts
+#EXTINF:-1 tvg-id="AXNAsia.sg@Taiwan" tvg-name="AXN Asia Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="台湾",AXN Asia Taiwan
+http://125.227.210.55:4050/VideoInput/play.ts
+#EXTINF:-1 tvg-id="CGNTVChinese.tw@SD" tvg-name="CGNTV中文台" tvg-logo="https://i.imgur.com/bPoPAbR.png" group-title="台湾",CGNTV中文台
+https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+#EXTINF:-1 tvg-id="DaliTV.tw@SD" tvg-name="大立电视台" tvg-logo="https://i.imgur.com/pFIMLsA.png" group-title="台湾",大立电视台
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryAsiaTaiwan.tw@SD" tvg-name="Discovery亚洲台" tvg-logo="https://i.imgur.com/foLICwL.png" group-title="台湾",Discovery亚洲台
+http://125.227.210.55:1004/VideoInput/play.ts
+#EXTINF:-1 tvg-id="HakkaTV.tw@SD" tvg-name="Hakka TV" tvg-logo="https://i.imgur.com/1CdGSbU.png" group-title="台湾",Hakka TV
+https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
+#EXTINF:-1 tvg-id="HBOAsia.sg@Taiwan" tvg-name="HBO Asia Taiwan" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png" group-title="台湾",HBO Asia Taiwan
+http://125.227.210.55:1003/VideoInput/play.ts
+#EXTINF:-1 tvg-id="SupremeMasterTV.tw@SD" tvg-name="Supreme Master TV" tvg-logo="https://i.imgur.com/kFMHayP.png" group-title="台湾",Supreme Master TV
+https://lbs-us1.suprememastertv.com/720p.m3u8
+#EXTINF:-1 tvg-id="KIX.hk@SD" tvg-name="KIX" tvg-logo="https://i.imgur.com/zWcUAdb.png" group-title="香港",KIX
+https://freem3u.xyz/api/live/play.m3u8?vid=9901
+#EXTINF:-1 tvg-id="RTHKTV31.hk@SD" tvg-name="港台电视31" tvg-logo="" group-title="香港",港台电视31
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
+#EXTINF:-1 tvg-id="翡翠台4K" tvg-name="翡翠台4K" tvg-logo="https://epg.112114.xyz/logo/%E7%BF%A1%E7%BF%A0%E5%8F%B04K(%E5%AD%97%E5%B9%95).png" group-title="台湾",翡翠台4K
+https://cdn.qd.je/163189/fct4k

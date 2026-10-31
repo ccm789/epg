@@ -11,8 +11,6 @@ https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w117
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-id="亚洲剧台" tvg-name="亚洲剧台" group-title="香港",亚洲剧台
 http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
-#EXTINF:-1 tvg-id="港台电视31" tvg-name="港台电视31" group-title="香港",港台电视31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" group-title="香港",美亚电影台
 http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
 #EXTINF:-1 tvg-id="凤凰中文台" tvg-name="凤凰中文台" group-title="台湾",凤凰中文台
@@ -27,8 +25,6 @@ https://petclub-samsungaus.amagi.tv/playlist.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="TV BRICS Chinese" tvg-name="TV BRICS Chinese" group-title="香港",TV BRICS Chinese
 https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
-#EXTINF:-1 tvg-id="Radio Punto Zero TV" tvg-name="Radio Punto Zero TV" group-title="香港",Radio Punto Zero TV
-https://58d921499d3d3.streamlock.net/RPZ/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Hope" tvg-name="Hope" group-title="台湾",Hope
 http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1 tvg-id="亚洲新闻" tvg-name="亚洲新闻" group-title="香港",亚洲新闻
@@ -175,7 +171,11 @@ http://125.227.210.55:1003/VideoInput/play.ts
 https://lbs-us1.suprememastertv.com/720p.m3u8
 #EXTINF:-1 tvg-id="KIX.hk@SD" tvg-name="KIX" tvg-logo="https://i.imgur.com/zWcUAdb.png" group-title="香港",KIX
 https://freem3u.xyz/api/live/play.m3u8?vid=9901
-#EXTINF:-1 tvg-id="RTHKTV31.hk@SD" tvg-name="港台电视31" tvg-logo="" group-title="香港",港台电视31
-https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 #EXTINF:-1 tvg-id="翡翠台4K" tvg-name="翡翠台4K" tvg-logo="https://epg.112114.xyz/logo/%E7%BF%A1%E7%BF%A0%E5%8F%B04K(%E5%AD%97%E5%B9%95).png" group-title="台湾",翡翠台4K
 https://cdn.qd.je/163189/fct4k
+#EXTINF:-1 tvg-id="EBCForeignMovie.tw@SD" tvg-name="东森洋片台" tvg-logo="https://i.imgur.com/oUhYdea.png" group-title="台湾",东森洋片台
+http://111.59.139.85:11888/tsfile/live/1217_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="PTS3.tw@SD" tvg-name="公视三台" tvg-logo="https://i.imgur.com/I6sVDDt.png" group-title="台湾",公视三台
+http://111.59.139.85:11888/tsfile/live/1222_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="SJTV.tw@SD" tvg-name="世界卫视" tvg-logo="https://i.imgur.com/PTsFn9B.png" group-title="台湾",世界卫视
+http://111.59.139.85:11888/tsfile/live/1220_1.m3u8?key=txiptv

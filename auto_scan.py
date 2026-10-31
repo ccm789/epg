@@ -24,12 +24,20 @@ def is_hmt(info):
     return bool(KW.search(info))
 
 def check(p):
+    """真解码检测:用 ffprobe 读视频流,能读出 h264/hevc/mpeg2 才算活"""
     info,u=p
-    r=subprocess.run(['curl','-sL','-m','10','-o','/dev/null','-w','%{http_code}|%{content_type}|%{size_download}',u],capture_output=True,text=True)
-    a=(r.stdout.split('|')+['','',''])[:3]
-    code,ct,sz=a[0],a[1],(int(a[2]) if a[2].isdigit() else 0)
-    ok=code in('200','206') and (('mpegurl' in ct.lower()) or u.split('?')[0].endswith('.m3u8') or sz>5000)
-    return {'info':info,'url':u,'name':info.rsplit(',',1)[-1].strip(),'ok':ok and 'mpegurl' in ct.lower() or (ok and ct.startswith('application'))}
+    try:
+        r=subprocess.run(['ffprobe','-v','error','-rw_timeout','8000000',
+            '-analyzeduration','4000000','-probesize','2000000',
+            '-select_streams','v:0','-show_entries','stream=codec_name,width,height',
+            '-of','csv=p=0',u],capture_output=True,text=True,timeout=25)
+        info_out=(r.stdout or '').strip()
+        ok = any(c in info_out for c in ('h264','hevc','mpeg2','h265','av1','vp9'))
+        return {'info':info,'url':u,'name':info.rsplit(',',1)[-1].strip(),'ok':ok,'detail':info_out[:40]}
+    except subprocess.TimeoutExpired:
+        return {'info':info,'url':u,'name':info.rsplit(',',1)[-1].strip(),'ok':False,'detail':'超时'}
+    except Exception as e:
+        return {'info':info,'url':u,'name':info.rsplit(',',1)[-1].strip(),'ok':False,'detail':str(e)[:30]}
 
 def region(r):
     s=(r['info']+' '+r['url']).lower()

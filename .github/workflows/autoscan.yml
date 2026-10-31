@@ -10,7 +10,19 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - run: python3 auto_scan.py
+
+      - name: 安装 ffmpeg (真解码检测依赖)
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+          ffprobe -version | head -1
+
+      - name: 扫描源池并追加新源
+        run: python3 auto_scan.py
+
+      - name: 清理失效频道 (ffprobe 逐条复检)
+        run: python3 clean_dead.py
+
       - name: commit
         run: |
           git config user.name "epg-bot"

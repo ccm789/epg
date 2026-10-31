@@ -335,3 +335,57 @@ http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
 http://103.172.187.30:12000/stream/mytv/null-10/master.m3u8
 #EXTINF:-1 tvg-id="翡翠台4K" tvg-name="翡翠台4K" tvg-logo="https://epg.112114.xyz/logo/%E7%BF%A1%E7%BF%A0%E5%8F%B04K(%E5%AD%97%E5%B9%95).png" group-title="台湾",翡翠台4K
 https://cdn.qd.je/163189/fct4k
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/明珠台.png" group-title="香港",明珠台
+https://hls-gateway.vpstv.net/streams/476936.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯台" tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯台
+http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
+#EXTINF:-1 tvg-id="凤凰资讯台" tvg-name="凤凰资讯台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰资讯.png" group-title="香港",凤凰资讯台
+https://hls-gateway.vpstv.net/streams/476958.m3u8
+#EXTINF:-1 tvg-id="凤凰香港台" tvg-name="凤凰香港台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰香港.png" group-title="香港",凤凰香港台
+https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
+#EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来体育.png" group-title="台湾",纬来体育台
+https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
+#EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来体育.png" group-title="台湾",纬来体育台
+https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
+#EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来体育.png" group-title="台湾",纬来体育台
+https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
+#EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来体育.png" group-title="台湾",纬来体育台
+https://hls-gateway.vpstv.net/streams/477026.m3u8
+#EXTINF:-1 tvg-id="纬来育乐台" tvg-name="纬来育乐台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来育乐.png" group-title="台湾",纬来育乐台
+https://hls-gateway.vpstv.net/streams/477081.m3u8
+#EXTINF:-1 tvg-id="三立台湾台" tvg-name="三立台湾台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三立台湾.png" group-title="台湾",三立台湾台
+https://hls-gateway.vpstv.net/streams/477050.m3u8
+#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三立新闻.png" group-title="台湾",三立新闻
+https://hls-gateway.vpstv.net/streams/492922.m3u8
+#EXTINF:-1 tvg-id="东森综合台" tvg-name="东森综合台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森综合.png" group-title="台湾",东森综合台
+https://hls-gateway.vpstv.net/streams/476987.m3u8
+#EXTINF:-1 tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森电影.png" group-title="台湾",东森电影台
+https://hls-gateway.vpstv.net/streams/476995.m3u8
+#EXTINF:-1 tvg-id="靖天资讯台" tvg-name="靖天资讯台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天资讯.png" group-title="台湾",靖天资讯台
+https://hls-gateway.vpstv.net/streams/476258.m3u8
+#EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来电影.png" group-title="台湾",纬来电影台
+https://hls-gateway.vpstv.net/streams/477063.m3u8
+#EXTINF:-1 tvg-id="靖天映画台" tvg-name="靖天映画台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天映画.png" group-title="台湾",靖天映画台
+https://hls-gateway.vpstv.net/streams/476302.m3u8
+#EXTINF:-1 tvg-id="东森洋片台" tvg-name="东森洋片台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森洋片.png" group-title="台湾",东森洋片台
+https://hls-gateway.vpstv.net/streams/476997.m3u8
+#EXTINF:-1 tvg-id="凤凰中文台" tvg-name="凤凰中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="香港",凤凰中文台
+http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
+#EXTINF:-1 tvg-id="凤凰香港台" tvg-name="凤凰香港台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="香港",凤凰香港台
+http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
+#EXTINF:-1 tvg-id="三立戏剧台" tvg-name="三立戏剧台" group-title="台湾",三立戏剧台
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 tvg-id="龙华电影台" tvg-name="龙华电影台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV1.png" group-title="台湾",龙华电影台
+https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+#EXTINF:-1 tvg-id="龙华洋片台" tvg-name="龙华洋片台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV2.png" group-title="台湾",龙华洋片台
+https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+#EXTINF:-1 tvg-id="龙华经典台" tvg-name="龙华经典台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV7.png" group-title="台湾",龙华经典台
+https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+#EXTINF:-1 tvg-id="龙华卡通台" tvg-name="龙华卡通台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV8.png" group-title="台湾",龙华卡通台
+https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+#EXTINF:-1 tvg-id="龙华偶像台" tvg-name="龙华偶像台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV6.png" group-title="台湾",龙华偶像台
+https://cdn8.163189.xyz/live/lhox/stream.m3u8
+#EXTINF:-1 tvg-id="龙华日韩台" tvg-name="龙华日韩台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV5.png" group-title="台湾",龙华日韩台
+https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+#EXTINF:-1 tvg-id="龙华戏剧台" tvg-name="龙华戏剧台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV4.png" group-title="台湾",龙华戏剧台
+https://cdn8.163189.xyz/live/lhxj/stream.m3u8

@@ -1,0 +1,3 @@
+# ETH 独立源池(每行一个源地址,支持 TVBox txt 或 m3u 格式)
+# 这些源只用于生成 eth.m3u / eth.txt,不会混进 hmt.m3u
+https://raw.githubusercontent.com/ccm789/epg/main/eth_source_raw.txt

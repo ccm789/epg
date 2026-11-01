@@ -121,17 +121,9 @@ def main():
         print('没有拉到任何源,放弃更新(保留旧文件)')
         return 0
 
-    # 2) 真解码复检
-    print('ffprobe 复检中...')
-    with concurrent.futures.ThreadPoolExecutor(20) as ex:
-        flags = list(ex.map(lambda x: probe(x['url']), raw))
-    alive = [x for x, ok in zip(raw, flags) if ok]
-    print(f'可播: {len(alive)} / {len(raw)}')
-
-    # 3) 保护:通过率太低视为异常,不覆盖
-    if len(raw) > 20 and len(alive) / len(raw) < 0.10:
-        print('通过率低于 10%,疑似源站异常,本次不覆盖')
-        return 0
+    # 2) 不做筛选!这些流多有地区限制,测试机连不上≠死链(用户实测可播)
+    #    只做格式转换,全量保留
+    alive = raw
 
     write_m3u(alive, OUT_M3U)
     write_txt(alive, OUT_TXT)

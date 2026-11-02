@@ -55,5 +55,15 @@ print('HK icons:', st[0], 'miss', st[1])
 
 merged = '<?xml version="1.0" encoding="UTF-8"?>\n<tv generator-info-name="merged-epg">\n' \
          + hk2 + ('\n\n' + body_of(tw) if tw else '') + '\n</tv>\n'
+# 统一转成北京时间 +0800,避免部分播放器不转时区导致节目偏移8小时
+import datetime
+def _cv(m):
+    off = m.group(2)
+    if off == '+0800': return m.group(0)
+    dt = datetime.datetime.strptime(m.group(1), '%Y%m%d%H%M%S')
+    if off == '+0000': dt += datetime.timedelta(hours=8)
+    return dt.strftime('%Y%m%d%H%M%S') + ' +0800'
+merged, _n = re.subn(r'(\d{14}) (\+\d{4})', _cv, merged)
+print('时间转+0800:', _n)
 open('epg.xml','w',encoding='utf-8').write(merged)
 print('written', len(merged))

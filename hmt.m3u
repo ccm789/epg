@@ -153,3 +153,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9901
 https://cdn.qd.je/163189/fct4k
 #EXTINF:-1 tvg-id="Radio Punto Zero TV" tvg-name="Radio Punto Zero TV" tvg-logo="https://hostux.pics/images/2026/09/11/16_radio_punto_zero_tvb293db9d29587093.png" group-title="香港",Radio Punto Zero TV
 https://58d921499d3d3.streamlock.net/RPZ/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTHKTV31.hk@SD" tvg-name="港台电视31" tvg-logo="https://i.imgur.com/kf818kM.png" group-title="香港",港台电视31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 tvg-id="RTHKTV31.hk@SD" tvg-name="港台电视31" tvg-logo="" group-title="香港",港台电视31
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8

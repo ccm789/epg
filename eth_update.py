@@ -70,6 +70,49 @@ def probe(url):
         return False
 
 
+def load_logos():
+    """从 fanmingming/live 台标库建 频道名->台标文件 映射"""
+    try:
+        from opencc import OpenCC
+        t2s = OpenCC('t2s'); s2t = OpenCC('s2t')
+    except Exception:
+        t2s = s2t = None
+    def norm(s):
+        s = t2s.convert(s) if t2s else s
+        return re.sub(r'[\s（）()·．.\-]', '', s).lower()
+    try:
+        r = subprocess.run(['curl', '-sL', '-m', '60',
+            'https://data.jsdelivr.com/v1/packages/gh/fanmingming/live@main?structure=flat'],
+            capture_output=True, text=True)
+        import json as _json
+        files = [f['name'] for f in _json.loads(r.stdout).get('files', [])
+                 if f['name'].startswith('/tv/') and f['name'].endswith('.png')]
+    except Exception as e:
+        print('拉台标清单失败:', e); return {}
+    lmap = {}
+    for f in files:
+        lmap.setdefault(norm(f[4:-4]), f[4:-4])
+    return lmap
+
+
+def find_logo(name, lmap):
+    if not lmap: return None
+    try:
+        from opencc import OpenCC
+        t2s = OpenCC('t2s'); s2t = OpenCC('s2t')
+    except Exception:
+        t2s = s2t = None
+    def norm(s):
+        s = t2s.convert(s) if t2s else s
+        return re.sub(r'[\s（）()·．.\-]', '', s).lower()
+    for c in [name] + ([s2t.convert(name)] if s2t else []) + ([t2s.convert(name)] if t2s else []):
+        k = norm(c)
+        if k in lmap: return lmap[k]
+        k2 = re.sub(r'(台|頻道|频道)$', '', k)
+        if k2 in lmap: return lmap[k2]
+    return None
+
+
 def load_epg_ids():
     """从 epg.xml 读 频道名->数字ID 映射,用于把 tvg-id 写成播放器能匹配的形式"""
     import xml.etree.ElementTree as ET
@@ -98,7 +141,7 @@ def load_epg_ids():
     return m
 
 
-def write_m3u(items, path, epg_ids=None):
+def write_m3u(items, path, epg_ids=None, logos=None):
     epg_ids = epg_ids or {}
 
     def norm(s):
@@ -113,7 +156,9 @@ def write_m3u(items, path, epg_ids=None):
     for x in items:
         nm = x['name']
         tid = epg_ids.get(norm(nm), nm)   # 命中 EPG 就写数字ID,否则退回频道名
-        lines.append(f'#EXTINF:-1 tvg-id="{tid}" tvg-name="{nm}" '
+        logo = find_logo(nm, logos or {})
+        lg = f'tvg-logo="https://epg.112114.xyz/logo/{logo}" ' if logo else ''
+        lines.append(f'#EXTINF:-1 {lg}tvg-id="{tid}" tvg-name="{nm}" '
                      f'group-title="{x["group"] or "其他"}",{nm}')
         lines.append(x['url'])
     open(path, 'w', encoding='utf-8').write('\n'.join(lines) + '\n')

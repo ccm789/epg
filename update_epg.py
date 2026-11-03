@@ -105,5 +105,63 @@ def _addnames(m):
     return blk.replace('</channel>', extra+'  </channel>') if extra else blk
 merged, _n2 = re.subn(r'<channel id="\d+">.*?</channel>', _addnames, merged, flags=re.S)
 print('display-name马甲补充频道数:', _n2)
+
+# ============ 合并第三方EPG源(时光轨车/宿命/老张) ============
+# 只并入与我们频道名匹配得上的频道及其节目,外部频道id加前缀防冲突
+import gzip as _gzip, subprocess as _sp
+def _norm(s): return re.sub(r'[\s（）()·．.\-|]', '', _t2s.convert(s)).lower()
+def _fetch_merge(url, prefix, merged, ours):
+    gz = f'/tmp/{prefix}src.xml.gz'
+    for u in [url, 'https://gh-proxy.com/'+url]:
+        try:
+            _sp.run(['curl','-sL','-m','150','-o',gz,u],timeout=160)
+            if open(gz,'rb').read(2)==b'\x1f\x8b':
+                xml=_gzip.open(gz,'rt',encoding='utf-8',errors='ignore').read()
+                break
+            xml=''
+        except Exception: xml=''
+    if not xml: print(prefix,'拉取失败'); return merged,0,0
+    have_ids=set(re.findall(r'<channel id="([^"]+)"',merged))
+    chs=[];keep=[]
+    for m in re.finditer(r'<channel id="([^"]+)">.*?</channel>',xml,re.S):
+        blk=m.group(0)
+        names=[_norm(d) for d in re.findall(r'<display-name[^>]*>([^<]*)<',blk)]
+        if any(n in ours for n in names):
+            newid=prefix+'_'+re.search(r'id="([^"]+)"',blk).group(1)
+            if newid in have_ids: continue
+            chs.append(re.sub(r'<channel id="[^"]+">',f'<channel id="{newid}">',blk,count=1))
+            keep.append(newid)
+    pgs=[]
+    if keep:
+        for m in re.finditer(r'<programme [^>]*?channel="([^"]+)"[^>]*>.*?</programme>',xml,re.S):
+            cid=m.group(1)
+            for k in keep:
+                if cid==k[2:] or cid==k:
+                    pgs.append(re.sub(r'channel="[^"]+"',f'channel="{k}"',m.group(0),count=1))
+                    break
+    print(prefix, f'并入频道 {len(chs)} 节目 {len(pgs)}')
+    if chs or pgs:
+        merged=merged.replace('</tv>','\n'+'\n'.join(chs)+'\n'+'\n'.join(pgs)+'\n</tv>')
+    return merged,len(chs),len(pgs)
+
+# 我们全部频道名(从两条m3u收集)
+import os as _os
+ours=set()
+for _f in ['hmt.m3u','eth.m3u']:
+    if _os.path.exists(_f):
+        for _l in open(_f,encoding='utf-8'):
+            if _l.startswith('#EXTINF'):
+                ours.add(_norm(_l.rsplit(',',1)[-1].strip()))
+EXT_SOURCES=[
+ ('https://raw.githubusercontent.com/sggc/SD-EPG/main/EPG/sggc-desc.xml.gz','g'),
+ ('https://raw.githubusercontent.com/sumingyd/xml/main/epg.xml.gz','s'),
+ ('http://epg.51zmt.top:8000/e1.xml.gz','z'),
+]
+_tch=_tpg=0
+for _u,_p in EXT_SOURCES:
+    merged,c,p=_fetch_merge(_u,_p,merged,ours)
+    _tch+=c; _tpg+=p
+print(f'第三方合并合计: 频道+{_tch} 节目+{_tpg}')
+
 open('epg.xml','w',encoding='utf-8').write(merged)
 print('written', len(merged))

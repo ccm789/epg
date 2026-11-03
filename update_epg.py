@@ -64,24 +64,44 @@ print('时区标记修正:', _n)
 from opencc import OpenCC as _CC
 _t2s, _s2t = _CC('t2s'), _CC('s2t')
 def _variants(name):
-    vs=[name,_t2s.convert(name),_s2t.convert(name)]
-    for v in list(vs):
-        v2=re.sub(r'\s*[(（](免費|普|英|粵|雙語|HD)[)）]','',v)
-        if v2 and v2 not in vs: vs.append(v2)
-        v3=re.sub(r'\s*HD$','',v2)
-        if v3 and v3 not in vs: vs.append(v3)
-    for v in list(vs):
-        v4=v.replace(' ','')
-        if v4 and v4 not in vs: vs.append(v4)
-    return [v for v in vs if v]
+    out=set(); seed={name}
+    for s in list(seed):
+        seed.add(_t2s.convert(s)); seed.add(_s2t.convert(s))
+    for b in seed:
+        b=b.strip()
+        # 去尾注 (普)/[Geo-blocked]/(1080p)
+        core=re.sub(r'\s*[（(][^)）]{1,10}[)）]\s*$','',b)
+        core=re.sub(r'\s*\[[^\]]{1,15}\]\s*$','',core)
+        group={b,core}
+        for c in list(group):
+            group.add(re.sub(r'\s*(HD|高清|4K|SD|FHD|UHD|1080p|720p)$','',c,flags=re.I))
+        for c in group:
+            c=c.strip()
+            if not c: continue
+            out.add(c); out.add(c.replace(' ',''))
+    for v in list(out):
+        for suf in ['電視台','电视台','頻道','频道','衛視','卫视']:
+            if v.endswith(suf) and len(v)-len(suf)>=2:
+                out.add(v[:-len(suf)])
+    # HD / 高清 变体
+    for n in list(out):
+        if re.search(r'(HD|高清)$',n,re.I): continue
+        out.add(n+' HD'); out.add(n+'HD'); out.add(n+' 高清')
+    return sorted(v for v in out if v)
 def _addnames(m):
     blk=m.group(0)
-    dn=re.findall(r'<display-name[^>]*>([^<]*)</display-name>',blk)
+    dn=[x.strip() for x in re.findall(r'<display-name[^>]*>([^<]*)</display-name>',blk)]
     if not dn: return blk
-    have=set(dn); extra=''
-    for v in _variants(dn[0]):
-        if v not in have:
-            extra+='    <display-name lang="zh">%s</display-name>\n'%v; have.add(v)
+    have=set(dn); allv=set()
+    for d in dn: allv|=set(_variants(d))
+    # 中英组合 "English (中文)" 形式,匹配 iptv-org 命名
+    cn=[d for d in dn if re.search(r'[\u4e00-\u9fff]',d)]
+    en=[d for d in dn if re.search(r'[A-Za-z]{2,}',d) and not re.search(r'[\u4e00-\u9fff]',d)]
+    if cn and en:
+        for e in en[:2]:
+            for c in cn[:2]:
+                allv.add(f'{e} ({c})'); allv.add(f'{e}({c})')
+    extra=''.join('    <display-name lang="zh">%s</display-name>\n'%v for v in sorted(allv-have))
     return blk.replace('</channel>', extra+'  </channel>') if extra else blk
 merged, _n2 = re.subn(r'<channel id="\d+">.*?</channel>', _addnames, merged, flags=re.S)
 print('display-name马甲补充频道数:', _n2)

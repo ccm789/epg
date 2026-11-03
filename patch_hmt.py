@@ -1,13 +1,17 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """精简 epg.xml：删除大陆台，只保留港澳台；并给保留频道补全/统一 fanmingming 台标。"""
-import re, json, os
+import re, json, os, urllib.request
 from opencc import OpenCC
 t2s = OpenCC('t2s'); s2t = OpenCC('s2t')
 
-# ---------- fanmingming 台标清单 ----------
-tree = json.load(open('/tmp/fm_tree.json', encoding='utf-8'))
-logos = [x['path'][3:] for x in tree['tree']
+def _fetch(url, timeout=120):
+    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    return urllib.request.urlopen(req, timeout=timeout).read().decode('utf-8', 'ignore')
+
+# ---------- fanmingming 台标清单 (运行时从 GitHub API 拉取, 不依赖本地文件) ----------
+_tree = json.loads(_fetch('https://api.github.com/repos/fanmingming/live/git/trees/main'))
+logos = [x['path'][3:] for x in _tree['tree']
          if x['path'].startswith('tv/') and x['path'].endswith('.png')]
 def norm(s):
     s = t2s.convert(s); s = re.sub(r'[\s（）()·．.\-|/]', '', s); return s.lower()

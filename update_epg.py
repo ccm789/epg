@@ -165,3 +165,33 @@ print(f'第三方合并合计: 频道+{_tch} 节目+{_tpg}')
 
 open('epg.xml','w',encoding='utf-8').write(merged)
 print('written', len(merged))
+
+# ============ 收口：统一格式 + 清过期 ============
+from datetime import datetime as _dt, timezone as _tz, timedelta as _td
+from collections import defaultdict as _dd
+_src = open('epg.xml', encoding='utf-8').read()
+_h = re.search(r'<tv[^>]*>', _src).group(0)
+_chans, _order = {}, []
+for _m in re.finditer(r'<channel id="([^"]+)">(.*?)</channel>', _src, re.S):
+    _chans[_m.group(1)] = _m.group(0); _order.append(_m.group(1))
+_now = _dt.now(_tz(_td(hours=8))).strftime('%Y%m%d%H%M%S')
+_pg = _dd(list); _fmt_fix = 0
+for _m in re.finditer(r'<programme\b([^>]*)>(.*?)</programme>', _src, re.S):
+    _a, _b = _m.group(1), _m.group(2)
+    _c = re.search(r'channel="([^"]+)"', _a)
+    _s = re.search(r'start="(\d{14})', _a)
+    _e = re.search(r'stop="(\d{14})', _a)
+    if not (_c and _s and _e): continue
+    if _e.group(1) <= _now: continue          # 丢过期
+    if not _a.lstrip().startswith('channel'): _fmt_fix += 1
+    _pg[_c.group(1)].append(
+        '<programme channel="%s" start="%s +0800" stop="%s +0800">%s</programme>'
+        % (_c.group(1), _s.group(1), _e.group(1), _b))
+_out = [_h]
+for _c in _order:
+    if not _pg.get(_c): continue              # 丢无节目频道
+    _out.append(_chans[_c]); _out.extend(_pg[_c])
+_out.append('</tv>')
+open('epg.xml', 'w', encoding='utf-8').write('\n'.join(_out) + '\n')
+print('收口: 频道', sum(1 for _c in _order if _pg.get(_c)),
+      '节目', sum(len(v) for v in _pg.values()), '格式修正', _fmt_fix)

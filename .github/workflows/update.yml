@@ -1,7 +1,7 @@
 name: update-epg
 on:
   schedule:
-    - cron: '0 1 * * *'
+    - cron: '40 */8 * * *'
   workflow_dispatch:
 jobs:
   build:

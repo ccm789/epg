@@ -5,7 +5,7 @@ http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-id="456645" tvg-name="台视新闻" group-title="台湾",台视新闻
 https://live.wcetv.com/hls/master-ttvnews.m3u8
-#EXTINF:-1 tvg-id="唯心电视" tvg-name="唯心电视" group-title="台湾",唯心电视
+#EXTINF:-1 tvg-id="456631" tvg-name="唯心电视" group-title="台湾",唯心电视
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1 tvg-id="370148" tvg-name="TVBS Asia" group-title="香港",TVBS Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
@@ -23,7 +23,7 @@ http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 #EXTINF:-1 tvg-id="Hope" tvg-name="Hope" group-title="台湾",Hope
 http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1 tvg-id="亚洲新闻" tvg-name="亚洲新闻" group-title="香港",亚洲新闻
+#EXTINF:-1 tvg-id="410309" tvg-name="亚洲新闻" group-title="香港",亚洲新闻
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 #EXTINF:-1 tvg-id="新唐人" tvg-name="新唐人" group-title="台湾",新唐人
 https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
@@ -115,7 +115,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
 #EXTINF:-1 tvg-id="Number One Damar" tvg-name="Number One Damar" group-title="土耳其",Number One Damar
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
-#EXTINF:-1 tvg-id="Moviesphere" tvg-name="Moviesphere" group-title="奥地利",Moviesphere
+#EXTINF:-1 tvg-id="410284" tvg-name="Moviesphere" group-title="奥地利",Moviesphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Omrop Fryslân" tvg-name="Omrop Fryslân" group-title="荷兰",Omrop Fryslân
 https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/f8f68bd5/playlist.m3u8
@@ -149,7 +149,7 @@ http://125.227.210.55:1003/VideoInput/play.ts
 https://lbs-us1.suprememastertv.com/720p.m3u8
 #EXTINF:-1 tvg-id="368350" tvg-name="KIX" tvg-logo="https://i.imgur.com/zWcUAdb.png" group-title="香港",KIX
 https://freem3u.xyz/api/live/play.m3u8?vid=9901
-#EXTINF:-1 tvg-id="翡翠台4K" tvg-name="翡翠台4K" tvg-logo="https://epg.112114.xyz/logo/%E7%BF%A1%E7%BF%A0%E5%8F%B04K(%E5%AD%97%E5%B9%95).png" group-title="台湾",翡翠台4K
+#EXTINF:-1 tvg-id="368366" tvg-name="翡翠台4K" tvg-logo="https://epg.112114.xyz/logo/%E7%BF%A1%E7%BF%A0%E5%8F%B04K(%E5%AD%97%E5%B9%95).png" group-title="台湾",翡翠台4K
 https://cdn.qd.je/163189/fct4k
 #EXTINF:-1 tvg-id="Radio Punto Zero TV" tvg-name="Radio Punto Zero TV" tvg-logo="https://hostux.pics/images/2026/09/11/16_radio_punto_zero_tvb293db9d29587093.png" group-title="香港",Radio Punto Zero TV
 https://58d921499d3d3.streamlock.net/RPZ/livestream/playlist.m3u8

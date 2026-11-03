@@ -70,11 +70,50 @@ def probe(url):
         return False
 
 
-def write_m3u(items, path):
+def load_epg_ids():
+    """从 epg.xml 读 频道名->数字ID 映射,用于把 tvg-id 写成播放器能匹配的形式"""
+    import xml.etree.ElementTree as ET
+    m = {}
+    try:
+        from opencc import OpenCC
+        t2s = OpenCC('t2s')
+    except Exception:
+        t2s = None
+
+    def norm(s):
+        s = t2s.convert(s) if t2s else s
+        s = re.sub(r'[\s（）()·．.\-|備HD]', '', s)
+        return s.lower()
+
+    try:
+        root = ET.parse('epg.xml').getroot()
+    except Exception as e:
+        print('读 epg.xml 失败,不做 EPG 绑定:', e)
+        return {}
+    for ch in root.findall('channel'):
+        cid = ch.get('id')
+        for dn in ch.findall('display-name'):
+            if dn.text:
+                m.setdefault(norm(dn.text), cid)
+    return m
+
+
+def write_m3u(items, path, epg_ids=None):
+    epg_ids = epg_ids or {}
+
+    def norm(s):
+        try:
+            from opencc import OpenCC
+            s = OpenCC('t2s').convert(s)
+        except Exception:
+            pass
+        return re.sub(r'[\s（）()·．.\-|備HD]', '', s).lower()
+
     lines = ['#EXTM3U']
     for x in items:
         nm = x['name']
-        lines.append(f'#EXTINF:-1 tvg-id="{nm}" tvg-name="{nm}" '
+        tid = epg_ids.get(norm(nm), nm)   # 命中 EPG 就写数字ID,否则退回频道名
+        lines.append(f'#EXTINF:-1 tvg-id="{tid}" tvg-name="{nm}" '
                      f'group-title="{x["group"] or "其他"}",{nm}')
         lines.append(x['url'])
     open(path, 'w', encoding='utf-8').write('\n'.join(lines) + '\n')
@@ -125,7 +164,9 @@ def main():
     #    只做格式转换,全量保留
     alive = raw
 
-    write_m3u(alive, OUT_M3U)
+    epg_ids = load_epg_ids()
+    print('EPG 频道表:', len(epg_ids), '条')
+    write_m3u(alive, OUT_M3U, epg_ids)
     write_txt(alive, OUT_TXT)
     from collections import Counter
     print('分组分布:', dict(Counter(x['group'] for x in alive)))

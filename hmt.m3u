@@ -7,7 +7,7 @@ https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 https://live.wcetv.com/hls/master-ttvnews.m3u8
 #EXTINF:-1 tvg-id="456631" tvg-name="唯心电视" group-title="台湾",唯心电视
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 tvg-id="370148" tvg-name="TVBS Asia" group-title="香港",TVBS Asia
+#EXTINF:-1 tvg-id="456557" tvg-name="TVBS Asia" group-title="香港",TVBS Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-id="410378" tvg-name="凤凰中文台" group-title="台湾",凤凰中文台
 http://173.208.234.146/live/fhzw.m3u8
@@ -75,17 +75,17 @@ https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 #EXTINF:-1 tvg-id="Desi Plus" tvg-name="Desi Plus" group-title="印度",Desi Plus
 http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Sanskar TV" tvg-name="Sanskar TV" group-title="印度",Sanskar TV
+#EXTINF:-1 tvg-id="410316" tvg-name="Sanskar TV" group-title="印度",Sanskar TV
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
 #EXTINF:-1 tvg-id="Sansad TV 1" tvg-name="Sansad TV 1" group-title="印度",Sansad TV 1
 https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8
 #EXTINF:-1 tvg-id="Sansad TV 2" tvg-name="Sansad TV 2" group-title="印度",Sansad TV 2
 https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
-#EXTINF:-1 tvg-id="DD Sports SD" tvg-name="DD Sports SD" group-title="印度",DD Sports SD
+#EXTINF:-1 tvg-id="410316" tvg-name="DD Sports SD" group-title="印度",DD Sports SD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-id="DD Punjabi" tvg-name="DD Punjabi" group-title="印度",DD Punjabi
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8
-#EXTINF:-1 tvg-id="Hyder TV" tvg-name="Hyder TV" group-title="印度",Hyder TV
+#EXTINF:-1 tvg-id="410316" tvg-name="Hyder TV" group-title="印度",Hyder TV
 https://cdn.live247stream.com/hyder/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Odisha TV" tvg-name="Odisha TV" group-title="印度",Odisha TV
 https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
@@ -105,7 +105,7 @@ http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-id="俄罗斯camapa" tvg-name="俄罗斯camapa" group-title="俄罗斯",俄罗斯camapa
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TRT Muzik" tvg-name="TRT Muzik" group-title="土耳其",TRT Muzik
+#EXTINF:-1 tvg-id="410316" tvg-name="TRT Muzik" group-title="土耳其",TRT Muzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Number One Turk" tvg-name="Number One Turk" group-title="土耳其",Number One Turk
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
@@ -139,13 +139,13 @@ http://125.227.210.55:4050/VideoInput/play.ts
 https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
 #EXTINF:-1 tvg-id="456622" tvg-name="大立电视台" tvg-logo="https://i.imgur.com/pFIMLsA.png" group-title="台湾",大立电视台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-id="410293" tvg-name="Discovery亚洲台" tvg-logo="https://i.imgur.com/foLICwL.png" group-title="台湾",Discovery亚洲台
+#EXTINF:-1 tvg-id="456519" tvg-name="Discovery亚洲台" tvg-logo="https://i.imgur.com/foLICwL.png" group-title="台湾",Discovery亚洲台
 http://125.227.210.55:1004/VideoInput/play.ts
 #EXTINF:-1 tvg-id="HakkaTV.tw@SD" tvg-name="Hakka TV" tvg-logo="https://i.imgur.com/1CdGSbU.png" group-title="台湾",Hakka TV
 https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
 #EXTINF:-1 tvg-id="410283" tvg-name="HBO Asia Taiwan" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png" group-title="台湾",HBO Asia Taiwan
 http://125.227.210.55:1003/VideoInput/play.ts
-#EXTINF:-1 tvg-id="SupremeMasterTV.tw@SD" tvg-name="Supreme Master TV" tvg-logo="https://i.imgur.com/kFMHayP.png" group-title="台湾",Supreme Master TV
+#EXTINF:-1 tvg-id="410316" tvg-name="Supreme Master TV" tvg-logo="https://i.imgur.com/kFMHayP.png" group-title="台湾",Supreme Master TV
 https://lbs-us1.suprememastertv.com/720p.m3u8
 #EXTINF:-1 tvg-id="368350" tvg-name="KIX" tvg-logo="https://i.imgur.com/zWcUAdb.png" group-title="香港",KIX
 https://freem3u.xyz/api/live/play.m3u8?vid=9901

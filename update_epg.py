@@ -59,5 +59,31 @@ merged = '<?xml version="1.0" encoding="UTF-8"?>\n<tv generator-info-name="merge
 # 只改标记为 +0800,时间数字保持不变(不能加8小时,否则偏8小时)
 merged, _n = re.subn(r'(\d{14}) \+0000', r'\1 +0800', merged)
 print('时区标记修正:', _n)
+# 给每个频道追加 display-name 马甲(简体/繁体/去HD/去尾注/去空格),
+# 这样其他源的 m3u 无论用哪种写法都能按名字匹配到 EPG
+from opencc import OpenCC as _CC
+_t2s, _s2t = _CC('t2s'), _CC('s2t')
+def _variants(name):
+    vs=[name,_t2s.convert(name),_s2t.convert(name)]
+    for v in list(vs):
+        v2=re.sub(r'\s*[(（](免費|普|英|粵|雙語|HD)[)）]','',v)
+        if v2 and v2 not in vs: vs.append(v2)
+        v3=re.sub(r'\s*HD$','',v2)
+        if v3 and v3 not in vs: vs.append(v3)
+    for v in list(vs):
+        v4=v.replace(' ','')
+        if v4 and v4 not in vs: vs.append(v4)
+    return [v for v in vs if v]
+def _addnames(m):
+    blk=m.group(0)
+    dn=re.findall(r'<display-name[^>]*>([^<]*)</display-name>',blk)
+    if not dn: return blk
+    have=set(dn); extra=''
+    for v in _variants(dn[0]):
+        if v not in have:
+            extra+='    <display-name lang="zh">%s</display-name>\n'%v; have.add(v)
+    return blk.replace('</channel>', extra+'  </channel>') if extra else blk
+merged, _n2 = re.subn(r'<channel id="\d+">.*?</channel>', _addnames, merged, flags=re.S)
+print('display-name马甲补充频道数:', _n2)
 open('epg.xml','w',encoding='utf-8').write(merged)
 print('written', len(merged))

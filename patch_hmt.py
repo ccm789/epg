@@ -6,18 +6,26 @@ from opencc import OpenCC
 t2s = OpenCC('t2s'); s2t = OpenCC('s2t')
 
 def _fetch(url, timeout=120):
-    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    h = {'User-Agent': 'Mozilla/5.0'}
+    tk = os.environ.get('GH_TOKEN')
+    if tk:
+        h['Authorization'] = 'token ' + tk
+    req = urllib.request.Request(url, headers=h)
     return urllib.request.urlopen(req, timeout=timeout).read().decode('utf-8', 'ignore')
 
-# ---------- fanmingming 台标清单 (运行时从 GitHub API 拉取, 不依赖本地文件) ----------
-_tree = json.loads(_fetch('https://api.github.com/repos/fanmingming/live/git/trees/main'))
-logos = [x['path'][3:] for x in _tree['tree']
-         if x['path'].startswith('tv/') and x['path'].endswith('.png')]
+# ---------- fanmingming 台标清单 (运行时从 GitHub API 拉取; 失败则跳过补标但不影响删大陆台) ----------
+try:
+    _tree = json.loads(_fetch('https://api.github.com/repos/fanmingming/live/git/trees/main?recursive=1'))
+    logos = [x['path'][3:] for x in _tree['tree']
+             if x['path'].startswith('tv/') and x['path'].endswith('.png')]
+except Exception as e:
+    print('fanmingming 清单拉取失败, 本次跳过台标补全:', e)
+    logos = []
 def norm(s):
     s = t2s.convert(s); s = re.sub(r'[\s（）()·．.\-|/]', '', s); return s.lower()
 lmap = {}
 for l in logos:
-    lmap.setdefault(norm(l[:-4]), l[:-4])
+    lmap.setdefault(norm(l[:-4]), l)   # value 含 .png 后缀, 保证 URL 可直接访问
 
 alias = {'港台电视31':'RTHK31','港台电视32':'RTHK32','港台电视33':'RTHK33','港台电视34':'RTHK34',
  '港台电视35':'RTHK35','ViuTV':'viutv','ViuTVsix':'viutv6','TVB Plus':'TVB+','翡翠台':'TVB翡翠台',

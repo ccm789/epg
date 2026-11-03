@@ -16,6 +16,8 @@ jobs:
       - run: pip install opencc-python-reimplemented
       - run: python update_epg.py
       - run: python patch_hmt.py
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: commit
         run: |
           git config user.name "epg-bot"

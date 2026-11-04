@@ -11183,6 +11183,7 @@
     <display-name lang="zh">CCM</display-name>
   </channel>
 <channel id="s_CELESTIALMOVIESHD">
+    <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080826681228_80.png" />
     <display-name lang="zh">CELESTIALMOVIESHD</display-name>
   </channel>
 <channel id="s_CTI Asia (HD)">
@@ -11634,6 +11635,7 @@
     <display-name lang="zh">大爱二台</display-name>
   </channel>
 <channel id="s_天映经典">
+    <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080826681228_80.png" />
     <display-name lang="zh">天映经典</display-name>
     <display-name lang="zh">天映经典频道</display-name>
   </channel>

@@ -1037,7 +1037,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=2065365bf39b7c4c1d77d21438c7
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3576375bf893
 #EXTINF:-1 tvg-id="" tvg-name="QJ HD" group-title="馬來西亞",QJ HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=25795433f4
-#EXTINF:-1 tvg-id="s_CELESTIALMOVIESHD" tvg-name="CELESTIAL HD" group-title="馬來西亞",CELESTIAL HD
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609080826681228_80.png" tvg-id="s_CELESTIALMOVIESHD" tvg-name="CELESTIAL HD" group-title="馬來西亞",CELESTIAL HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3776383ee383745e021ed970
 #EXTINF:-1 tvg-id="s_TVBJ" tvg-name="TVBJ" group-title="馬來西亞",TVBJ
 http://atryffad.usa3.345123.xyz/eth_play.php?name=20653631
@@ -1897,7 +1897,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=2041150dd5bb456f6e76d5
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c46165bf5f77e763a47b17c34
 #EXTINF:-1 tvg-id="s_Hub VV Drama HD" tvg-name="Hub VVDrama HD" group-title="新加坡",Hub VVDrama HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c46165be681796d2f53f01438c7
-#EXTINF:-1 tvg-id="s_CELESTIALMOVIESHD" tvg-name="Celestial Movies HD" group-title="新加坡",Celestial Movies HD
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609080826681228_80.png" tvg-id="s_CELESTIALMOVIESHD" tvg-name="Celestial Movies HD" group-title="新加坡",Celestial Movies HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3756181ec3a3547e221edc5b06ea31745138ba
 #EXTINF:-1 tvg-id="s_Hub Ruyi" tvg-name="HubRuyi" group-title="新加坡",HubRuyi
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c461629c5ae54
@@ -1909,7 +1909,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=3e5a155bfcb2
 http://atryffad.usa3.345123.xyz/eth_play.php?name=111e381e
 #EXTINF:-1 tvg-id="" tvg-name="Ju-Le-Cool" group-title="新加坡",Ju-Le-Cool
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3e465937d5fa7e702152
-#EXTINF:-1 tvg-id="s_CELESTIALMOVIESHD" tvg-name="Celestial Movies (1080p)" group-title="新加坡",Celestial Movies (1080p)
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609080826681228_80.png" tvg-id="s_CELESTIALMOVIESHD" tvg-name="Celestial Movies (1080p)" group-title="新加坡",Celestial Movies (1080p)
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3756181ec3a3547e221edc5b06ea31745158cff6918c7e5c
 #EXTINF:-1 tvg-id="456655" tvg-name="HBO HD" group-title="新加坡",HBO HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c713b5bf893

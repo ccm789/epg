@@ -202,6 +202,58 @@ for extra in ('epg_kr.xml', 'epg_my_fg.xml'):
         nch += b.count('<channel id=')
         nprog += b.count('<programme')
         merged.append(b)
+# ---------- Singtel CAST 官方台标源（用户提供的订阅，含新加坡/马来西亚大量官方台标） ----------
+SINGTEL_M3U = 'http://38.134.40.167:9100/sub/xzpsOpfumRG6/playlist.m3u'
+def _snorm(x):
+    return re.sub(r'[\s\(\)\-\.]+', '', x.strip().lower())
+def build_singtel_logos():
+    try:
+        src = fetch(SINGTEL_M3U).decode('utf-8', errors='ignore') if isinstance(fetch(SINGTEL_M3U), bytes) else fetch(SINGTEL_M3U)
+    except Exception as e:
+        print('singtel logo fetch fail:', e)
+        return {}
+    logos = {}
+    for m in re.finditer(r'#EXTINF:-1[^\n]*?tvg-name="([^"]*)"[^\n]*?tvg-logo="([^"]*)"', src):
+        k = _snorm(m.group(1)); v = m.group(2)
+        logos[k] = v
+        if k.endswith('hd'):
+            logos[k[:-2]] = v
+        if 'ch' in k:
+            logos[k.replace('ch', 'channel', 1)] = v
+        if 'channel' in k:
+            logos[k.replace('channel', 'ch', 1)] = v
+    print('singtel logos:', len(logos))
+    return logos
+
+def inject_icons(text, logos):
+    if not logos:
+        return text
+    n = [0]
+    def repl(m):
+        cid, body = m.group(1), m.group(2)
+        if '<icon' in body:
+            return m.group(0)
+        names = re.findall(r'<display-name[^>]*>([^<]*)</display-name>', body)
+        logo = None
+        for name in names:
+            cands = {_snorm(name), _snorm(re.sub(r'\s*HD$', '', name, flags=re.I))}
+            for c in list(cands):
+                for v in (c, c + 'hd', c.replace('channel', 'ch', 1), c.replace('ch', 'channel', 1)):
+                    if v in logos:
+                        logo = logos[v]; break
+                if logo: break
+            if logo: break
+        if not logo:
+            return m.group(0)
+        n[0] += 1
+        lines = body.rstrip().splitlines()
+        idx = max(i for i, l in enumerate(lines) if l.strip().startswith('<display-name'))
+        lines.insert(idx + 1, f'    <icon src="{logo}" />')
+        return f'<channel id="{cid}">' + '\n'.join(lines) + '\n  </channel>'
+    text = re.sub(r'<channel id="([^"]+)">(.*?)</channel>', repl, text, flags=re.S)
+    print('icons injected:', n[0])
+    return text
+
 # ---------- 别名：兼容播放列表里的常见叫法（TiviMate 名称匹配用） ----------
 ALIAS = {
     '492816': ['CH-5', 'CH5', '5 CH-5', '新传媒5频道'],           # Channel 5
@@ -234,6 +286,7 @@ if merged:
     final = ('<?xml version="1.0" encoding="UTF-8"?>\n<tv generator-info-name="epgsgmy" source-info-url="https://epg.pw">\n'
              + '\n'.join(merged) + '\n</tv>\n')
     final = add_aliases(final)
+    final = inject_icons(final, build_singtel_logos())
     with open('epg_sgmy.xml', 'w', encoding='utf-8') as f:
         f.write(final)
     print(f'epg_sgmy.xml: {nch} channels, {nprog} programmes, {os.path.getsize("epg_sgmy.xml")//1024}KB')

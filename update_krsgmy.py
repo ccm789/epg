@@ -152,6 +152,37 @@ try:
 except Exception as e:
     print('KR extract fail:', e)
 
+# ---------- 马来西亚：从 filegear 源提取直名频道（与播放列表同名，自动适配） ----------
+FG_MY = {'TV1': ['TV1'], 'TV2': ['TV2'], 'TVS': ['TVS'],
+         'BERITARTM': ['BERITA rtm', 'Berita RTM'],
+         'BERNAMATV': ['Bernama News', 'BERNAMATV'],
+         'SUKAN+': ['SUKAN rtm', 'Sukan RTM', 'SUKAN+'],
+         'TVALHIJRAH': ['TV ALHIJRAH', 'Al-Hijrah'],
+         'TVOKEY': ['TV OKEY', 'Okey'],
+         'AWANI': ['Astro AWANI', 'AWANI']}
+try:
+    extra_ch, extra_prog = {}, []
+    for m in re.finditer(r'<programme channel="([^"]+)" start="(\d{14}) \+0800" stop="(\d{14}) \+0800">(.*?)</programme>', data, re.S):
+        if m.group(1) in FG_MY:
+            st, sp, body = m.group(2), m.group(3), m.group(4)
+            if datetime.datetime.strptime(sp[:14], '%Y%m%d%H%M%S') > NOW:
+                extra_prog.append(f'<programme channel="{m.group(1)}" start="{st} +0800" stop="{sp} +0800">{body}</programme>')
+    lines = ['<?xml version="1.0" encoding="UTF-8"?>',
+             '<tv generator-info-name="epgsgmy" source-info-url="https://epg.946985.filegear-sg.me">']
+    for cid, names in FG_MY.items():
+        if not any(p.split('"')[2] == cid for p in []): pass
+        lines.append(f'  <channel id="{cid}">')
+        for n in names:
+            lines.append(f'    <display-name lang="zh">{n}</display-name>')
+        lines.append('  </channel>')
+    lines += extra_prog
+    lines.append('</tv>')
+    with open('epg_my_fg.xml', 'w', encoding='utf-8') as f:
+        f.write('\n'.join(lines))
+    print(f'epg_my_fg.xml: {len(FG_MY)} channels, {len(extra_prog)} programmes, {os.path.getsize("epg_my_fg.xml")//1024}KB')
+except Exception as e:
+    print('FG MY extract fail:', e)
+
 # ---------- 合并为单文件 epg_sgmy.xml ----------
 def body_of(path):
     x = open(path, encoding='utf-8').read()
@@ -162,6 +193,12 @@ merged, nch, nprog = [], 0, 0
 for cc, out, tz, keep in COUNTRIES:
     if os.path.exists(out):
         b = body_of(out)
+        nch += b.count('<channel id=')
+        nprog += b.count('<programme')
+        merged.append(b)
+for extra in ('epg_kr.xml', 'epg_my_fg.xml'):
+    if os.path.exists(extra):
+        b = body_of(extra)
         nch += b.count('<channel id=')
         nprog += b.count('<programme')
         merged.append(b)

@@ -19,6 +19,6 @@ jobs:
         run: |
           git config user.name "epg-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add epg_sg.xml epg_my.xml epg_kr.xml 2>/dev/null || git add epg_sg.xml epg_my.xml
+          git add epg_sgmy.xml epg_kr.xml 2>/dev/null || git add epg_sgmy.xml
           git diff --cached --quiet || git commit -m "kr-sg-my update $(date -u +%F-%H)"
           git push

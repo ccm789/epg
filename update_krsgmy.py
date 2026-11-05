@@ -110,4 +110,23 @@ for cc, out, tz, keep in COUNTRIES:
     with open(out, 'w', encoding='utf-8') as f:
         f.write('\n'.join(lines))
     print(f'{out}: {len(keep_ids)} channels, {len(kept_progs)} programmes (dropped expired {dropped}), logos {logo_n}, {os.path.getsize(out)//1024}KB')
+
+# ---------- 合并为单文件 epg_sgmy.xml ----------
+def body_of(path):
+    x = open(path, encoding='utf-8').read()
+    rest = x.split('<tv ', 1)[1].split('>', 1)[1]
+    return rest.rsplit('</tv>', 1)[0].strip()
+
+merged, nch, nprog = [], 0, 0
+for cc, out, tz, keep in COUNTRIES:
+    if os.path.exists(out):
+        b = body_of(out)
+        nch += b.count('<channel id=')
+        nprog += b.count('<programme')
+        merged.append(b)
+if merged:
+    with open('epg_sgmy.xml', 'w', encoding='utf-8') as f:
+        f.write('<?xml version="1.0" encoding="UTF-8"?>\n<tv generator-info-name="epgsgmy" source-info-url="https://epg.pw">\n'
+                + '\n'.join(merged) + '\n</tv>\n')
+    print(f'epg_sgmy.xml: {nch} channels, {nprog} programmes, {os.path.getsize("epg_sgmy.xml")//1024}KB')
 print('done')

@@ -2,15 +2,18 @@
 <tv generator-info-name="epgsgmy" source-info-url="https://epg.pw">
 <channel id="492826">
     <display-name lang="zh">CBeebies HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/cbeebies-hd.png" />
   </channel>
   <channel id="492839">
     <display-name lang="zh">Euronews HD</display-name>
   </channel>
   <channel id="492825">
     <display-name lang="zh">Nick Jr. HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/nick-jr.png" />
   </channel>
   <channel id="369816">
     <display-name lang="zh">CBeebies (HD)</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/cbeebies-hd.png" />
   </channel>
   <channel id="492908">
     <display-name lang="zh">Kartoon Channel!</display-name>
@@ -20,21 +23,26 @@
   </channel>
   <channel id="560919">
     <display-name lang="zh">Nickelodeon Asia HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/nickelodeon-asia-hd.png" />
   </channel>
   <channel id="492877">
     <display-name lang="zh">DreamWorks HD</display-name>
   </channel>
   <channel id="492871">
     <display-name lang="zh">BBC News HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/bbc-news.png" />
   </channel>
   <channel id="369726">
     <display-name lang="zh">France 24 (English)</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/france-24-english.png" />
   </channel>
   <channel id="492832">
     <display-name lang="zh">Animax HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/animax-hd.png" />
   </channel>
   <channel id="492896">
     <display-name lang="zh">TRACE Sport Stars</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/trace-sport-stars-hd.png" />
   </channel>
   <channel id="492816">
     <display-name lang="zh">Channel 5</display-name>
@@ -42,27 +50,33 @@
     <display-name lang="zh">CH5</display-name>
     <display-name lang="zh">5 CH-5</display-name>
     <display-name lang="zh">新传媒5频道</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/ch-5-hd.png" />
   </channel>
   <channel id="492872">
     <display-name lang="zh">CCTV-4</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/cctv-4-hd.png" />
   </channel>
   <channel id="492837">
     <display-name lang="zh">CGTN</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/cgtn.png" />
   </channel>
   <channel id="492840">
     <display-name lang="zh">ANC</display-name>
   </channel>
   <channel id="369839">
     <display-name lang="zh">France 24 (French)</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/france-24-french.png" />
   </channel>
   <channel id="492893">
     <display-name lang="zh">CNBC HD</display-name>
   </channel>
   <channel id="492904">
     <display-name lang="zh">COLORS</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/colors.png" />
   </channel>
   <channel id="492861">
     <display-name lang="zh">HGTV HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/hgtv-hd.png" />
   </channel>
   <channel id="492894">
     <display-name lang="zh">Channel 8</display-name>
@@ -70,6 +84,7 @@
     <display-name lang="zh">CH8</display-name>
     <display-name lang="zh">8 CH-8</display-name>
     <display-name lang="zh">新传媒8频道</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/ch-8-hd.png" />
   </channel>
   <channel id="570455">
     <display-name lang="zh">Phoenix Chinese Channel HD</display-name>
@@ -79,15 +94,18 @@
   </channel>
   <channel id="491166">
     <display-name lang="zh">Nick Jr.</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/nick-jr.png" />
   </channel>
   <channel id="492864">
     <display-name lang="zh">Channel U</display-name>
     <display-name lang="zh">CH-U</display-name>
     <display-name lang="zh">CHU</display-name>
     <display-name lang="zh">U频道</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/mediacorp-ch-u.png" />
   </channel>
   <channel id="492865">
     <display-name lang="zh">Cartoon Network</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/cartoon-network-hd.png" />
   </channel>
   <channel id="492903">
     <display-name lang="zh">Hub Premier 1</display-name>
@@ -105,20 +123,24 @@
   </channel>
   <channel id="502440">
     <display-name lang="zh">CGTN-Documentary</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/cgtn-documentary.png" />
   </channel>
   <channel id="492874">
     <display-name lang="zh">CNA</display-name>
     <display-name lang="zh">CNA HD</display-name>
     <display-name lang="zh">Channel NewsAsia</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/cna.png" />
   </channel>
   <channel id="492906">
     <display-name lang="zh">Asianet</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/asianet.png" />
   </channel>
   <channel id="492900">
     <display-name lang="zh">River Monsters</display-name>
   </channel>
   <channel id="492902">
     <display-name lang="zh">HITS HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/hits-hd.png" />
   </channel>
   <channel id="492867">
     <display-name lang="zh">Discovery HD</display-name>
@@ -128,84 +150,106 @@
   </channel>
   <channel id="492897">
     <display-name lang="zh">KBS World HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/kbs-world-hd.png" />
   </channel>
   <channel id="369811">
     <display-name lang="zh">Sony YAY!</display-name>
   </channel>
   <channel id="524989">
     <display-name lang="zh">Cricbuzz</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/cricbuzz-hd.png" />
   </channel>
   <channel id="491170">
     <display-name lang="zh">Nickelodeon Asia HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/nickelodeon-asia-hd.png" />
   </channel>
   <channel id="369722">
     <display-name lang="zh">NHK World Premium</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/nhk_world_premium.png" />
   </channel>
   <channel id="492863">
     <display-name lang="zh">BBC Lifestyle HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/bbc-lifestyle-hd.png" />
   </channel>
   <channel id="524991">
     <display-name lang="zh">FIGHT SPORTS HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/fight-sports-hd.png" />
   </channel>
   <channel id="369783">
     <display-name lang="zh">Phoenix InfoNews</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/phoenix-infonews.png" />
   </channel>
   <channel id="492850">
     <display-name lang="zh">AXN HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/axn-hd.png" />
   </channel>
   <channel id="492876">
     <display-name lang="zh">HISTORY HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/history-hd.png" />
   </channel>
   <channel id="573732">
     <display-name lang="zh">BBC Earth HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/bbc-earth-hd.png" />
   </channel>
   <channel id="369836">
     <display-name lang="zh">NHK World – Japan (HD)</display-name>
   </channel>
   <channel id="492883">
     <display-name lang="zh">CTI Asia HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/cti-asia-hd.png" />
   </channel>
   <channel id="492833">
     <display-name lang="zh">Fox News Channel HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/fox-news-channel.png" />
   </channel>
   <channel id="492868">
     <display-name lang="zh">Lifetime HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/lifetime-hd.png" />
   </channel>
   <channel id="495472">
     <display-name lang="zh">Fear Factor</display-name>
   </channel>
   <channel id="492856">
     <display-name lang="zh">ETTV Asia HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/ettv-asia-hd.png" />
   </channel>
   <channel id="492890">
     <display-name lang="zh">ADITHYA TV</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/adithya-tv.png" />
   </channel>
   <channel id="492909">
     <display-name lang="zh">Citra Entertainment</display-name>
   </channel>
   <channel id="369849">
     <display-name lang="zh">SAB TV</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/sab-tv.png" />
   </channel>
   <channel id="492891">
     <display-name lang="zh">Kalaignar TV</display-name>
   </channel>
   <channel id="492901">
     <display-name lang="zh">Suria</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/suria-hd.png" />
   </channel>
   <channel id="492875">
     <display-name lang="zh">COLORS Tamil HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/colors-tamil-hd.png" />
   </channel>
   <channel id="524988">
     <display-name lang="zh">beIN SPORTS HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/bein-sports-hd.png" />
   </channel>
   <channel id="369786">
     <display-name lang="zh">HBO Family (HD)</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/hbo-family-hd.png" />
   </channel>
   <channel id="369729">
     <display-name lang="zh">BBC News</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/bbc-news.png" />
   </channel>
   <channel id="491159">
     <display-name lang="zh">ANIPLUS HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/aniplus-hd.png" />
   </channel>
   <channel id="492915">
     <display-name lang="zh">Karisma</display-name>
@@ -215,12 +259,15 @@
   </channel>
   <channel id="501126">
     <display-name lang="zh">WION</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/wion.png" />
   </channel>
   <channel id="369848">
     <display-name lang="zh">Animax (HD)</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/animax-hd.png" />
   </channel>
   <channel id="513286">
     <display-name lang="zh">Ch 5 (HD)</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/ch-5-hd.png" />
   </channel>
   <channel id="369737">
     <display-name lang="zh">TRACE Sports Stars HD</display-name>
@@ -233,12 +280,15 @@
   </channel>
   <channel id="369844">
     <display-name lang="zh">STAR Plus</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/star-plus.png" />
   </channel>
   <channel id="522559">
     <display-name lang="zh">CCTV-4 (HD)</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/cctv-4-hd.png" />
   </channel>
   <channel id="501125">
     <display-name lang="zh">BRTV International</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/brtv-international.png" />
   </channel>
   <channel id="492895">
     <display-name lang="zh">Hub E City HD</display-name>
@@ -250,18 +300,22 @@
   </channel>
   <channel id="522552">
     <display-name lang="zh">CGTN</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/cgtn.png" />
   </channel>
   <channel id="524985">
     <display-name lang="zh">beIN SPORTS 3 HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/bein-sports-3-hd.png" />
   </channel>
   <channel id="369760">
     <display-name lang="zh">AFN (HD)</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/afn-hd.png" />
   </channel>
   <channel id="492880">
     <display-name lang="zh">W-Sport</display-name>
   </channel>
   <channel id="369813">
     <display-name lang="zh">CNBC Asia</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/cnbc-asia.png" />
   </channel>
   <channel id="522554">
     <display-name lang="zh">Vijay</display-name>
@@ -269,24 +323,31 @@
   <channel id="492817">
     <display-name lang="zh">Vasantham</display-name>
     <display-name lang="zh">Vasantha HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/vasantham-hd.png" />
   </channel>
   <channel id="501127">
     <display-name lang="zh">ABS-CBN News Channel</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/abs-cbn_news_channel.png" />
   </channel>
   <channel id="369772">
     <display-name lang="zh">Colors</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/colors.png" />
   </channel>
   <channel id="524987">
     <display-name lang="zh">beIN SPORTS 2 HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/bein-sports-2-hd.png" />
   </channel>
   <channel id="369757">
     <display-name lang="zh">Sky News HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/sky-news-hd.png" />
   </channel>
   <channel id="369779">
     <display-name lang="zh">HGTV (HD)</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/hgtv-hd.png" />
   </channel>
   <channel id="513276">
     <display-name lang="zh">Ch 8 (HD)</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/ch-8-hd.png" />
   </channel>
   <channel id="492827">
     <display-name lang="zh">Hub Sports 2 HD</display-name>
@@ -295,9 +356,11 @@
   </channel>
   <channel id="491156">
     <display-name lang="zh">Zee Tamil</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/zee-tamil-hd.png" />
   </channel>
   <channel id="369805">
     <display-name lang="zh">TVB Jade (HD)</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/tvb-jade-hd.png" />
   </channel>
   <channel id="492851">
     <display-name lang="zh">Hub VV Drama HD</display-name>
@@ -312,6 +375,7 @@
   </channel>
   <channel id="369828">
     <display-name lang="zh">ZEE TV</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/zee-tv.png" />
   </channel>
   <channel id="513280">
     <display-name lang="zh">Ch U (HD)</display-name>
@@ -327,33 +391,40 @@
     <display-name lang="zh">天映頻道</display-name>
     <display-name lang="zh">天映频道</display-name>
     <display-name lang="zh">Celestial Movies</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/celestial-movieshd.png" />
   </channel>
   <channel id="492823">
     <display-name lang="zh">CinemaWorld</display-name>
   </channel>
   <channel id="369812">
     <display-name lang="zh">Star Bharat</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/star-bharat.png" />
   </channel>
   <channel id="492899">
     <display-name lang="zh">CCM</display-name>
     <display-name lang="zh">天映經典</display-name>
     <display-name lang="zh">天映经典</display-name>
     <display-name lang="zh">Celestial Classic Movies</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/ccm.png" />
   </channel>
   <channel id="369780">
     <display-name lang="zh">Cartoon Network (HD)</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/cartoon-network-hd.png" />
   </channel>
   <channel id="535444">
     <display-name lang="zh">That's Rock</display-name>
   </channel>
   <channel id="522557">
     <display-name lang="zh">Times Now</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/times-now.png" />
   </channel>
   <channel id="369720">
     <display-name lang="zh">TLC (HD)</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/tlc-hd.png" />
   </channel>
   <channel id="516579">
     <display-name lang="zh">Astro Ria HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/astro-ria-hd.png" />
   </channel>
   <channel id="535445">
     <display-name lang="zh">That's 70s</display-name>
@@ -366,6 +437,7 @@
   </channel>
   <channel id="369744">
     <display-name lang="zh">Discovery Channel (HD)</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/discovery-ch-hd.png" />
   </channel>
   <channel id="492898">
     <display-name lang="zh">Hub Ruyi</display-name>
@@ -375,6 +447,7 @@
   </channel>
   <channel id="516575">
     <display-name lang="zh">Astro Prima HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/astro-prima-hd.png" />
   </channel>
   <channel id="530390">
     <display-name lang="zh">Vijay Takkar</display-name>
@@ -384,15 +457,18 @@
   </channel>
   <channel id="512067">
     <display-name lang="zh">CCTV Entertainment</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/cctv-entertainment.png" />
   </channel>
   <channel id="369785">
     <display-name lang="zh">Animal Planet (HD)</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/animal-planet-hd.png" />
   </channel>
   <channel id="369719">
     <display-name lang="zh">ROCK Entertainment (HD)</display-name>
   </channel>
   <channel id="369851">
     <display-name lang="zh">HITS (HD)</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/hits-hd.png" />
   </channel>
 <programme channel="369719" start="20261105164500 +0800" stop="20261105173500 +0800">
     <title lang="zh">Cobra Kai S6</title>
@@ -159656,6 +159732,7 @@
   </channel>
   <channel id="3600">
     <display-name lang="zh">Nick Jr.</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/nick-jr.png" />
   </channel>
   <channel id="548888">
     <display-name lang="zh">Lead</display-name>
@@ -159668,18 +159745,22 @@
   </channel>
   <channel id="878">
     <display-name lang="zh">Phoenix Info News HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/phoenix-infonews.png" />
   </channel>
   <channel id="3929">
     <display-name lang="zh">NHK World Premium</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/nhk_world_premium.png" />
   </channel>
   <channel id="3942">
     <display-name lang="zh">TVS</display-name>
   </channel>
   <channel id="2756">
     <display-name lang="zh">DW English</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/dw-english.png" />
   </channel>
   <channel id="3329">
     <display-name lang="zh">BBC News HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/bbc-news.png" />
   </channel>
   <channel id="536945">
     <display-name lang="zh">Wai FM</display-name>
@@ -159695,6 +159776,7 @@
   </channel>
   <channel id="562755">
     <display-name lang="zh">Aniplus</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/aniplus-hd.png" />
   </channel>
   <channel id="4185">
     <display-name lang="zh">Sun News</display-name>
@@ -159722,6 +159804,7 @@
   </channel>
   <channel id="3906">
     <display-name lang="zh">CGTN HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/cgtn.png" />
   </channel>
   <channel id="572282">
     <display-name lang="zh">RTM World</display-name>
@@ -159740,24 +159823,30 @@
   </channel>
   <channel id="3518">
     <display-name lang="zh">CCTV4  HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/cctv-4-hd.png" />
   </channel>
   <channel id="2524">
     <display-name lang="zh">TVB Jade</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/tvb-jade-hd.png" />
   </channel>
   <channel id="2473">
     <display-name lang="zh">HGTV HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/hgtv-hd.png" />
   </channel>
   <channel id="2885">
     <display-name lang="zh">Zee Tamil HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/zee-tamil-hd.png" />
   </channel>
   <channel id="536961">
     <display-name lang="zh">TRAXXfm</display-name>
   </channel>
   <channel id="3158">
     <display-name lang="zh">Astro Prima HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/astro-prima-hd.png" />
   </channel>
   <channel id="3873">
     <display-name lang="zh">CNBC Asia HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/cnbc-asia.png" />
   </channel>
   <channel id="558538">
     <display-name lang="zh">TRAXX FM</display-name>
@@ -159791,9 +159880,11 @@
   </channel>
   <channel id="3234">
     <display-name lang="zh">TLC HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/tlc-hd.png" />
   </channel>
   <channel id="461591">
     <display-name lang="zh">CGTN Documentary</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/cgtn-documentary.png" />
   </channel>
   <channel id="370136">
     <display-name lang="zh">TV1</display-name>
@@ -159803,6 +159894,7 @@
   </channel>
   <channel id="3403">
     <display-name lang="zh">Cartoon Network HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/cartoon-network-hd.png" />
   </channel>
   <channel id="3895">
     <display-name lang="zh">TVB Classic HD</display-name>
@@ -159812,6 +159904,7 @@
   </channel>
   <channel id="4130">
     <display-name lang="zh">ABC Australia HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/abc-australia.png" />
   </channel>
   <channel id="3325">
     <display-name lang="zh">Colors Hindi HD</display-name>
@@ -159824,18 +159917,21 @@
   </channel>
   <channel id="2384">
     <display-name lang="zh">Astro Ria HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/astro-ria-hd.png" />
   </channel>
   <channel id="370135">
     <display-name lang="zh">TV2</display-name>
   </channel>
   <channel id="2208">
     <display-name lang="zh">HITS HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/hits-hd.png" />
   </channel>
   <channel id="3770">
     <display-name lang="zh">Astro Aura HD</display-name>
   </channel>
   <channel id="3437">
     <display-name lang="zh">Discovery Channel HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/discovery-ch-hd.png" />
   </channel>
   <channel id="3362">
     <display-name lang="zh">Crime &amp; Investigation HD</display-name>
@@ -159845,9 +159941,11 @@
   </channel>
   <channel id="1889">
     <display-name lang="zh">KBS World HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/kbs-world-hd.png" />
   </channel>
   <channel id="523496">
     <display-name lang="zh">CricBuzz</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/cricbuzz-hd.png" />
   </channel>
   <channel id="1029">
     <display-name lang="zh">NTV7</display-name>
@@ -159866,18 +159964,22 @@
   </channel>
   <channel id="2852">
     <display-name lang="zh">CNA HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/cna.png" />
   </channel>
   <channel id="4196">
     <display-name lang="zh">Love Nature</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/love-nature-hd.png" />
   </channel>
   <channel id="4171">
     <display-name lang="zh">Love Nature 4K</display-name>
   </channel>
   <channel id="1205">
     <display-name lang="zh">AXN HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/axn-hd.png" />
   </channel>
   <channel id="1477">
     <display-name lang="zh">History HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/history-hd.png" />
   </channel>
   <channel id="4160">
     <display-name lang="zh">TV Okey HD</display-name>
@@ -159890,18 +159992,22 @@
   </channel>
   <channel id="4030">
     <display-name lang="zh">BBC Earth</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/bbc-earth-hd.png" />
   </channel>
   <channel id="3885">
     <display-name lang="zh">CTI Asia HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/cti-asia-hd.png" />
   </channel>
   <channel id="3313">
     <display-name lang="zh">SUN TV HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/sun-tv-hd.png" />
   </channel>
   <channel id="573870">
     <display-name lang="zh">Sony Vizha</display-name>
   </channel>
   <channel id="186250">
     <display-name lang="zh">HITS NOW</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/hits-now-hd.png" />
   </channel>
   <channel id="1781">
     <display-name lang="zh">Astro Quan Jia HD</display-name>
@@ -159914,12 +160020,15 @@
   </channel>
   <channel id="3493">
     <display-name lang="zh">TVB Xing He HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/tvb-xing-he-hd.png" />
   </channel>
   <channel id="3968">
     <display-name lang="zh">Lifetime HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/lifetime-hd.png" />
   </channel>
   <channel id="562589">
     <display-name lang="zh">Astro30</display-name>
+    <icon src="http://linear-poster.astro.com.my/prod/logo/Astro30.png" />
   </channel>
   <channel id="946">
     <display-name lang="zh">Adithya</display-name>
@@ -159944,6 +160053,7 @@
   </channel>
   <channel id="3858">
     <display-name lang="zh">Bloomberg TV HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/bloomberg-tv-hd.png" />
   </channel>
   <channel id="547908">
     <display-name lang="zh">Sarawak FM</display-name>
@@ -159965,12 +160075,15 @@
   </channel>
   <channel id="3835">
     <display-name lang="zh">Sun Music HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/sun-music-hd.png" />
   </channel>
   <channel id="2580">
     <display-name lang="zh">beIN Sports HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/bein-sports-hd.png" />
   </channel>
   <channel id="2917">
     <display-name lang="zh">Colors Tamil HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/colors-tamil-hd.png" />
   </channel>
   <channel id="2652">
     <display-name lang="zh">K-Plus HD</display-name>
@@ -159983,6 +160096,7 @@
   </channel>
   <channel id="3509">
     <display-name lang="zh">TVBS Asia HD</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/tvbs-asia.png" />
   </channel>
   <channel id="558838">
     <display-name lang="zh">ASYIK FM</display-name>
@@ -159998,6 +160112,7 @@
   </channel>
   <channel id="3625">
     <display-name lang="zh">Premier Sports</display-name>
+    <icon src="https://asset.v3.singtelcast.com/channel/img/premier-sports.png" />
   </channel>
   <channel id="369658">
     <display-name lang="zh">France24</display-name>

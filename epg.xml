@@ -11269,6 +11269,12 @@
   </channel>
 <channel id="s_CELESTIALMOVIESHD">
     <display-name lang="zh">CELESTIALMOVIESHD</display-name>
+    <icon src="https://gh-proxy.com/raw.githubusercontent.com/ccm789/epg/main/logos/CM.png" />
+    <display-name lang="zh">天映頻道</display-name>
+    <display-name lang="zh">天映频道</display-name>
+    <display-name lang="zh">Celestial Movies HD</display-name>
+    <display-name lang="zh">天映頻道HD</display-name>
+    <display-name lang="zh">Celestial Movies</display-name>
   </channel>
 <channel id="s_CTI Asia (HD)">
     <display-name lang="zh">CTI Asia (HD)</display-name>
@@ -1150521,4 +1150527,368 @@ People dream of seeing the world - but TV chef Big Zuu is here to eat it. Forget
       <title>帮女郎帮你忙</title>
       <desc>全国首个专业女性记者团队——湖南公共频道“帮女郎”，将于2014年3月1日美丽“蝶变”。服务了湖南观众近8年的《帮助直通车》，改名为《帮女郎 帮你忙》，每天17:30，60分钟直播，美丽加倍，帮助升级，贴心互动。《帮女郎 帮你忙》推出“帮女郎帮你忙”版块，18位美丽善良的“帮女郎”，采集了权威新闻资讯，搜索热点深度报道，并同步启动2014年度公益活动——“快乐校舍”，在全省寻找需要重建的贫困山区村小。栏目将打通栏目热线、微博、微信等多个平台，打破电视屏幕的距离，与观众网友实时爱心互动，每周打造一场全民参与的公益活动。“帮女郎在调查”版块，将坚持独立的调查、人文的关怀、深度的思考、犀利的评论，彰显舆论监督的力度，将帮忙进行到底！</desc>
     </programme>
+
+  <channel id="天映頻道新加坡">
+    <display-name lang="zh">天映頻道新加坡</display-name>
+    <display-name lang="zh">天映頻道</display-name>
+    <display-name lang="zh">天映频道</display-name>
+    <display-name lang="zh">Celestial Movies HD</display-name>
+    <display-name lang="zh">CELESTIALMOVIESHD</display-name>
+    <display-name lang="zh">天映頻道HD</display-name>
+    <display-name lang="zh">Celestial Movies</display-name>
+    <icon src="/logo/天映頻道.webp" />
+  </channel>
+  <channel id="天映經典新加坡">
+    <display-name lang="zh">天映經典新加坡</display-name>
+    <display-name lang="zh">天映經典</display-name>
+    <display-name lang="zh">天映经典</display-name>
+    <display-name lang="zh">CCM</display-name>
+    <display-name lang="zh">Celestial Classic Movies</display-name>
+    <icon src="/logo/天映經典頻道.webp" />
+  </channel>
+  <channel id="天映頻道馬來西亞">
+    <display-name lang="zh">天映頻道馬來西亞</display-name>
+    <display-name lang="zh">天映頻道</display-name>
+    <display-name lang="zh">天映频道</display-name>
+    <display-name lang="zh">Celestial Movies HD</display-name>
+    <display-name lang="zh">天映頻道馬</display-name>
+    <display-name lang="zh">Celestial Movies MY</display-name>
+    <icon src="/logo/天映頻道.webp" />
+  </channel>
+  <channel id="天映經典馬來西亞">
+    <display-name lang="zh">天映經典馬來西亞</display-name>
+    <display-name lang="zh">天映經典</display-name>
+    <display-name lang="zh">天映经典</display-name>
+    <display-name lang="zh">CCM</display-name>
+    <display-name lang="zh">Celestial Classic Movies MY</display-name>
+    <icon src="/logo/天映經典頻道.webp" />
+  </channel>
+  <programme channel="天映頻道新加坡" start="20261105130500 +0800" stop="20261105145500 +0800">
+    <title lang="zh">冰封侠重生之门 / Iceman</title>
+    <desc lang="zh">明朝锦衣卫贺英被诬陷为弑君逆贼，三位结义兄弟奉命追杀。在生死对决之际，四人意外被冰封于时空裂隙。四百年后，他们在现代香港苏醒。一场跨越时代的宿命之战，于陌生都市再度引爆。</desc>
+  </programme>
+  <programme channel="天映頻道新加坡" start="20261105145500 +0800" stop="20261105162500 +0800">
+    <title lang="zh">夜守</title>
+    <desc lang="zh">一场可怕车祸后失忆的王人杰，找到一份废弃大厦的夜间警卫工作。当晚交接的老守卫举止怪异，数小时后竟陈尸密室，王人杰瞬间成为头号嫌疑犯。诡异事件接连发生，旧日恩怨与冤魂浮现，三只厉鬼如约而至，揭开一场蓄谋已久的复仇计划。接踵而来的厄运，究竟是命运还是诅咒？</desc>
+  </programme>
+  <programme channel="天映頻道新加坡" start="20261105162500 +0800" stop="20261105180500 +0800">
+    <title lang="zh">青蛙王子</title>
+    <desc lang="zh">此喜剧在夏威夷开始，富家子为人腼腆，追女乏术，好友充当其爱情顾问，带他四出泡妞，却碰得一鼻子灰，闹出连场笑话。</desc>
+  </programme>
+  <programme channel="天映頻道新加坡" start="20261105180500 +0800" stop="20261105192000 +0800">
+    <title lang="zh">軍火大劫案</title>
+    <desc lang="zh">特工阿文被安排潜伏于东南亚的军火商旗下，寻找其手中的一批军火炸药并将其销毁。当他终于找到该批军火后，却遭到不明匪徒袭击。为防止灾难发生，阿文决定与他的特工搭档阿琼合力夺回军火。</desc>
+  </programme>
+  <programme channel="天映頻道新加坡" start="20261105192000 +0800" stop="20261105210000 +0800">
+    <title lang="zh">鬼馬飛人</title>
+    <desc lang="zh">阿B为一名中学的体育教师，其执教之学校篮、足球队成绩甚差，学校下令他务必赢得校际比赛冠军，否则将撤换教练。阿B因头痛，误服同事研制之神药，变成超人，令球队屡次创造奇迹...</desc>
+  </programme>
+  <programme channel="天映頻道新加坡" start="20261105210000 +0800" stop="20261105223000 +0800">
+    <title lang="zh">殭屍家族</title>
+    <desc lang="zh">一群盗墓的考古学家意外发现一个保存完好的殭尸家族，计划将他们贩卖至黑市牟利。岂料在运送途中，不慎撕下封印殭尸的纸符，让沉睡的亡灵苏醒逃窜。然而，当地中医师林正英挺身而出，誓要将牠们彻底剿灭。</desc>
+  </programme>
+  <programme channel="天映頻道新加坡" start="20261105223000 +0800" stop="20261106001000 +0800">
+    <title lang="zh">霹靂先鋒</title>
+    <desc lang="zh">张铁柱是一名出色的警长，他刚烈的办案风格却遭到上司和同僚的不满。当他意外发现偷车贼伟仔为追捕持枪劫匪的关键人物，两人不得不携手将罪犯绳之以法。</desc>
+  </programme>
+  <programme channel="天映頻道新加坡" start="20261106001000 +0800" stop="20261106014500 +0800">
+    <title lang="zh">開棺</title>
+    <desc lang="zh">消失三年的鬼手及其盗墓团伙重现江城，再次下墓摸金。怎料四名盗墓贼在开棺时遇惊魂邪煞，逃离后又接连惨死家中。最终古墓尸毒和针孔成为留给警察沈春合仅有的线索，看似普通的盗墓案，瞬间扑朔迷离疑点重重。</desc>
+  </programme>
+  <programme channel="天映頻道新加坡" start="20261106014500 +0800" stop="20261106033500 +0800">
+    <title lang="zh">醉拳</title>
+    <desc lang="zh">年轻气盛的黄飞鸿因招惹地方恶霸之子，被父亲送去跟随「醉拳大师」苏乞儿受训一年。当父亲揭发恶霸欲将国有矿产卖给日本人的阴谋后，顿成刺杀目标。为救父并阻止交易，飞鸿施展自创的「醉拳」，击败众杀手。</desc>
+  </programme>
+  <programme channel="天映頻道新加坡" start="20261106033500 +0800" stop="20261106055000 +0800">
+    <title lang="zh">讓子彈飛</title>
+    <desc lang="zh">悍匪张牧之劫持火车，冒充新任县长强横进驻鹅城。本想靠升官发财大捞一笔，却撞上了只手遮天的当地地头蛇恶霸黄四郎。在满嘴谎言的骗子师爷马邦德的利益周旋下，黑白两道展开一场智力与火力的巅峰对决。在这场荒诞的杀戮游戏中，且看子弹如何飞往最终的真相。</desc>
+  </programme>
+  <programme channel="天映頻道新加坡" start="20261106055000 +0800" stop="20261106074000 +0800">
+    <title lang="zh">特務迷城</title>
+    <desc lang="zh">天赋异禀的健身器材店员小北跨国寻亲，意外卷入特务父亲遗留的谜局，远赴土耳其追寻身世与巨额遗产，却不料陷入国际反恐阴谋。面对炭疽病毒引发的全球危机，小北在土耳其街头展开惊心动魄的跨国大逃亡。在重重谜局的考验中，他突破自我极限，从平凡蜕变为守护世界的孤胆英雄。</desc>
+  </programme>
+  <programme channel="天映頻道新加坡" start="20261106074000 +0800" stop="20261106091500 +0800">
+    <title lang="zh">靈幻先生</title>
+    <desc lang="zh">江湖术士茅山明无法驱除复仇的怨灵，只得与他的鬼同伴一起逃脱。他们躲进一个村庄后，遇到了意图灭绝人类的邪恶女魔头。于是，茅山明与师父九叔携手合作，对抗这位威胁村民的魔头。他们能否战胜黑暗势力，赢得最终的胜利？</desc>
+  </programme>
+  <programme channel="天映頻道新加坡" start="20261106091500 +0800" stop="20261106104500 +0800">
+    <title lang="zh">大内密探零零发 / Forbidden City Cop</title>
+    <desc lang="zh">零零发是宫廷四大高手之一，专职保卫皇帝的安全。虽然不谙武功，却有着不寻常的嗜好：打造超越时代的发明。皇上被掳后，他靠着自己的过人发明救驾。</desc>
+  </programme>
+  <programme channel="天映頻道新加坡" start="20261106104500 +0800" stop="20261106122500 +0800">
+    <title lang="zh">龍的傳人</title>
+    <desc lang="zh">青年周小龙离开纯朴的离岛到香港发展。他的师叔欺骗小龙参加桌球比赛，并以他父亲的地皮作为赌注。小龙最后输掉了比赛，幸得他青梅竹马的朋友毛毛鼓励，把自家的田地也作为赌注。小龙最后能否把自己的土地赢回来？</desc>
+  </programme>
+  <programme channel="天映頻道新加坡" start="20261106122500 +0800" stop="20261106142500 +0800">
+    <title lang="zh">遊龍戲鳳</title>
+    <desc lang="zh">英俊潇洒的富商程仲森曾有过三段失败的婚姻。当他遇见在赌场担任荷官、闲暇时兼职舞蹈表演的米兰，两人迅速坠入爱河。然而，当他提出签署婚前协议书的那一刻，这段刚萌芽的恋情随即面临严峻考验。</desc>
+  </programme>
+  <programme channel="天映頻道新加坡" start="20261106142500 +0800" stop="20261106155000 +0800">
+    <title lang="zh">曼谷風雲</title>
+    <desc lang="zh">地下拳手林枫因拒绝替曼谷黑帮打黑拳，因此被追杀。他虽成功逃脱，却失去记忆。当林枫开展其新生活时，却被黑帮发现行踪，并找来绝顶打手对付他。期间林枫忽然回复记忆，并誓要将黑帮歼灭。</desc>
+  </programme>
+  <programme channel="天映頻道新加坡" start="20261106155000 +0800" stop="20261106173000 +0800">
+    <title lang="zh">賊王之王</title>
+    <desc lang="zh">两名私家侦探欲藉破一连环大劫案而声名大噪。岂料调查过程中竟一再被贼王使计愚弄，笑话连篇。及后更发现原来所有劫案均与日商宫本有关，到底谁才是真正的贼王之王？</desc>
+  </programme>
+  <programme channel="天映頻道新加坡" start="20261106173000 +0800" stop="20261106191500 +0800">
+    <title lang="zh">盲戰</title>
+    <desc lang="zh">在多年前的一次反恐任务中，前特警队长东谷被悍匪炸瞎双眼，被迫退役，从此与女儿相依为命。不料，昔日宿敌再度现身，绑走其女，欲将她卖入地下人口贩卖集团。这位失明的法外独行侠，凭借过人的听觉与格斗本领，只身踏上营救女儿之路。</desc>
+  </programme>
+  <programme channel="天映頻道新加坡" start="20261106191500 +0800" stop="20261106210000 +0800">
+    <title lang="zh">白蛇傳說</title>
+    <desc lang="zh">这部奇幻动作片改编自中国经典传说《白蛇传》，讲述郎中许仙爱上化身为女子的千年白蛇。白蛇的真实身份被揭露后，高僧法海为守护人类与超自然力量之间的平衡，不得不挺身而出，展开一场惊心动魄的对决。</desc>
+  </programme>
+  <programme channel="天映頻道新加坡" start="20261106210000 +0800" stop="20261106223500 +0800">
+    <title lang="zh">马永贞 / Hero</title>
+    <desc lang="zh">从山东逃难至上海的马永贞，因救了势力人士谭四而受到赏识，又从黑帮头子杨双手上夺取了他在上海的第一个地盘，从此平步青云。杨双与巡捕房勾结，谋害谭四并派人伏杀马永贞…</desc>
+  </programme>
+  <programme channel="天映頻道新加坡" start="20261106223500 +0800" stop="20261107001500 +0800">
+    <title lang="zh">逃學威龍2</title>
+    <desc lang="zh">周星星遭降职后愤而辞去警职，私自潜入一所国际学校，调查国际恐怖分子的阴谋。期间，他意外发现探员达叔正假扮成教师。两人随即连手，共同对抗全副武装的罪犯，展开一场终极对决。</desc>
+  </programme>
+  <programme channel="天映經典新加坡" start="20261105123000 +0800" stop="20261105141000 +0800">
+    <title lang="zh">邪完再邪</title>
+    <desc lang="zh">女鬼劉阿翠鍾情以前鄰居馬素，欲與其結合，央求父親攜同金銀珠寶向馬提親，撮合一段人鬼姻緣，馬素年青憨直，不願與鬼為伍，堅決拒絕，實則彼暗戀已有男友之鄰居紅卜卜，阿翠洞悉其情，決定伺機行動。</desc>
+  </programme>
+  <programme channel="天映經典新加坡" start="20261105141000 +0800" stop="20261105154500 +0800">
+    <title lang="zh">廣東十虎與後五虎</title>
+    <desc lang="zh">廣東十虎之一譚敏之侄譚聰，在賭館當巡場；一夜，十虎的徒弟及後人等四人，在賭場相聚時，旗人佟七帶著前清官之子小虎突襲，把譚聰殺死。原因是十虎之黎仁昭、譚敏等，昔日曾把父殺死，以助反清義士蔡民義脫險。小虎遂與師叔們聯手，殺死仍在世的十虎及其後人、傳人，為父報仇...</desc>
+  </programme>
+  <programme channel="天映經典新加坡" start="20261105154500 +0800" stop="20261105171500 +0800">
+    <title lang="zh">梅山收七怪</title>
+    <desc lang="zh">小哪吒偷吃了仙界桃樹的一個新結仙桃，但又不慎將另外七個仙桃弄落凡間，導致七隻不同動物變成妖怪。哪吒要在十天內收復妖怪，否則父親會被天帝懲罰。到底哪吒能否完成任務?</desc>
+  </programme>
+  <programme channel="天映經典新加坡" start="20261105171500 +0800" stop="20261105191000 +0800">
+    <title lang="zh">馬哥波羅 / Marco Polo</title>
+    <desc lang="zh">故事描述東遊至中國的馬哥波羅，聽從元世祖忽必烈忠告，到中國各地考察三年，回京後，適逢忽遭反元志士刺殺，幸得蒙古高手護駕，一死一逃；馬憑死者遺言，判斷餘黨必在揚州；馬被任命為總督，率兵將反元者一網打盡；惟馬抵揚後，有感於漢人抗異族的無比決心，遂將蒙兵來攻之事暗告反元志士...</desc>
+  </programme>
+  <programme channel="天映經典新加坡" start="20261105191000 +0800" stop="20261105210000 +0800">
+    <title lang="zh">仙女下凡</title>
+    <desc lang="zh">天宮仙女七妹嚮往凡間生活，某夜偷駕祥雲下凡來到香港。初到人間的她人生地不熟，險遭不法之徒欺騙，幸得經營負債累累孤兒院的董自立相救。面對貪婪富商覬覦院址、步步緊逼，七妹屢施法術相助，卻屢遭誤解為妖魅。兩人在困境中互相扶持，情愫漸生，共同守護孤兒院的未來。</desc>
+  </programme>
+  <programme channel="天映經典新加坡" start="20261105210000 +0800" stop="20261105224000 +0800">
+    <title lang="zh">玉面飛狐</title>
+    <desc lang="zh">夏梧與司馬秋同為鏢局掌門義子。司馬秋利慾薰心，設計弒殺師父，更以暗鏢毀去夏梧面容。重傷的夏梧懷抱年幼長女逃走，懷孕妻子卻於昏迷中遭司馬秋姦污。夏梧隱居深山，將仇恨寄託長女青青，苦心培育其成為武藝高強的「玉面飛狐」，命她下山劫鏢尋仇。</desc>
+  </programme>
+  <programme channel="天映經典新加坡" start="20261105224000 +0800" stop="20261106001000 +0800">
+    <title lang="zh">鬼屋麗人</title>
+    <desc lang="zh">本片是根據《聊齋》中之《書癡》改編，故事描述玉柱被叔叔郎中元欺負，搬進常鬧鬼的「孝廉府」。然後玉柱遇上了顏如玉，二人及後結成夫婦。郎中元之友史良金竟拐走如玉，將其迷奸。良金妻妾更毒害如玉，如玉化成厲鬼，將中元、良金等人殺害。玉柱因如玉已不在人世，不禁一陣辛酸。</desc>
+  </programme>
+  <programme channel="天映經典新加坡" start="20261106001000 +0800" stop="20261106014500 +0800">
+    <title lang="zh">唐人街功夫小子 / Chinatown Kid</title>
+    <desc lang="zh">青年譚東獨自從大陸來港投靠祖父，因與黑社會人物徐豪結怨而遭陷害，迫於無奈偷渡到三藩市。東在唐人街飯店覓得工作，後來又因打抱不平而再牽涉入黑幫恩怨中。東更重遇徐豪，二人展開連場惡戰。</desc>
+  </programme>
+  <programme channel="天映經典新加坡" start="20261106014500 +0800" stop="20261106032000 +0800">
+    <title lang="zh">裸血</title>
+    <desc lang="zh">淩波的丈夫高遠及其友王俠，均與肚皮舞女郎孟莉有染，孟藉此勒索二人；後孟被殺，高成嫌疑犯，另孟之兄翟諾，亦向高勒索；而淩在家，也接見了穀峰，他聲言有為高洗罪的證據，但要索錢；王妻李香君借貸給淩... 究竟誰是殺孟真凶？</desc>
+  </programme>
+  <programme channel="天映經典新加坡" start="20261106032000 +0800" stop="20261106052000 +0800">
+    <title lang="zh">鑽石艷盜</title>
+    <desc lang="zh">兩大珠寶盜賊「夜來香」和「夜爵士」前往日本，意圖偷去「維納斯的眼淚」巨鑽。二人見面後即墜入愛河，卻不知道原來對方同為盜取巨鑽的競敵。最後誰會得到巨鑽？二人的戀情又會否無疾而終？</desc>
+  </programme>
+  <programme channel="天映經典新加坡" start="20261106052000 +0800" stop="20261106070500 +0800">
+    <title lang="zh">沒有老公的日子 / Tragic Commitment</title>
+    <desc lang="zh">黃太太獨力撫養兒子Alex成人，與媳婦阿彤一起生活。豈料Alex意外逝世，死前道出外遇女友黑仔已懷有身孕。結果三名沒有老公的女人同住一室...</desc>
+  </programme>
+  <programme channel="天映經典新加坡" start="20261106070500 +0800" stop="20261106084500 +0800">
+    <title lang="zh">醜聞</title>
+    <desc lang="zh">在河北省某貪汙成風的小縣內，流浪漢甄明與賈亮因掌握一眾縣官的貪汙和醜聞證據，得以順水推舟假扮縣長，把各官員玩弄於股掌之中，峰迴路轉，結局卻出人意表。全片除帶出人生如戲的黑色幽默，也狠狠地鞭撻為官者殘民以自肥的無恥行為。</desc>
+  </programme>
+  <programme channel="天映經典新加坡" start="20261106084500 +0800" stop="20261106102500 +0800">
+    <title lang="zh">陸小鳳之決戰前後</title>
+    <desc lang="zh">兩大武林劍客葉孤城與西門吹雪將於紫禁城決鬥。陸小鳳忖度二人素末謀面，又無利益衝突，無須決鬥，猜想當中一定事有蹊蹺。於是，他決定和花滿樓前往京城調查清楚，卻發現當中隱藏的陰謀…</desc>
+  </programme>
+  <programme channel="天映經典新加坡" start="20261106102500 +0800" stop="20261106123500 +0800">
+    <title lang="zh">楊乃武與小白菜 / The Adulteress</title>
+    <desc lang="zh">劇情講述，知縣之子劉子和，垂涎葛小大之妻小白菜，用迷藥將其姦污。劉子和事後恐東窗事發，用砒霜毒死葛小大。葛死後，鎮內流言四起，知縣為救愛兒，設計嫁禍小白菜婚前戀人楊乃武。乃武被苦打成招，其姊楊淑英不忍見弟含冤而死，到刑部要求翻案……</desc>
+  </programme>
+  <programme channel="天映經典新加坡" start="20261106123500 +0800" stop="20261106142000 +0800">
+    <title lang="zh">鬼畫符</title>
+    <desc lang="zh">周鵬被神捕諸葛森追殺，投靠表兄包妥。林家大少奶被男鬼杜洛所殺，要求鵬二人帶其鬼魂上路，到開封找公孫先生消滅杜鬼魂。鵬以大少奶的鬼符在賭場贏取路費，更與戲子吳順超一同上路...</desc>
+  </programme>
+  <programme channel="天映經典新加坡" start="20261106142000 +0800" stop="20261106160000 +0800">
+    <title lang="zh">遊俠情</title>
+    <desc lang="zh">杜孟飛奉命下山闖蕩江湖，途中救出遭黑道中人捉拿的沐婉兒，杜挺身相救，沐萬分感激。未幾，杜又救出被黑道中人圍攻的少女李賽男。及後，杜無意中得知一段二十年前的江湖恩怨，黑道首領是李之殺父仇人，而沐則是黑道首領失散的女兒…</desc>
+  </programme>
+  <programme channel="天映經典新加坡" start="20261106160000 +0800" stop="20261106174500 +0800">
+    <title lang="zh">插翅難飛</title>
+    <desc lang="zh">鄧彪因為黑貨買賣失手，遂逼江湖人物高明供出從中陷害者，高明說出乃黑豹所為後，即被開槍殺死，鄧彪因此被判監禁十五年。他出獄後即找黑豹報仇，卻遇上勢力龐大的葛八爺幹擾；同時商琳為尋失蹤十五年的丈夫，欲找鄧彪查問黑豹下落，但兩人僅聽過黑豹其名，從未見其人，究竟黑豹是誰？</desc>
+  </programme>
+  <programme channel="天映經典新加坡" start="20261106174500 +0800" stop="20261106192000 +0800">
+    <title lang="zh">雙喜臨門</title>
+    <desc lang="zh">朱國棟和李明珠本打算結婚，無奈雙方父母為多年死對頭，所以堅決反對婚事。於是二人不惜假裝自殺。有見及此雙方家長最終冰釋前嫌，答應二人成婚。此時，唱片公司宣佈會為出棟的歌曲版，最終可謂雙喜臨門。</desc>
+  </programme>
+  <programme channel="天映經典新加坡" start="20261106192000 +0800" stop="20261106210000 +0800">
+    <title lang="zh">佛都有火</title>
+    <desc lang="zh">故事講述，某寺青年僧人「瘋子」，性格瘋瘋癲癲，行為全不符僧人規範。該寺主持玄明方丈卻認為「瘋子」與佛有緣，並因應其性格與氣質，授以「癲羅漢拳」。「瘋子」有了武功後，動輒出拳傷人，方丈只得將其逐出寺門...</desc>
+  </programme>
+  <programme channel="天映經典新加坡" start="20261106210000 +0800" stop="20261106224000 +0800">
+    <title lang="zh">王昭君</title>
+    <desc lang="zh">王昭君拒絕賄賂畫師，於是一直被畫師畫醜致未被皇帝看上。但皇帝初遇昭君後，驚為天人，即選中她。畫師被逐後，為報復而設計將昭君與匈奴可汗和親。皇帝因拒絕婚事即引來兩國爭戰，以致王昭君最後為了平息戰亂不得不犧牲自己。</desc>
+  </programme>
+  <programme channel="天映經典新加坡" start="20261106224000 +0800" stop="20261107001500 +0800">
+    <title lang="zh">林沖夜奔 / Pursuit</title>
+    <desc lang="zh">此片述說了關於林沖的故事。宋朝禁軍教頭林沖遭受貪官陷害，被放逐滄州，更陷入險境。幸得花和尚相助，林沖成功脫險，更展開復仇大計。</desc>
+  </programme>
+  <programme channel="天映頻道馬來西亞" start="20261105133500 +0800" stop="20261105151500 +0800">
+    <title lang="zh">萊利歐·波波</title>
+    <desc lang="zh">知名電台DJ江曼達與盧葉昌被解職並列入黑名單。為了捲土板，她們偽裝成年長女性，主持一場新的廣播節目，引發意想不到的成功與喜劇。</desc>
+  </programme>
+  <programme channel="天映頻道馬來西亞" start="20261105151500 +0800" stop="20261105173000 +0800">
+    <title lang="zh">霓虹夜之子</title>
+    <desc lang="zh">在雪地中，超現實的香港，一場爆炸導致一名秘密毒梟大亨死亡。隨著混亂爆發，他最小的兒子與逃亡的兄弟及交戰派系作戰，以摧毀家族的犯罪帝國。</desc>
+  </programme>
+  <programme channel="天映頻道馬來西亞" start="20261105173000 +0800" stop="20261105192000 +0800">
+    <title lang="zh">沾染的愛</title>
+    <desc lang="zh">周蘭淪為網路約會詐騙的犧牲品。追蹤詐騙者的線索後，她抵達沿海城鎮，遇見兩名年輕男子。她的復仇陰謀揭開了他們的參與，展開了復仇陰謀。</desc>
+  </programme>
+  <programme channel="天映頻道馬來西亞" start="20261105192000 +0800" stop="20261105210000 +0800">
+    <title lang="zh">我和殭屍有個約會</title>
+    <desc lang="zh">惡魔殺手馬小玲與一名神秘偵探相遇，同時調查了離奇案件。從不信任到命運之謎，他們共同對抗籠罩這座城市的黑暗威脅。</desc>
+  </programme>
+  <programme channel="天映頻道馬來西亞" start="20261105210000 +0800" stop="20261105225500 +0800">
+    <title lang="zh">說笑之人</title>
+    <desc lang="zh">受腦性麻痺與母親強制子宮切除手術的艾梅所為，透過身心障礙的親密關係服務，與肯產生了愛。他們共同建立了一種違背所有障礙的溫柔連結。</desc>
+  </programme>
+  <programme channel="天映頻道馬來西亞" start="20261105225500 +0800" stop="20261106011500 +0800">
+    <title lang="zh">一個罪惡的良心</title>
+    <desc lang="zh">香港票房最高的中國電影，故事講述一位大律師宣誓證明其當事人無罪，與香港最具權勢的家庭之一發生的事件。</desc>
+  </programme>
+  <programme channel="天映頻道馬來西亞" start="20261106011500 +0800" stop="20261106030500 +0800">
+    <title lang="zh">一閃一閃亮晶晶</title>
+    <desc lang="zh">張婉森計畫在考試後坦承自己對林北興的迷戀。當一場意外悲劇改變一切時，張先生便回到了時光。這次他能修改事情嗎?</desc>
+  </programme>
+  <programme channel="天映頻道馬來西亞" start="20261106030500 +0800" stop="20261106044500 +0800">
+    <title lang="zh">陰影</title>
+    <desc lang="zh">Ching 是一名法醫精神科醫師，能夠進入一個人的潛意識。當她調查一起謀殺暨自殺案件時，她發現自己受到懷疑，並面對過去的創傷......</desc>
+  </programme>
+  <programme channel="天映頻道馬來西亞" start="20261106044500 +0800" stop="20261106060000 +0800">
+    <title lang="zh">狄仁傑之通天帝國</title>
+    <desc lang="zh">偵探迪伊調查了唐氏大樓發生的一系列奇怪事件，發現這位主人甚至連大女兒都暗中向迪透露自己異常行為時，便起了疑心。</desc>
+  </programme>
+  <programme channel="天映頻道馬來西亞" start="20261106060000 +0800" stop="20261106081000 +0800">
+    <title lang="zh">嫌疑人X的獻身</title>
+    <desc lang="zh">律師必須為一名謀殺案嫌疑人辯護，並勝訴此案，以拯救遭挾持的女兒。隨著證據的出現，她揭露了真相以及本案背後的人物。</desc>
+  </programme>
+  <programme channel="天映頻道馬來西亞" start="20261106081000 +0800" stop="20261106094500 +0800">
+    <title lang="zh">花田囍事</title>
+    <desc lang="zh">另一則由克里夫頓·柯執導的超級喜劇，講述更離奇的結合、錯誤身分、不偶異，以及以成朝為背景的相親婚姻。</desc>
+  </programme>
+  <programme channel="天映頻道馬來西亞" start="20261106094500 +0800" stop="20261106113500 +0800">
+    <title lang="zh">加密貨幣風暴</title>
+    <desc lang="zh">廉政公署官員洛克特派團展開調查，調查一起涉及銀行高層主管使用加密貨幣操縱交易市場的貪腐案件。</desc>
+  </programme>
+  <programme channel="天映頻道馬來西亞" start="20261106113500 +0800" stop="20261106133500 +0800">
+    <title lang="zh">姆姆</title>
+    <desc lang="zh">慕慕將她失聾的父親與外界連結，但當她必須適應並融入聽覺世界時，他們的和平生活卻受到干擾，而她的父親則被幫派包圍，犯罪猖獗。</desc>
+  </programme>
+  <programme channel="天映頻道馬來西亞" start="20261106133500 +0800" stop="20261106153000 +0800">
+    <title lang="zh">家有囍事（加長版）</title>
+    <desc lang="zh">在這部香港喜劇中，三位長兄學習愛情需要關懷，而不是必須過時或自私。此次延長的裁員，增加了2016年農曆新年上映期間缺少的槍戰場景</desc>
+  </programme>
+  <programme channel="天映頻道馬來西亞" start="20261106153000 +0800" stop="20261106172000 +0800">
+    <title lang="zh">寒戰</title>
+    <desc lang="zh">第32屆香港電影獎共九項獎項得主!當一輛警車遭劫持時，副警務處長M.B.李展開了一項代號為冷戰的救援行動。</desc>
+  </programme>
+  <programme channel="天映頻道馬來西亞" start="20261106172000 +0800" stop="20261106190500 +0800">
+    <title lang="zh">She's Got No Name</title>
+    <desc lang="zh">1945年，上海發生一起殘忍的謀殺案，當體弱的尚周世殺害並肢解其丈夫時，這起殘忍的謀殺案震驚了「江圓農」。隨著黑暗真相的出現，所有涉事人員的命運開始扭曲。</desc>
+  </programme>
+  <programme channel="天映頻道馬來西亞" start="20261106190500 +0800" stop="20261106210000 +0800">
+    <title lang="zh">八百萬富翁</title>
+    <desc lang="zh">當一位陷入困境的畫家收到一個無止盡地製作RM8鈔票的魔法錢包時，他的人生就從艱辛轉變為奢華。然而，這個奇蹟真的是一種祝福，還是隱藏的詛咒?</desc>
+  </programme>
+  <programme channel="天映頻道馬來西亞" start="20261106210000 +0800" stop="20261106232000 +0800">
+    <title lang="zh">無雙</title>
+    <desc lang="zh">香港警方正在追捕一個由知名畫家主謀領導的假冒幫派。他們招募藝術家李曼來協助他們追尋任務，但畫家的真實身分卻讓每個人都感到驚訝。</desc>
+  </programme>
+  <programme channel="天映頻道馬來西亞" start="20261106232000 +0800" stop="20261107012500 +0800">
+    <title lang="zh">我男友係好萊塢</title>
+    <desc lang="zh">首部電影由寶萊塢拍攝於香港，講述一位香港女孩與一名印度男孩之間的跨種族愛情故事!面對許多困難，他們的愛能戰勝嗎?</desc>
+  </programme>
+  <programme channel="天映經典馬來西亞" start="20261105133000 +0800" stop="20261105151000 +0800">
+    <title lang="zh">邪咒</title>
+    <desc lang="zh">在這部喜劇中，當惡魔為了擁有她而安排他真愛被宰殺時，他釋放了地獄般的情感。由洛夢主演。</desc>
+  </programme>
+  <programme channel="天映經典馬來西亞" start="20261105151000 +0800" stop="20261105164500 +0800">
+    <title lang="zh">廣東十虎</title>
+    <desc lang="zh">清和明的支持者在光東家族之間，曾懷有舊怨，終於引出一名年輕男子回來為父親的死報仇。</desc>
+  </programme>
+  <programme channel="天映經典馬來西亞" start="20261105164500 +0800" stop="20261105181500 +0800">
+    <title lang="zh">哪吒與七魔</title>
+    <desc lang="zh">小娜查意外地將7個魔法水蜜桃掉落到地上，使7隻動物變成惡魔。娜查必須追捕他們所有人，否則他的父親將受到天國王的懲罰。</desc>
+  </programme>
+  <programme channel="天映經典馬來西亞" start="20261105181500 +0800" stop="20261105201000 +0800">
+    <title lang="zh">馬可·波羅</title>
+    <desc lang="zh">由傳奇的張哲執導，這部令人激動的故事呈現了這位著名義大利探險家冒險經歷的虛構故事。</desc>
+  </programme>
+  <programme channel="天映經典馬來西亞" start="20261105201000 +0800" stop="20261105220000 +0800">
+    <title lang="zh">人間女神</title>
+    <desc lang="zh">一位迷人的女仙子在凡人之間尋找愛情，並在照顧孤兒院的男子中找到。</desc>
+  </programme>
+  <programme channel="天映經典馬來西亞" start="20261105220000 +0800" stop="20261105234000 +0800">
+    <title lang="zh">銀狐</title>
+    <desc lang="zh">女演員莉莉·霍飾演令人畏懼的劍術女劍士西爾弗·福克斯，她親眼目睹父親無謂的致殘，以及母親遭受性侵。18年後，這是回饋時間。</desc>
+  </programme>
+  <programme channel="天映經典馬來西亞" start="20261105234000 +0800" stop="20261106011000 +0800">
+    <title lang="zh">倩女幽魂</title>
+    <desc lang="zh">一位殘酷的叔叔站在一位年輕學者與那位愛上他的美麗女孩，以及幸福之間。</desc>
+  </programme>
+  <programme channel="天映經典馬來西亞" start="20261106011000 +0800" stop="20261106024500 +0800">
+    <title lang="zh">唐人街小子</title>
+    <desc lang="zh">一名正在逃跑的人(富盛)了解到，英雄主義可能會導致虛無主義的褻瀆。</desc>
+  </programme>
+  <programme channel="天映經典馬來西亞" start="20261106024500 +0800" stop="20261106042000 +0800">
+    <title lang="zh">裸血</title>
+    <desc lang="zh">一名男子被一名惡毒肚皮舞者施壓，妻子的盡責，揭開了一個欺騙、雙十字、謀殺和勒索的陷阱。</desc>
+  </programme>
+  <programme channel="天映經典馬來西亞" start="20261106042000 +0800" stop="20261106062000 +0800">
+    <title lang="zh">鑽石艷盜</title>
+    <desc lang="zh">兩名珠寶竊賊被設定在同一個目標上，但當他們初次見面時，火花會飛來飛去，他們立刻陷入戀愛，卻不知道自己是競爭對手。</desc>
+  </programme>
+  <programme channel="天映經典馬來西亞" start="20261106062000 +0800" stop="20261106080500 +0800">
+    <title lang="zh">誓不罷休</title>
+    <desc lang="zh">在一名有罪的亞歷克斯向受傷的妻子董坦承婚外情後，她最終竟與亞歷克斯的母親及其情婦同住，兩人同居屋簷下!</desc>
+  </programme>
+  <programme channel="天映經典馬來西亞" start="20261106080500 +0800" stop="20261106094500 +0800">
+    <title lang="zh">醜聞</title>
+    <desc lang="zh">當《無稽之日》中，明和梁偶然發現涉及政府官員醜聞的紀錄時，接下來便是一場史詩般的幽默冒險。</desc>
+  </programme>
+  <programme channel="天映經典馬來西亞" start="20261106094500 +0800" stop="20261106112500 +0800">
+    <title lang="zh">決戰紫禁之巔</title>
+    <desc lang="zh">兩名男子在試圖調查一名劍人疑似遭謀殺的謀殺案時，發現比他們預期的還要多。</desc>
+  </programme>
+  <programme channel="天映經典馬來西亞" start="20261106112500 +0800" stop="20261106133500 +0800">
+    <title lang="zh">淫婦</title>
+    <desc lang="zh">自1947年以來主演超過60部電影的李立華，在清朝最後幾天，以優美的描繪著一位不為人所為的幼童妻子。</desc>
+  </programme>
+  <programme channel="天映經典馬來西亞" start="20261106133500 +0800" stop="20261106152000 +0800">
+    <title lang="zh">捉鬼特攻隊</title>
+    <desc lang="zh">這部精彩動人的動作喜劇，以國際喜愛的亞歷山大·傅盛為主角，展現了烏蘇與魔法的精彩精彩呈現。</desc>
+  </programme>
+  <programme channel="天映經典馬來西亞" start="20261106152000 +0800" stop="20261106170000 +0800">
+    <title lang="zh">俠客行</title>
+    <desc lang="zh">許英雄在這部引人入勝的劍術史詩中，展開尋找遺失的武術手冊的探索之旅，星光耀眼。</desc>
+  </programme>
+  <programme channel="天映經典馬來西亞" start="20261106170000 +0800" stop="20261106184500 +0800">
+    <title lang="zh">插翅難飛</title>
+    <desc lang="zh">導演喬元與明星鐵龍與著名小說家朱宇合作，創作這部引人入勝的功夫故事。</desc>
+  </programme>
+  <programme channel="天映經典馬來西亞" start="20261106184500 +0800" stop="20261106202000 +0800">
+    <title lang="zh">雙喜臨門</title>
+    <desc lang="zh">兩位才華洋溢的情鳥想出了一個他們認為是萬無一失的計畫，讓父母允許他們進行夫妻關係。由李慶主演。</desc>
+  </programme>
+  <programme channel="天映經典馬來西亞" start="20261106202000 +0800" stop="20261106220000 +0800">
+    <title lang="zh">少林寺小子</title>
+    <desc lang="zh">一名綽號「小子」的僧侶在遇到一名殘忍的匪徒兒子和一名遭虐待的妓女後，發現他手上曾發生一連串幫派衝突。</desc>
+  </programme>
+  <programme channel="天映經典馬來西亞" start="20261106220000 +0800" stop="20261106234000 +0800">
+    <title lang="zh">塞外奇俠傳</title>
+    <desc lang="zh">琳達·林戴飾演一位美人，為了中國人民的善而犧牲自己。然而，真相被揭露得太遲了。</desc>
+  </programme>
+  <programme channel="天映經典馬來西亞" start="20261106234000 +0800" stop="20261107011500 +0800">
+    <title lang="zh">追尋</title>
+    <desc lang="zh">由鄭康編劇並執導的這部由岳華主演的經典電影，描繪了宋朝軍隊總教官由一位貪腐的部長所描繪的畫面。</desc>
+  </programme>
 </tv>

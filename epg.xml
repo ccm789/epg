@@ -5242,6 +5242,15 @@
 <channel id="456566">
     <display-name lang="TW">LS Time電影台</display-name>
     <icon src="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/LSTIME.png" />
+    <display-name lang="zh">LS龍祥電影台</display-name>
+    <display-name lang="zh">LS龍祥電影台|備</display-name>
+    <display-name lang="zh">龍祥時代電影台</display-name>
+    <display-name lang="zh">龍祥時代</display-name>
+    <display-name lang="zh">龙祥时代电影台</display-name>
+    <display-name lang="zh">龙祥时代</display-name>
+    <display-name lang="zh">LS TIME Movie</display-name>
+    <display-name lang="zh">LS Time電影台HD</display-name>
+    <display-name lang="zh">LS Time Movie HD</display-name>
       <display-name lang="zh">LS Time电影台</display-name>
     <display-name lang="zh">LS Time电影台 HD</display-name>
     <display-name lang="zh">LS Time电影台 高清</display-name>
@@ -11250,6 +11259,13 @@
   </channel>
 <channel id="s_CCM">
     <display-name lang="zh">CCM</display-name>
+    <icon src="https://gh-proxy.com/raw.githubusercontent.com/ccm789/epg/main/logos/CCM.png" />
+    <display-name lang="zh">天映經典</display-name>
+    <display-name lang="zh">天映经典</display-name>
+    <display-name lang="zh">天映經典頻道</display-name>
+    <display-name lang="zh">天映经典频道</display-name>
+    <display-name lang="zh">Celestial Classic Movies</display-name>
+    <display-name lang="zh">CCM 天映經典</display-name>
   </channel>
 <channel id="s_CELESTIALMOVIESHD">
     <display-name lang="zh">CELESTIALMOVIESHD</display-name>

@@ -10613,10 +10613,17 @@
 <channel id="g_HOY78">
     <display-name lang="zh">HOY78</display-name>
     <group>港澳台</group>
+    <display-name lang="zh">HOY 78</display-name>
+    <display-name lang="zh">HOY 資訊台</display-name>
+    <icon src="https://raw.githubusercontent.com/ccm789/epg/main/logos/HOY78.png" />
   </channel>
 <channel id="g_HOY77">
     <display-name lang="zh">HOY77</display-name>
     <group>港澳台</group>
+    <display-name lang="zh">HOY 77</display-name>
+    <display-name lang="zh">HOY TV</display-name>
+    <display-name lang="zh">香港開電視</display-name>
+    <icon src="https://raw.githubusercontent.com/ccm789/epg/main/logos/HOY77.png" />
   </channel>
 <channel id="g_SUPER FREE">
     <display-name lang="zh">SUPER FREE</display-name>
@@ -10944,6 +10951,8 @@
 </channel>
 <channel id="s_HOY78">
     <display-name lang="zh">HOY78</display-name>
+    <display-name lang="zh">HOY 78</display-name>
+    <icon src="https://raw.githubusercontent.com/ccm789/epg/main/logos/HOY78.png" />
   </channel>
 <channel id="s_SUPER FREE">
     <display-name lang="zh">SUPER FREE</display-name>

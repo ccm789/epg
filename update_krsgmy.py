@@ -111,6 +111,47 @@ for cc, out, tz, keep in COUNTRIES:
         f.write('\n'.join(lines))
     print(f'{out}: {len(keep_ids)} channels, {len(kept_progs)} programmes (dropped expired {dropped}), logos {logo_n}, {os.path.getsize(out)//1024}KB')
 
+# ---------- 韩国：从 filegear 源提取 KR 频道 ----------
+KR_WHITELIST = re.compile(r'^(KBSWORLD(\(HD\))?|KBSWORLDHD|KBSW|TVN|TVNHD|TVNMOVIES|TVNHD\(MANDARIN\)|TVNHD\(MALAY\)|JTBC.*|MBN.*|OCN.*)$', re.I)
+try:
+    fg_path = os.path.join(CACHE, 'fg.xml')
+    if not os.path.exists(fg_path):
+        gz = fetch('https://epg.946985.filegear-sg.me/t.xml.gz', binary=True)
+        with gzip.open(fg_path, 'wb') as f:
+            f.write(gz)
+    data = open(fg_path, encoding='utf-8', errors='ignore').read()
+    kr_chans, kr_progs = {}, []
+    for m in re.finditer(r'<channel id="([^"]+)">(.*?)</channel>', data, re.S):
+        cid, body = m.group(1), m.group(2)
+        names = re.findall(r'<display-name[^>]*>([^<]+)</display-name>', body)
+        if names and KR_WHITELIST.match(' '.join(names)):
+            kr_chans[cid] = names
+    for m in re.finditer(r'<programme channel="([^"]+)" start="(\d{14}) \+0800" stop="(\d{14}) \+0800">(.*?)</programme>', data, re.S):
+        if m.group(1) in kr_chans:
+            st, sp, body = m.group(2), m.group(3), m.group(4)
+            if datetime.datetime.strptime(sp[:14], '%Y%m%d%H%M%S') > NOW:
+                kr_progs.append(f'<programme channel="{m.group(1)}" start="{st} +0800" stop="{sp} +0800">{body}</programme>')
+    lines = ['<?xml version="1.0" encoding="UTF-8"?>',
+             '<tv generator-info-name="epgsgmy" source-info-url="https://epg.946985.filegear-sg.me">']
+    logo_n = 0
+    for cid, names in sorted(kr_chans.items(), key=lambda x: -len(x[1][0])):
+        logo = find_logo(names)
+        if logo:
+            logo_n += 1
+        lines.append(f'  <channel id="{cid}">')
+        for n in names:
+            lines.append(f'    <display-name lang="zh">{n}</display-name>')
+        if logo:
+            lines.append(f'    <icon src="{logo}" />')
+        lines.append('  </channel>')
+    lines += kr_progs
+    lines.append('</tv>')
+    with open('epg_kr.xml', 'w', encoding='utf-8') as f:
+        f.write('\n'.join(lines))
+    print(f'epg_kr.xml: {len(kr_chans)} channels, {len(kr_progs)} programmes, logos {logo_n}, {os.path.getsize("epg_kr.xml")//1024}KB')
+except Exception as e:
+    print('KR extract fail:', e)
+
 # ---------- 合并为单文件 epg_sgmy.xml ----------
 def body_of(path):
     x = open(path, encoding='utf-8').read()

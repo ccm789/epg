@@ -202,9 +202,39 @@ for extra in ('epg_kr.xml', 'epg_my_fg.xml'):
         nch += b.count('<channel id=')
         nprog += b.count('<programme')
         merged.append(b)
+# ---------- 别名：兼容播放列表里的常见叫法（TiviMate 名称匹配用） ----------
+ALIAS = {
+    '492816': ['CH-5', 'CH5', '5 CH-5', '新传媒5频道'],           # Channel 5
+    '492894': ['CH-8', 'CH8', '8 CH-8', '新传媒8频道'],           # Channel 8
+    '492864': ['CH-U', 'CHU', 'U频道'],                            # Channel U
+    '492817': ['Vasantha HD'],                                     # Vasantham
+    '492874': ['CNA HD', 'Channel NewsAsia'],                      # CNA
+    '492898': ['Hub 如意台', 'Hub如意台', 'HUB RUYI'],             # Hub Ruyi
+    '492903': ['Hub Premier 1 HD', 'HUB PREMIER 1'],               # Hub Premier 1
+    '492895': ['Hub E-City HD', 'Hub E City'],                     # Hub E City HD
+    '492851': ['Hub VVDrama HD', 'Hub VV Drama', 'HUB VVDRAMA'],   # Hub VV Drama HD
+    '492834': ['Hub Sports 1', 'HUB SPORTS 1 HD'],
+    '492827': ['Hub Sports 2', 'HUB SPORTS 2 HD'],
+    '492882': ['天映頻道', '天映频道', 'Celestial Movies'],        # Celestial Movies HD
+    '492899': ['天映經典', '天映经典', 'Celestial Classic Movies'],# CCM
+}
+def add_aliases(text):
+    for cid, extras in ALIAS.items():
+        pat = re.compile(r'(<channel id="%s">\s*)((?:\s*<display-name[^>]*>[^<]*</display-name>)+)' % re.escape(cid))
+        m = pat.search(text)
+        if not m:
+            continue
+        have = set(re.findall(r'<display-name[^>]*>([^<]*)</display-name>', m.group(2)))
+        add = ''.join(f'<display-name lang="zh">{a}</display-name>\n    ' for a in extras if a not in have)
+        if add:
+            text = text[:m.end(2)] + '\n    ' + add.rstrip() + text[m.end(2):]
+    return text
+
 if merged:
+    final = ('<?xml version="1.0" encoding="UTF-8"?>\n<tv generator-info-name="epgsgmy" source-info-url="https://epg.pw">\n'
+             + '\n'.join(merged) + '\n</tv>\n')
+    final = add_aliases(final)
     with open('epg_sgmy.xml', 'w', encoding='utf-8') as f:
-        f.write('<?xml version="1.0" encoding="UTF-8"?>\n<tv generator-info-name="epgsgmy" source-info-url="https://epg.pw">\n'
-                + '\n'.join(merged) + '\n</tv>\n')
+        f.write(final)
     print(f'epg_sgmy.xml: {nch} channels, {nprog} programmes, {os.path.getsize("epg_sgmy.xml")//1024}KB')
 print('done')

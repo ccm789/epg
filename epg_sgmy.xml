@@ -38,6 +38,10 @@
   </channel>
   <channel id="492816">
     <display-name lang="zh">Channel 5</display-name>
+    <display-name lang="zh">CH-5</display-name>
+    <display-name lang="zh">CH5</display-name>
+    <display-name lang="zh">5 CH-5</display-name>
+    <display-name lang="zh">新传媒5频道</display-name>
   </channel>
   <channel id="492872">
     <display-name lang="zh">CCTV-4</display-name>
@@ -62,6 +66,10 @@
   </channel>
   <channel id="492894">
     <display-name lang="zh">Channel 8</display-name>
+    <display-name lang="zh">CH-8</display-name>
+    <display-name lang="zh">CH8</display-name>
+    <display-name lang="zh">8 CH-8</display-name>
+    <display-name lang="zh">新传媒8频道</display-name>
   </channel>
   <channel id="570455">
     <display-name lang="zh">Phoenix Chinese Channel HD</display-name>
@@ -74,12 +82,17 @@
   </channel>
   <channel id="492864">
     <display-name lang="zh">Channel U</display-name>
+    <display-name lang="zh">CH-U</display-name>
+    <display-name lang="zh">CHU</display-name>
+    <display-name lang="zh">U频道</display-name>
   </channel>
   <channel id="492865">
     <display-name lang="zh">Cartoon Network</display-name>
   </channel>
   <channel id="492903">
     <display-name lang="zh">Hub Premier 1</display-name>
+    <display-name lang="zh">Hub Premier 1 HD</display-name>
+    <display-name lang="zh">HUB PREMIER 1</display-name>
   </channel>
   <channel id="549952">
     <display-name lang="zh">Drama Hebat</display-name>
@@ -95,6 +108,8 @@
   </channel>
   <channel id="492874">
     <display-name lang="zh">CNA</display-name>
+    <display-name lang="zh">CNA HD</display-name>
+    <display-name lang="zh">Channel NewsAsia</display-name>
   </channel>
   <channel id="492906">
     <display-name lang="zh">Asianet</display-name>
@@ -227,6 +242,8 @@
   </channel>
   <channel id="492895">
     <display-name lang="zh">Hub E City HD</display-name>
+    <display-name lang="zh">Hub E-City HD</display-name>
+    <display-name lang="zh">Hub E City</display-name>
   </channel>
   <channel id="492869">
     <display-name lang="zh">Astro Sensasi HD</display-name>
@@ -251,6 +268,7 @@
   </channel>
   <channel id="492817">
     <display-name lang="zh">Vasantham</display-name>
+    <display-name lang="zh">Vasantha HD</display-name>
   </channel>
   <channel id="501127">
     <display-name lang="zh">ABS-CBN News Channel</display-name>
@@ -272,6 +290,8 @@
   </channel>
   <channel id="492827">
     <display-name lang="zh">Hub Sports 2 HD</display-name>
+    <display-name lang="zh">Hub Sports 2</display-name>
+    <display-name lang="zh">HUB SPORTS 2 HD</display-name>
   </channel>
   <channel id="491156">
     <display-name lang="zh">Zee Tamil</display-name>
@@ -281,9 +301,14 @@
   </channel>
   <channel id="492851">
     <display-name lang="zh">Hub VV Drama HD</display-name>
+    <display-name lang="zh">Hub VVDrama HD</display-name>
+    <display-name lang="zh">Hub VV Drama</display-name>
+    <display-name lang="zh">HUB VVDRAMA</display-name>
   </channel>
   <channel id="492834">
     <display-name lang="zh">Hub Sports 1 HD</display-name>
+    <display-name lang="zh">Hub Sports 1</display-name>
+    <display-name lang="zh">HUB SPORTS 1 HD</display-name>
   </channel>
   <channel id="369828">
     <display-name lang="zh">ZEE TV</display-name>
@@ -299,6 +324,9 @@
   </channel>
   <channel id="492882">
     <display-name lang="zh">Celestial Movies HD</display-name>
+    <display-name lang="zh">天映頻道</display-name>
+    <display-name lang="zh">天映频道</display-name>
+    <display-name lang="zh">Celestial Movies</display-name>
   </channel>
   <channel id="492823">
     <display-name lang="zh">CinemaWorld</display-name>
@@ -308,6 +336,9 @@
   </channel>
   <channel id="492899">
     <display-name lang="zh">CCM</display-name>
+    <display-name lang="zh">天映經典</display-name>
+    <display-name lang="zh">天映经典</display-name>
+    <display-name lang="zh">Celestial Classic Movies</display-name>
   </channel>
   <channel id="369780">
     <display-name lang="zh">Cartoon Network (HD)</display-name>
@@ -338,6 +369,9 @@
   </channel>
   <channel id="492898">
     <display-name lang="zh">Hub Ruyi</display-name>
+    <display-name lang="zh">Hub 如意台</display-name>
+    <display-name lang="zh">Hub如意台</display-name>
+    <display-name lang="zh">HUB RUYI</display-name>
   </channel>
   <channel id="516575">
     <display-name lang="zh">Astro Prima HD</display-name>

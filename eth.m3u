@@ -131,7 +131,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=3a5c035bc4a173
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3f71275be7b84f732a
 #EXTINF:-1 tvg-id="368381" tvg-name="粵語片台" group-title="香港",粵語片台
 http://atryffad.usa3.345123.xyz/eth_play.php?name=9381c1931a49da96c9db1e84
-#EXTINF:-1 tvg-id="368348" tvg-name="美亞電影台" group-title="香港",美亞電影台
+#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/ccm789/epg/main/logos/MAE.png" tvg-id="368348" tvg-name="美亞電影台" group-title="香港",美亞電影台
 http://atryffad.usa3.345123.xyz/eth_play.php?name=938dfa9f0a49d484f5db2c85950ce4
 #EXTINF:-1 tvg-id="368339" tvg-name="Thrill" group-title="香港",Thrill
 http://atryffad.usa3.345123.xyz/eth_play.php?name=205b0612dcbb
@@ -559,9 +559,9 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=92aec59d1379d484f5db2c85950ce4
 http://atryffad.usa3.345123.xyz/eth_play.php?name=9384db9f0e51d484f5db2c85950ce4
 #EXTINF:-1 tvg-id="456565" tvg-name="緯來電影台|備" group-title="台灣",緯來電影台|備
 http://atryffad.usa3.345123.xyz/eth_play.php?name=9384db9f0e51d484f5db2c85950ce47b94f267
-#EXTINF:-1 tvg-id="LS龍祥電影台" tvg-name="LS龍祥電影台" group-title="台灣",LS龍祥電影台
+#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/LSTIME.png" tvg-id="456566" tvg-name="LS龍祥電影台" group-title="台灣",LS龍祥電影台
 http://atryffad.usa3.345123.xyz/eth_play.php?name=38609dc53d3098baa7a52ad1cd32b188c1
-#EXTINF:-1 tvg-id="LS龍祥電影台|備" tvg-name="LS龍祥電影台|備" group-title="台灣",LS龍祥電影台|備
+#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/LSTIME.png" tvg-id="456566" tvg-name="LS龍祥電影台|備" group-title="台灣",LS龍祥電影台|備
 http://atryffad.usa3.345123.xyz/eth_play.php?name=38609dc53d3098baa7a52ad1cd32b188c10c1b4430
 #EXTINF:-1 tvg-id="410283" tvg-name="HBO|備" group-title="台灣",HBO|備
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c713b075555a4
@@ -933,7 +933,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=35613d29f1997af6d68178b3fc6ad7
 http://atryffad.usa3.345123.xyz/eth_play.php?name=9c95e29c045ad590e1da2ab59737d4e2ded61b4919
 #EXTINF:-1 tvg-id="410773" tvg-name="影迷數位紀實台" group-title="台灣",影迷數位紀實台
 http://atryffad.usa3.345123.xyz/eth_play.php?name=918ec5930f60db8af6da2cb99737d4e2ded61b4919
-#EXTINF:-1 tvg-id="457360" tvg-name="美亞電影" group-title="台灣",美亞電影
+#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/ccm789/epg/main/logos/MAE.png" tvg-id="368348" tvg-name="美亞電影" group-title="台灣",美亞電影
 http://atryffad.usa3.345123.xyz/eth_play.php?name=938dfa9f0a49d484f5db2c85
 #EXTINF:-1 tvg-id="457361" tvg-name="龍華電影" group-title="台灣",龍華電影
 http://atryffad.usa3.345123.xyz/eth_play.php?name=9d8df9933f78d484f5db2c85

@@ -217,7 +217,7 @@
   </channel>
 <channel id="368348">
     <display-name lang="zh">美亞電影台</display-name>
-    <icon src="" />
+    
       <display-name lang="zh">美亚电影台</display-name>
     <display-name lang="zh">美亚电影台 HD</display-name>
     <display-name lang="zh">美亚电影台 高清</display-name>
@@ -229,6 +229,9 @@
     <display-name lang="zh">美亞電影臺 HD</display-name>
     <display-name lang="zh">美亞電影臺 高清</display-name>
     <display-name lang="zh">美亞電影臺HD</display-name>
+    <display-name lang="zh">美亞電影HD</display-name>
+    <display-name lang="zh">美亞電影</display-name>
+    <icon src="https://raw.githubusercontent.com/ccm789/epg/main/logos/MAE.png" />
   </channel>
 <channel id="368350">
     <display-name lang="zh">KIX</display-name>
@@ -10504,6 +10507,9 @@
 <channel id="g_美亚电影">
     <display-name lang="zh">美亚电影</display-name>
     <group>港澳台</group>
+    <display-name lang="zh">美亞電影HD</display-name>
+    <display-name lang="zh">美亞電影</display-name>
+    <icon src="https://raw.githubusercontent.com/ccm789/epg/main/logos/MAE.png" />
   </channel>
 <channel id="g_千禧经典台">
     <display-name lang="zh">千禧经典台</display-name>
@@ -10869,6 +10875,9 @@
   </channel>
 <channel id="s_美亚电影">
     <display-name lang="zh">美亚电影</display-name>
+    <display-name lang="zh">美亞電影HD</display-name>
+    <display-name lang="zh">美亞電影</display-name>
+    <icon src="https://raw.githubusercontent.com/ccm789/epg/main/logos/MAE.png" />
   </channel>
 <channel id="s_金色学堂">
     <display-name lang="zh">金色学堂</display-name>

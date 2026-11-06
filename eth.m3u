@@ -93,9 +93,9 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=91b6e69c1b72d890fe
 http://atryffad.usa3.345123.xyz/eth_play.php?name=2e5c1b36dfb8
 #EXTINF:-1 tvg-id="410275" tvg-name="Viu 頻道" group-title="香港",Viu 頻道
 http://atryffad.usa3.345123.xyz/eth_play.php?name=225a015b597786f6cfad
-#EXTINF:-1 tvg-id="368367" tvg-name="Nick Jr" group-title="香港",Nick Jr
+#EXTINF:-1 tvg-id="410363" tvg-name="Nick Jr" group-title="香港",Nick Jr
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a5a1710909d4f
-#EXTINF:-1 tvg-id="368336" tvg-name="Nickelodeon" group-title="香港",Nickelodeon
+#EXTINF:-1 tvg-id="410360" tvg-name="Nickelodeon" group-title="香港",Nickelodeon
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a5a1710d5bb527b2b51ff
 #EXTINF:-1 tvg-id="410276" tvg-name="Now華劇台" group-title="香港",Now華劇台
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a5c03933f78d895c9db1e84
@@ -131,7 +131,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=3a5c035bc4a173
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3f71275be7b84f732a
 #EXTINF:-1 tvg-id="368381" tvg-name="粵語片台" group-title="香港",粵語片台
 http://atryffad.usa3.345123.xyz/eth_play.php?name=9381c1931a49da96c9db1e84
-#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/ccm789/epg/main/logos/MAE.png" tvg-id="368348" tvg-name="美亞電影台" group-title="香港",美亞電影台
+#EXTINF:-1 tvg-id="368348" tvg-name="美亞電影台" group-title="香港",美亞電影台
 http://atryffad.usa3.345123.xyz/eth_play.php?name=938dfa9f0a49d484f5db2c85950ce4
 #EXTINF:-1 tvg-id="368339" tvg-name="Thrill" group-title="香港",Thrill
 http://atryffad.usa3.345123.xyz/eth_play.php?name=205b0612dcbb
@@ -171,7 +171,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=3a5c035bfeb24a6c6ed807849802ca
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a5c035bfeb24a6c6ed807849802cae2fec082232b25
 #EXTINF:-1 tvg-id="Now BNC 財經台" tvg-name="Now BNC 財經台" group-title="香港",Now BNC 財經台
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a5c035bf2997e3fa68c30d3c610b188c1
-#EXTINF:-1 tvg-id="368355" tvg-name="Love Nature HD" group-title="香港",Love Nature HD
+#EXTINF:-1 tvg-id="410299" tvg-name="Love Nature HD" group-title="香港",Love Nature HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=385c021e90995c6b3b4cf41438c7
 #EXTINF:-1 tvg-id="368356" tvg-name="Global Trekker" group-title="香港",Global Trekker
 http://atryffad.usa3.345123.xyz/eth_play.php?name=335f1b19d1bb1d4b3c5bfa5f15f1
@@ -181,7 +181,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=3a5c035bf4b61d492750f25d
 http://atryffad.usa3.345123.xyz/eth_play.php?name=267c37305761a1f7d9a3749ceb65fc85
 #EXTINF:-1 tvg-id="Now BBC Lifestyle" tvg-name="Now BBC Lifestyle" group-title="香港",Now BBC Lifestyle
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a5c035bf2957e3f0257f75103f72d6b14
-#EXTINF:-1 tvg-id="368326" tvg-name="tvN" group-title="香港",tvN
+#EXTINF:-1 tvg-id="410288" tvg-name="tvN" group-title="香港",tvN
 http://atryffad.usa3.345123.xyz/eth_play.php?name=00453a
 #EXTINF:-1 tvg-id="Now AXN" tvg-name="Now AXN" group-title="香港",Now AXN
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a5c035bf18f73
@@ -211,7 +211,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=9d80c79e3767d5bed5d637a29830d3
 http://atryffad.usa3.345123.xyz/eth_play.php?name=9d80c79e3767d5bed5d637a29925cde1c9df1b4919
 #EXTINF:-1 tvg-id="368357" tvg-name="無線衛星亞洲台" group-title="香港",無線衛星亞洲台
 http://atryffad.usa3.345123.xyz/eth_play.php?name=93b7d59c074dd5bed5d809ab9439cae1c5c21b4919
-#EXTINF:-1 tvg-id="FashionBox" tvg-name="FashionBox" group-title="香港",FashionBox
+#EXTINF:-1 tvg-id="s_FashionBox" tvg-name="FashionBox" group-title="香港",FashionBox
 http://atryffad.usa3.345123.xyz/eth_play.php?name=32520713d9b8535d2146
 #EXTINF:-1 tvg-id="370197" tvg-name="Mezzo Live HD" group-title="香港",Mezzo Live HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=39560e01dff77176385bb17c34
@@ -559,9 +559,9 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=92aec59d1379d484f5db2c85950ce4
 http://atryffad.usa3.345123.xyz/eth_play.php?name=9384db9f0e51d484f5db2c85950ce4
 #EXTINF:-1 tvg-id="456565" tvg-name="緯來電影台|備" group-title="台灣",緯來電影台|備
 http://atryffad.usa3.345123.xyz/eth_play.php?name=9384db9f0e51d484f5db2c85950ce47b94f267
-#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/LSTIME.png" tvg-id="456566" tvg-name="LS龍祥電影台" group-title="台灣",LS龍祥電影台
+#EXTINF:-1 tvg-id="LS龍祥電影台" tvg-name="LS龍祥電影台" group-title="台灣",LS龍祥電影台
 http://atryffad.usa3.345123.xyz/eth_play.php?name=38609dc53d3098baa7a52ad1cd32b188c1
-#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/LSTIME.png" tvg-id="456566" tvg-name="LS龍祥電影台|備" group-title="台灣",LS龍祥電影台|備
+#EXTINF:-1 tvg-id="LS龍祥電影台|備" tvg-name="LS龍祥電影台|備" group-title="台灣",LS龍祥電影台|備
 http://atryffad.usa3.345123.xyz/eth_play.php?name=38609dc53d3098baa7a52ad1cd32b188c10c1b4430
 #EXTINF:-1 tvg-id="410283" tvg-name="HBO|備" group-title="台灣",HBO|備
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c713b075555a4
@@ -651,7 +651,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=9daee29e147ed892efd711ae950ce4
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3751111ed2be586c
 #EXTINF:-1 tvg-id="370158" tvg-name="達文西頻道" group-title="台灣",達文西頻道
 http://atryffad.usa3.345123.xyz/eth_play.php?name=9db2e09d2650d5baf1d7318f9902c7
-#EXTINF:-1 tvg-id="368367" tvg-name="Nick Jr." group-title="台灣",Nick Jr.
+#EXTINF:-1 tvg-id="410363" tvg-name="Nick Jr." group-title="台灣",Nick Jr.
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a5a1710909d4f316e
 #EXTINF:-1 tvg-id="456651" tvg-name="Dreamworks" group-title="台灣",Dreamworks
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3041111adda0526d254d
@@ -709,7 +709,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=92b7ef9c3869d49edad73aa09801e6
 http://atryffad.usa3.345123.xyz/eth_play.php?name=91beee9d2678d4b4d6d901b7943bd4e2fec0
 #EXTINF:-1 tvg-id="457247" tvg-name="博斯高球一台|備" group-title="台灣",博斯高球一台|備
 http://atryffad.usa3.345123.xyz/eth_play.php?name=91beee9d2678d4b4d6d901b7943bd4e2fec082232b25
-#EXTINF:-1 tvg-id="544779" tvg-name="博斯高球二台" group-title="台灣",博斯高球二台
+#EXTINF:-1 tvg-id="457248" tvg-name="博斯高球二台" group-title="台灣",博斯高球二台
 http://atryffad.usa3.345123.xyz/eth_play.php?name=91beee9d2678d4b4d6d901b79439d8e2fec0
 #EXTINF:-1 tvg-id="457249" tvg-name="博斯網球" group-title="台灣",博斯網球
 http://atryffad.usa3.345123.xyz/eth_play.php?name=91beee9d2678daa9fcd901b7
@@ -773,7 +773,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=92b7ef9c3869d49edad73aa09801e6
 http://atryffad.usa3.345123.xyz/eth_play.php?name=92b7ef9c3869d49edad73aa09801e64a3028c723260c
 #EXTINF:-1 tvg-id="s_愛爾達體育MAX10台" tvg-name="愛爾達體育MAX10台" group-title="台灣",愛爾達體育MAX10台
 http://atryffad.usa3.345123.xyz/eth_play.php?name=92b7ef9c3869d49edad73aa09801e64a3028cff64c33be
-#EXTINF:-1 tvg-id="368355" tvg-name="LOVE NATURE" group-title="台灣",LOVE NATURE
+#EXTINF:-1 tvg-id="410299" tvg-name="LOVE NATURE" group-title="台灣",LOVE NATURE
 http://atryffad.usa3.345123.xyz/eth_play.php?name=387c223e90997c4b1b6cd4
 #EXTINF:-1 tvg-id="410301" tvg-name="BBC Earth" group-title="台灣",BBC Earth
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3671375bf5b64f6b26
@@ -933,7 +933,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=35613d29f1997af6d68178b3fc6ad7
 http://atryffad.usa3.345123.xyz/eth_play.php?name=9c95e29c045ad590e1da2ab59737d4e2ded61b4919
 #EXTINF:-1 tvg-id="410773" tvg-name="影迷數位紀實台" group-title="台灣",影迷數位紀實台
 http://atryffad.usa3.345123.xyz/eth_play.php?name=918ec5930f60db8af6da2cb99737d4e2ded61b4919
-#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/ccm789/epg/main/logos/MAE.png" tvg-id="368348" tvg-name="美亞電影" group-title="台灣",美亞電影
+#EXTINF:-1 tvg-id="457360" tvg-name="美亞電影" group-title="台灣",美亞電影
 http://atryffad.usa3.345123.xyz/eth_play.php?name=938dfa9f0a49d484f5db2c85
 #EXTINF:-1 tvg-id="457361" tvg-name="龍華電影" group-title="台灣",龍華電影
 http://atryffad.usa3.345123.xyz/eth_play.php?name=9d8df9933f78d484f5db2c85
@@ -967,7 +967,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=9db4e59e355ed8a7cdd633bf960be6
 http://atryffad.usa3.345123.xyz/eth_play.php?name=35400009dff77c682f50f8
 #EXTINF:-1 tvg-id="s_ASTRO30" tvg-name="Astro30" group-title="馬來西亞",Astro30
 http://atryffad.usa3.345123.xyz/eth_play.php?name=35400009dfe40d
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" group-title="馬來西亞",TV1
+#EXTINF:-1 tvg-id="s_CETV-1高清" tvg-name="TV1" group-title="馬來西亞",TV1
 http://atryffad.usa3.345123.xyz/eth_play.php?name=206545
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2" group-title="馬來西亞",TV2
 http://atryffad.usa3.345123.xyz/eth_play.php?name=206546
@@ -995,7 +995,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=2e56115bf3be537a235f
 http://atryffad.usa3.345123.xyz/eth_play.php?name=355d1d0bdca24e
 #EXTINF:-1 tvg-id="s_POKEMON" tvg-name="Pokemon" group-title="馬來西亞",Pokemon
 http://atryffad.usa3.345123.xyz/eth_play.php?name=245c1f1eddb853
-#EXTINF:-1 tvg-id="TVS" tvg-name="TVS" group-title="馬來西亞",TVS
+#EXTINF:-1 tvg-id="s_myTV SUPER直播足球7台" tvg-name="TVS" group-title="馬來西亞",TVS
 http://atryffad.usa3.345123.xyz/eth_play.php?name=206527
 #EXTINF:-1 tvg-id="s_TVOKEY" tvg-name="TV OKEY" group-title="馬來西亞",TV OKEY
 http://atryffad.usa3.345123.xyz/eth_play.php?name=20655434fb9264
@@ -1023,7 +1023,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=27461a5bfcbe5b7a
 http://atryffad.usa3.345123.xyz/eth_play.php?name=275c1a0290815465265f
 #EXTINF:-1 tvg-id="STAR VIJAY HD" tvg-name="STAR VIJAY HD" group-title="馬來西亞",STAR VIJAY HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=27673529908174550f67b17c34
-#EXTINF:-1 tvg-id="COLORS TAMIL" tvg-name="COLORS TAMIL" group-title="馬來西亞",COLORS TAMIL
+#EXTINF:-1 tvg-id="s_COLORS TAMIL HD" tvg-name="COLORS TAMIL" group-title="馬來西亞",COLORS TAMIL
 http://atryffad.usa3.345123.xyz/eth_play.php?name=377c3834e2841d4b0f73d878
 #EXTINF:-1 tvg-id="s_ZEE TAMIL" tvg-name="ZEE TAMIL HD" group-title="馬來西亞",ZEE TAMIL HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=2e76315be4967056021ed970
@@ -1069,7 +1069,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=2113241adeb35c3f1a68
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3f71272c909f79
 #EXTINF:-1 tvg-id="s_ASTRODAEBAK" tvg-name="Astro Daebak" group-title="馬來西亞",Astro Daebak
 http://atryffad.usa3.345123.xyz/eth_play.php?name=35400009dff7797e2b5cf05f
-#EXTINF:-1 tvg-id="368326" tvg-name="tvN HD" group-title="馬來西亞",tvN HD
+#EXTINF:-1 tvg-id="410288" tvg-name="tvN HD" group-title="馬來西亞",tvN HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=00453a5bf893
 #EXTINF:-1 tvg-id="s_KPLUS" tvg-name="KPLUS" group-title="馬來西亞",KPLUS
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3f63382ee3
@@ -1111,11 +1111,11 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=377d3638909f79
 http://atryffad.usa3.345123.xyz/eth_play.php?name=367f3b34fd95784d091eb16026a31c43
 #EXTINF:-1 tvg-id="410383" tvg-name="ABC AUSTRALIA" group-title="馬來西亞",ABC AUSTRALIA
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3571375bf1826e4b1c7fdd7d31
-#EXTINF:-1 tvg-id="368373" tvg-name="DW HD" group-title="馬來西亞",DW HD
+#EXTINF:-1 tvg-id="410311" tvg-name="DW HD" group-title="馬來西亞",DW HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=30645433f4
-#EXTINF:-1 tvg-id="368342" tvg-name="FRANCE24 HD" group-title="馬來西亞",FRANCE24 HD
+#EXTINF:-1 tvg-id="410314" tvg-name="FRANCE24 HD" group-title="馬來西亞",FRANCE24 HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=32613535f3920f2b6e76d5
-#EXTINF:-1 tvg-id="368355" tvg-name="Love Nature" group-title="馬來西亞",Love Nature
+#EXTINF:-1 tvg-id="410299" tvg-name="Love Nature" group-title="馬來西亞",Love Nature
 http://atryffad.usa3.345123.xyz/eth_play.php?name=385c021e90995c6b3b4cf4
 #EXTINF:-1 tvg-id="456519" tvg-name="DISCOVERY HD" group-title="馬來西亞",DISCOVERY HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=307a2738ff81784d171ed970
@@ -1133,7 +1133,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=37762632f1f7755b
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3772262fff98733f006ac67f50cb10
 #EXTINF:-1 tvg-id="s_Nickelodeon" tvg-name="NICKELODEON HD" group-title="馬來西亞",NICKELODEON HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a7a3730f59b725b0b71df1438c7
-#EXTINF:-1 tvg-id="368367" tvg-name="NICK JR" group-title="馬來西亞",NICK JR
+#EXTINF:-1 tvg-id="410363" tvg-name="NICK JR" group-title="馬來西亞",NICK JR
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a7a3730909d6f
 #EXTINF:-1 tvg-id="Moonbug Kids" tvg-name="Moonbug Kids" group-title="馬來西亞",Moonbug Kids
 http://atryffad.usa3.345123.xyz/eth_play.php?name=395c1b15d2a25a3f0557f547
@@ -1433,7 +1433,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=93aeef9e0d7edaaecdd901b7
 http://atryffad.usa3.345123.xyz/eth_play.php?name=93aeef9e0d7ed8a4eddb3180980bca
 #EXTINF:-1 tvg-id="五星體育" tvg-name="五星體育" group-title="大陸",五星體育
 http://atryffad.usa3.345123.xyz/eth_play.php?name=9089e09d2848d4b4dad61386
-#EXTINF:-1 tvg-id="NHK WORLD" tvg-name="NHK WORLD" group-title="日本",NHK WORLD
+#EXTINF:-1 tvg-id="s_NHKWORLD" tvg-name="NHK WORLD" group-title="日本",NHK WORLD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a7b3f5be7986f530a
 #EXTINF:-1 tvg-id="NTV (日本テレビ)" tvg-name="NTV (日本テレビ)" group-title="日本",NTV (日本テレビ)
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a67225b9831aabaa8a23dd7f305b784dd937d5580
@@ -1543,7 +1543,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=3e602434e2836e3f7d
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3e602434e2836e3f7a
 #EXTINF:-1 tvg-id="MBS" tvg-name="MBS" group-title="日本",MBS
 http://atryffad.usa3.345123.xyz/eth_play.php?name=397127
-#EXTINF:-1 tvg-id="s_NHKWORLDPREMIUMHD" tvg-name="NHK G" group-title="日本",NHK G
+#EXTINF:-1 tvg-id="s_NHKWORLD" tvg-name="NHK G" group-title="日本",NHK G
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a7b3f5bf7
 #EXTINF:-1 tvg-id="NHK BS" tvg-name="NHK BS" group-title="日本",NHK BS
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a7b3f5bf284
@@ -1839,7 +1839,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=27580d5be3a7526d3a1ea9
 http://atryffad.usa3.345123.xyz/eth_play.php?name=27580d5be3a7526d3a1ea8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="紐西蘭",ESPN
 http://atryffad.usa3.345123.xyz/eth_play.php?name=31602435
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="紐西蘭",ESPN 2
+#EXTINF:-1 tvg-id="s_ESPN 2" tvg-name="ESPN 2" group-title="紐西蘭",ESPN 2
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3160243590e5
 #EXTINF:-1 tvg-id="s_SKYMOVIESPREMIERE" tvg-name="Sky Movies Premiere" group-title="紐西蘭",Sky Movies Premiere
 http://atryffad.usa3.345123.xyz/eth_play.php?name=27580d5bfdb84b762b4db16402e6396e14029b
@@ -1993,7 +1993,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=2065263290997c4c0771df753c
 http://atryffad.usa3.345123.xyz/eth_play.php?name=2e76315bf29e724c0571c1
 #EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" group-title="英國",BBC One
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3671375bffb958
-#EXTINF:-1 tvg-id="BBC Two" tvg-name="BBC Two" group-title="英國",BBC Two
+#EXTINF:-1 tvg-id="s_BBC News" tvg-name="BBC Two" group-title="英國",BBC Two
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3671375be4a052
 #EXTINF:-1 tvg-id="BBC Three" tvg-name="BBC Three" group-title="英國",BBC Three
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3671375be4bf4f7a2b
@@ -2007,7 +2007,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=3671375bf3b5587a2c57f447
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3671375be3b4526b225fff50
 #EXTINF:-1 tvg-id="BBC Parliament" tvg-name="BBC Parliament" group-title="英國",BBC Parliament
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3671375be0b64f73275ffc511ef7
-#EXTINF:-1 tvg-id="BBC Alba" tvg-name="BBC Alba" group-title="英國",BBC Alba
+#EXTINF:-1 tvg-id="s_BBC News" tvg-name="BBC Alba" group-title="英國",BBC Alba
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3671375bf1bb5f7e
 #EXTINF:-1 tvg-id="BBC S4C" tvg-name="BBC S4C" group-title="英國",BBC S4C
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3671375be3e37e
@@ -2053,13 +2053,13 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=24411116d9b24f3f1d4efe4604f074
 http://atryffad.usa3.345123.xyz/eth_play.php?name=24411116d9b24f3f1d4efe4604f07435
 #EXTINF:-1 tvg-id="s_ITV1" tvg-name="ITV1" group-title="英國",ITV1
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3d67224a
-#EXTINF:-1 tvg-id="ITV2" tvg-name="ITV2" group-title="英國",ITV2
+#EXTINF:-1 tvg-id="s_ITV1" tvg-name="ITV2" group-title="英國",ITV2
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3d672249
 #EXTINF:-1 tvg-id="ITV3" tvg-name="ITV3" group-title="英國",ITV3
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3d672248
-#EXTINF:-1 tvg-id="ITV4" tvg-name="ITV4" group-title="英國",ITV4
+#EXTINF:-1 tvg-id="s_ITV1" tvg-name="ITV4" group-title="英國",ITV4
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3d67224f
-#EXTINF:-1 tvg-id="ITVBe" tvg-name="ITVBe" group-title="英國",ITVBe
+#EXTINF:-1 tvg-id="s_ITV1" tvg-name="ITVBe" group-title="英國",ITVBe
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3d672239d5
 #EXTINF:-1 tvg-id="MUTV" tvg-name="MUTV" group-title="英國",MUTV
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3966202d
@@ -2111,7 +2111,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=908bd99d276dd484f5d637a2950ce4
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a52005bf7b2523f667dd01d
 #EXTINF:-1 tvg-id="Nat Geo Wild (CA)" tvg-name="Nat Geo Wild (CA)" group-title="北美",Nat Geo Wild (CA)
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a52005bf7b2523f1957fd5050ab174658
-#EXTINF:-1 tvg-id="TSN1" tvg-name="TSN1" group-title="北美",TSN1
+#EXTINF:-1 tvg-id="s_TSN1" tvg-name="TSN1" group-title="北美",TSN1
 http://atryffad.usa3.345123.xyz/eth_play.php?name=20603a4a
 #EXTINF:-1 tvg-id="TSN2" tvg-name="TSN2" group-title="北美",TSN2
 http://atryffad.usa3.345123.xyz/eth_play.php?name=20603a49
@@ -2127,7 +2127,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=3741150dd5e6
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3741150dd5e5
 #EXTINF:-1 tvg-id="Crave3" tvg-name="Crave3" group-title="北美",Crave3
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3741150dd5e4
-#EXTINF:-1 tvg-id="USA Network" tvg-name="USA Network" group-title="北美",USA Network
+#EXTINF:-1 tvg-id="s_USANETWORK" tvg-name="USA Network" group-title="北美",USA Network
 http://atryffad.usa3.345123.xyz/eth_play.php?name=2160355bfeb24968214cfa
 #EXTINF:-1 tvg-id="HBO1" tvg-name="HBO1" group-title="北美",HBO1
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c713b4a
@@ -2153,7 +2153,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=3763544984
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3767225bfeb24a6c
 #EXTINF:-1 tvg-id="MLB Network" tvg-name="MLB Network" group-title="北美",MLB Network
 http://atryffad.usa3.345123.xyz/eth_play.php?name=397f365bfeb24968214cfa
-#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN2" group-title="北美",ESPN2
+#EXTINF:-1 tvg-id="s_ESPN 2" tvg-name="ESPN2" group-title="北美",ESPN2
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3160243582
 #EXTINF:-1 tvg-id="ESPNU" tvg-name="ESPNU" group-title="北美",ESPNU
 http://atryffad.usa3.345123.xyz/eth_play.php?name=31602435e5
@@ -2175,7 +2175,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=2065365bf4a55c722f
 http://atryffad.usa3.345123.xyz/eth_play.php?name=2065365bfeb24a6c
 #EXTINF:-1 tvg-id="g_TVBJ" tvg-name="TVBJ1" group-title="北美",TVBJ1
 http://atryffad.usa3.345123.xyz/eth_play.php?name=2065363181
-#EXTINF:-1 tvg-id="TVB Pearl Drama" tvg-name="TVB Pearl Drama" group-title="北美",TVB Pearl Drama
+#EXTINF:-1 tvg-id="s_TVBPEARLDRAMA" tvg-name="TVB Pearl Drama" group-title="北美",TVB Pearl Drama
 http://atryffad.usa3.345123.xyz/eth_play.php?name=2065365be0b25c6d221ed54611ee35
 #EXTINF:-1 tvg-id="NBA 24/7 TV (APP)" tvg-name="NBA 24/7 TV (APP)" group-title="NBA",NBA 24/7 TV (APP)
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a71355b82e312286e6ac71458c2045758

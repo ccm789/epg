@@ -285,9 +285,9 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=16563d3590846d501c6ac21446
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a5c035be3a7526d3a4db10244b4
 #EXTINF:-1 tvg-id="410414" tvg-name="Now668" group-title="香港",Now668
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a5c034d86ef
-#EXTINF:-1 tvg-id="410419" tvg-name="Now Sports Plus" group-title="香港",Now Sports Plus
+#EXTINF:-1 tvg-id="Now Sports Plus" tvg-name="Now Sports Plus" group-title="香港",Now Sports Plus
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a5c035be3a7526d3a4db1641cf627
-#EXTINF:-1 tvg-id="410419" tvg-name="Now Sports Plus|備" group-title="香港",Now Sports Plus|備
+#EXTINF:-1 tvg-id="Now Sports Plus|備" tvg-name="Now Sports Plus|備" group-title="香港",Now Sports Plus|備
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a5c035be3a7526d3a4db1641cf6277b94f267
 #EXTINF:-1 tvg-id="410420" tvg-name="Now Golf 2" group-title="香港",Now Golf 2
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a5c035bf7b851796e0c

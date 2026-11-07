@@ -167,3 +167,5 @@ http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
 http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
 #EXTINF:-1 tvg-id="MeiAhMovieChannel.hk@SD" tvg-name="美亚电影台" tvg-logo="" group-title="香港",美亚电影台
 http://103.172.187.30:12000/stream/mytv/null-10/master.m3u8
+#EXTINF:-1 tvg-id="NewsWorld.hk" tvg-name="NewsWorld" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e3bf0d9-3ca6-4f65-b1d4-f180ef725d96/NewsWorld_logo_dark_-_Angela_Chan.png" group-title="台湾",NewsWorld
+https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8

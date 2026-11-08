@@ -282,10 +282,26 @@ def add_aliases(text):
             text = text[:m.end(2)] + '\n    ' + add.rstrip() + text[m.end(2):]
     return text
 
+def merge_my_celestial(text):
+    """补马来西亚版天映频道(Celestial Movies HD, epg.pw MY 源 id 1298)"""
+    if 'channel id="1298"' in text:
+        return text
+    try:
+        src = fetch('https://epg.pw/xmltv/epg_MY.xml')
+    except Exception as e:
+        print('马来EPG拉取失败:', e); return text
+    m = re.search(r'<channel id="1298">.*?</channel>', src, re.S)
+    if not m:
+        print('马来EPG无1298'); return text
+    progs = re.findall(r'<programme[^>]*channel="1298"[^>]*>.*?</programme>', src, re.S)
+    print(f'补马来版天映: {len(progs)} 条节目')
+    return text.replace('</tv>', m.group(0) + ''.join(progs) + '</tv>', 1)
+
 if merged:
     final = ('<?xml version="1.0" encoding="UTF-8"?>\n<tv generator-info-name="epgsgmy" source-info-url="https://epg.pw">\n'
              + '\n'.join(merged) + '\n</tv>\n')
     final = add_aliases(final)
+    final = merge_my_celestial(final)
     final = inject_icons(final, build_singtel_logos())
     with open('epg_sgmy.xml', 'w', encoding='utf-8') as f:
         f.write(final)

@@ -1897,7 +1897,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=2041150dd5bb456f6e76d5
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c46165bf5f77e763a47b17c34
 #EXTINF:-1 tvg-id="s_Hub VV Drama HD" tvg-name="Hub VVDrama HD" group-title="新加坡",Hub VVDrama HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c46165be681796d2f53f01438c7
-#EXTINF:-1 tvg-id="s_CELESTIALMOVIESHD" tvg-name="Celestial Movies HD" group-title="新加坡",Celestial Movies HD
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/ccm789/epg@main/logos/CM.png" tvg-id="s_CELESTIALMOVIESHD" tvg-name="Celestial Movies HD" group-title="新加坡",Celestial Movies HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3756181ec3a3547e221edc5b06ea31745138ba
 #EXTINF:-1 tvg-id="s_Hub Ruyi" tvg-name="HubRuyi" group-title="新加坡",HubRuyi
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c461629c5ae54
@@ -1909,7 +1909,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=3e5a155bfcb2
 http://atryffad.usa3.345123.xyz/eth_play.php?name=111e381e
 #EXTINF:-1 tvg-id="Ju-Le-Cool" tvg-name="Ju-Le-Cool" group-title="新加坡",Ju-Le-Cool
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3e465937d5fa7e702152
-#EXTINF:-1 tvg-id="Celestial Movies (1080p)" tvg-name="Celestial Movies (1080p)" group-title="新加坡",Celestial Movies (1080p)
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/ccm789/epg@main/logos/CM.png" tvg-id="Celestial Movies (1080p)" tvg-name="Celestial Movies (1080p)" group-title="新加坡",Celestial Movies (1080p)
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3756181ec3a3547e221edc5b06ea31745158cff6918c7e5c
 #EXTINF:-1 tvg-id="410283" tvg-name="HBO HD" group-title="新加坡",HBO HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c713b5bf893

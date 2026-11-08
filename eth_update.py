@@ -144,6 +144,32 @@ def load_epg_ids():
 def write_m3u(items, path, epg_ids=None, logos=None):
     epg_ids = epg_ids or {}
 
+    # 自维护台标(优先于 fanmingming 库, 防自动更新冲掉): 频道名 -> 完整URL
+    GH = 'https://gcore.jsdelivr.net/gh/ccm789/epg@main/logos'
+    MY_LOGOS = {
+        '天映經典頻道': f'{GH}/CCM.png',
+        '天映经典频道': f'{GH}/CCM.png',
+        'CCM':          f'{GH}/CCM.png',
+        '天映頻道':     f'{GH}/CM.png',
+        '天映频道':     f'{GH}/CM.png',
+        'Celestial Movies':            f'{GH}/CM.png',
+        'Celestial Movies HD':         f'{GH}/CM.png',
+        'Celestial Movies (1080p)':    f'{GH}/CM.png',
+        's_CELESTIALMOVIESHD':         f'{GH}/CM.png',
+        '美亞電影台':   f'{GH}/MAE.png',
+        '美亚电影台':   f'{GH}/MAE.png',
+        '美亞電影':     f'{GH}/MAE.png',
+        '美亚电影':     f'{GH}/MAE.png',
+        'PopC':         f'{GH}/POPC.png',
+        'POPC':         f'{GH}/POPC.png',
+    }
+
+    # 固定 EPG 绑定(防自动匹配改错): 频道名 -> EPG id
+    FORCE_ID = {
+        'Celestial Movies HD':      '492882',   # 新加坡版天映频道
+        'Celestial Movies (1080p)': '1298',     # 马来西亚版天映频道
+    }
+
     def norm(s):
         try:
             from opencc import OpenCC
@@ -156,8 +182,14 @@ def write_m3u(items, path, epg_ids=None, logos=None):
     for x in items:
         nm = x['name']
         tid = epg_ids.get(norm(nm), nm)   # 命中 EPG 就写数字ID,否则退回频道名
-        logo = find_logo(nm, logos or {})
-        lg = f'tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/{logo}" ' if logo else ''
+        if nm in FORCE_ID:
+            tid = FORCE_ID[nm]
+        my = MY_LOGOS.get(nm) or MY_LOGOS.get(norm(nm))
+        if my:
+            lg = f'tvg-logo="{my}" '
+        else:
+            logo = find_logo(nm, logos or {})
+            lg = f'tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/{logo}" ' if logo else ''
         lines.append(f'#EXTINF:-1 {lg}tvg-id="{tid}" tvg-name="{nm}" '
                      f'group-title="{x["group"] or "其他"}",{nm}')
         lines.append(x['url'])

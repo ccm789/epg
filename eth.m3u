@@ -135,7 +135,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=9381c1931a49da96c9db1e84
 http://atryffad.usa3.345123.xyz/eth_play.php?name=938dfa9f0a49d484f5db2c85950ce4
 #EXTINF:-1 tvg-id="368339" tvg-name="Thrill" group-title="香港",Thrill
 http://atryffad.usa3.345123.xyz/eth_play.php?name=205b0612dcbb
-#EXTINF:-1 tvg-id="368371" tvg-name="天映經典頻道" group-title="香港",天映經典頻道
+#EXTINF:-1 tvg-id="368371" tvg-name="天映經典頻道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/ccm789/epg/main/logos/CCM.png?v=3" group-title="香港",天映經典頻道
 http://atryffad.usa3.345123.xyz/eth_play.php?name=9197dd9d2877daa9dddb148c9923efeef0e3
 #EXTINF:-1 tvg-id="368362" tvg-name="ROCK Action" group-title="香港",ROCK Action
 http://atryffad.usa3.345123.xyz/eth_play.php?name=267c373090965e6b2751ff
@@ -1051,7 +1051,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=2065365bf5fa735a196db17c34
 http://atryffad.usa3.345123.xyz/eth_play.php?name=2065365be89e73586e76d41438c7
 #EXTINF:-1 tvg-id="g_TVBS ASIA" tvg-name="TVBS ASIA HD" group-title="馬來西亞",TVBS ASIA HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=2065362890966e560f1ed970
-#EXTINF:-1 tvg-id="s_CCM" tvg-name="CCM" group-title="馬來西亞",CCM
+#EXTINF:-1 tvg-id="s_CCM" tvg-name="CCM" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/ccm789/epg/main/logos/CCM.png?v=3" group-title="馬來西亞",CCM
 http://atryffad.usa3.345123.xyz/eth_play.php?name=377039
 #EXTINF:-1 tvg-id="PHOENIX HD" tvg-name="PHOENIX HD" group-title="馬來西亞",PHOENIX HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=247b3b3efe9e653f067a

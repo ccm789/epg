@@ -139,7 +139,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=205b0612dcbb
 http://atryffad.usa3.345123.xyz/eth_play.php?name=9197dd9d2877daa9dddb148c9923efeef0e3
 #EXTINF:-1 tvg-id="368362" tvg-name="ROCK Action" group-title="香港",ROCK Action
 http://atryffad.usa3.345123.xyz/eth_play.php?name=267c373090965e6b2751ff
-#EXTINF:-1 tvg-id="368322" tvg-name="PopC" group-title="香港",PopC
+#EXTINF:-1 tvg-id="368322" tvg-name="PopC" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/ccm789/epg/main/logos/POPC.png?v=1" group-title="香港",PopC
 http://atryffad.usa3.345123.xyz/eth_play.php?name=245c0438
 #EXTINF:-1 tvg-id="Now Discovery Asia" tvg-name="Now Discovery Asia" group-title="香港",Now Discovery Asia
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a5c035bf4be4e7c2148f44609a315741811

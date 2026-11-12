@@ -151,19 +151,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9901
 https://58d921499d3d3.streamlock.net/RPZ/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax Asia Taiwan" tvg-logo="https://i.imgur.com/c8crJfA.png" group-title="台湾",Cinemax Asia Taiwan
 http://125.227.210.55:1001/VideoInput/play.ts
-#EXTINF:-1 tvg-id="GoldenJade.hk@SD" tvg-name="翡翠台" tvg-logo="https://i.imgur.com/lPYxsUr.png" group-title="香港",翡翠台
-http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
 #EXTINF:-1 tvg-id="RTHKTV31.hk@SD" tvg-name="港台电视31" tvg-logo="https://i.imgur.com/kf818kM.png" group-title="香港",港台电视31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="RTHKTV31.hk@SD" tvg-name="港台电视31" tvg-logo="" group-title="香港",港台电视31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
-#EXTINF:-1 tvg-id="AsianDrama.hk@SD" tvg-name="亚洲剧台" tvg-logo="https://i.imgur.com/wqtN7mH.png" group-title="香港",亚洲剧台
-http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
-#EXTINF:-1 tvg-id="Jade.hk@SD" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="香港",翡翠台
-http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
-#EXTINF:-1 tvg-id="MeiAhMovieChannel.hk@SD" tvg-name="美亚电影台" tvg-logo="https://i.imgur.com/laGiFM1.png" group-title="香港",美亚电影台
-http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
-#EXTINF:-1 tvg-id="MeiAhMovieChannel.hk@SD" tvg-name="美亚电影台" tvg-logo="" group-title="香港",美亚电影台
-http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
-#EXTINF:-1 tvg-id="MeiAhMovieChannel.hk@SD" tvg-name="美亚电影台" tvg-logo="" group-title="香港",美亚电影台
-http://103.172.187.30:12000/stream/mytv/null-10/master.m3u8

@@ -131,8 +131,6 @@ http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animax Asia Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/960px-Animax.png" group-title="台湾",Animax Asia Taiwan
 http://125.227.210.55:3056/VideoInput/play.ts
-#EXTINF:-1 tvg-id="410366" tvg-name="AXN Asia Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="台湾",AXN Asia Taiwan
-http://125.227.210.55:4050/VideoInput/play.ts
 #EXTINF:-1 tvg-id="" tvg-name="CGNTV中文台" tvg-logo="https://i.imgur.com/bPoPAbR.png" group-title="台湾",CGNTV中文台
 https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
 #EXTINF:-1 tvg-id="456622" tvg-name="大立电视台" tvg-logo="https://i.imgur.com/pFIMLsA.png" group-title="台湾",大立电视台

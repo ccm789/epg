@@ -7,12 +7,6 @@ https://live.wcetv.com/hls/master-ttvnews.m3u8
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1 tvg-id="456557" tvg-name="TVBS Asia" group-title="香港",TVBS Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" tvg-id="410378" tvg-name="凤凰中文台" group-title="台湾",凤凰中文台
-http://173.208.234.146/live/fhzw.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" tvg-id="410355" tvg-name="凤凰资讯台" group-title="台湾",凤凰资讯台
-http://173.208.234.146/live/fhzx.m3u8
-#EXTINF:-1 tvg-id="g_凤凰卫视香港台" tvg-name="凤凰香港台" group-title="台湾",凤凰香港台
-http://173.208.234.146/live/fhxg.m3u8
 #EXTINF:-1 tvg-id="457272" tvg-name="Pet Club TV" group-title="台湾",Pet Club TV
 https://petclub-samsungaus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-Billiards" group-title="香港",CCTV-Billiards
@@ -149,3 +143,5 @@ http://125.227.210.55:1001/VideoInput/play.ts
 http://125.227.210.55:4050/VideoInput/play.ts
 #EXTINF:-1 tvg-id="台湾剧专区" tvg-name="台湾剧专区" tvg-logo="https://epg.112114.xyz/logo/%E5%8F%B0%E6%B9%BE%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="台湾",台湾剧专区
 https://huyazhibo.de5.net/?id=11342436
+#EXTINF:-1 tvg-id="BeautifulLifeTV.tw@SD" tvg-name="人间卫视" tvg-logo="https://i.imgur.com/hkwcBM9.png" group-title="台湾",人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8

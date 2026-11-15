@@ -1,0 +1,24 @@
+name: sync-astro-playlist
+on:
+  schedule:
+    - cron: '40 2 * * *'
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: 同步 Astro 列表
+        run: python sync_astro.py
+      - name: commit
+        run: |
+          git config user.name "epg-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add astro.m3u
+          git diff --cached --quiet || git commit -m "astro sync $(date -u +%F-%H)"
+          git push

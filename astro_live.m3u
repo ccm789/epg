@@ -3,6 +3,8 @@
 http://tv.cloudcdn.me/live.ts?channelId=132152&uid=10223&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-id="astro316" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",110 Astro Prima Feed 3
 http://tv.cloudcdn.me/live.ts?channelId=93734&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-id="astro301" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",108 Astro Citra Feed 2
+http://bestiptvgo.net:80/live/2E3LJPJ/WNSMMKF/1052391.m3u8
 #EXTINF:-1 tvg-id="astro301" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",108 Astro Citra Feed 3
 http://tv.cloudcdn.me/live.ts?channelId=132150&uid=10223&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-id="astro401" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania_2024.png",112 Astro Rania Feed 3
@@ -51,8 +53,8 @@ http://tv.cloudcdn.me/live.ts?channelId=133053&uid=10223&deviceMac=00:1A:79:07:0
 https://login.bheem.tv/bpk-tv/22052/output/index.mpd
 #EXTINF:-1 tvg-id="557.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png" group-title="News & Documentary",558 Animal Planet EU
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ewj95eclhn/out/v1/b394624dc26a4628a6c78317f09ff4e9/cenc.mpd
-#EXTINF:-1 tvg-id="astro386" group-title="Kids" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCeria_2024.png",612 Astro Ceria Feed 2
-http://tv.cloudcdn.me/live.ts?channelId=93762&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-id="astro386" group-title="Kids" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCeria_2024.png",613 Astro Ceria Feed 3
+http://4kgood.org:80/live/02928783542314069898/e7ur9j3aha/1163671.m3u8
 #EXTINF:-1 tvg-id="FoodNetworkHD.sg" group-title="Variety" tvg-logo="http://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png",708 Food Network
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 #EXTINF:-1 tvg-id="Warner" group-title="Variety" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png",712 Warner TV
@@ -67,16 +69,24 @@ http://tv.cloudcdn.me/live.ts?channelId=133063&uid=10223&deviceMac=00:1A:79:07:0
 http://tv.cloudcdn.me/live.ts?channelId=93741&uid=10223&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-id="astro536" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",811 Astro Premier League Feed 2
 http://tv.cloudcdn.me:80/live.ts?channelId=93739&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+#EXTINF:-1 tvg-id="astro537" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",812 Astro Premier League 2 Feed 2
+http://4kgood.org:80/live/02928783542314069898/e7ur9j3aha/1163986.m3u8
 #EXTINF:-1 tvg-id="astro537" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",812 Astro Premier League 2 Feed 3
 http://tv.cloudcdn.me/live.ts?channelId=93740&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-id="astro236" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",820 beIN SPORTS Feed 2
+http://bestiptvgo.net:80/live/2E3LJPJ/WNSMMKF/78137.m3u8
 #EXTINF:-1 tvg-id="astro236" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",820 beIN SPORTS Feed 3
 http://tv.cloudcdn.me/live.ts?channelId=93748&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-id="astro466" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",821 beIN SPORTS 2 Feed 3
+http://4kgood.org:80/live/02928783542314069898/e7ur9j3aha/288372.m3u8
 #EXTINF:-1 tvg-id="823.astro" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",824 beIN SPORTS AU
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 #EXTINF:-1 tvg-id="824.astro" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",825 beIN SPORTS 2 AU
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 #EXTINF:-1 tvg-id="825.astro" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png",826 beIN SPORTS 3 AU
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-id="Unifi Sports 1" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png",836 Unifi Sports
+http://4kgood.org:80/live/02928783542314069898/e7ur9j3aha/1775975.m3u8
 #EXTINF:-1 tvg-id="SPOTV" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",828 SPOTV
 http://tv.cloudcdn.me/live.ts?channelId=133045&uid=10223&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-id="SPOTV2" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",829 SPOTV2
@@ -91,8 +101,6 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/521/521.mpd
 http://tv.cloudcdn.me/live.ts?channelId=93753&uid=10223&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-id="AstroFirst" group-title="PPV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroFirst_2024.png",812 Astro First (PPV)
 http://tv.cloudcdn.me/live.ts?channelId=93752&uid=10223&deviceMac=00:1A:79:07:07:43
-#EXTINF:-1 tvg-id="AstroFirst" group-title="PPV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroFirst_2024.png",816 Astro First (PPV)
-http://125.227.210.55:4049/VideoInput/play.ts
 #EXTINF:-1 tvg-id="AstroFirst" group-title="PPV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroFirst_2024.png",817 Astro First (PPV)
 http://125.227.210.55:1082/VideoInput/play.ts
 #EXTINF:-1 tvg-id="AstroFirst" group-title="PPV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroFirst_2024.png",822 Astro First (PPV)

@@ -45,13 +45,13 @@ while i < len(lines):
         if j < len(lines):
             url = lines[j].strip()
             if '://' in url:
-                items.append((s.lstrip('#'), url, commented))
+                items.append((s, url, commented))
             i = j + 1
             continue
     i += 1
 
 # ---------- 全量版 ----------
-full = [head] + [f'{a}\n{b}' for a, b, _ in items if not _]
+full = [head] + [f'{a}\n{b}' for a, b, c in items if not c]
 open('astro.m3u', 'w', encoding='utf-8').write('\n'.join(full) + '\n')
 print(f'astro.m3u: {len(full) - 1} 个频道')
 

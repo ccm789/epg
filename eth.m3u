@@ -135,11 +135,11 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=9381c1931a49da96c9db1e84
 http://atryffad.usa3.345123.xyz/eth_play.php?name=938dfa9f0a49d484f5db2c85950ce4
 #EXTINF:-1 tvg-id="368339" tvg-name="Thrill" group-title="香港",Thrill
 http://atryffad.usa3.345123.xyz/eth_play.php?name=205b0612dcbb
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/ccm789/epg@main/logos/CCM.png" tvg-id="368371" tvg-name="天映經典頻道" group-title="香港",天映經典頻道
+#EXTINF:-1 tvg-id="368371" tvg-name="天映經典頻道" tvg-logo="https://gcore.jsdelivr.net/gh/ccm789/epg@main/logos/CCM.png" group-title="香港",天映經典頻道
 http://atryffad.usa3.345123.xyz/eth_play.php?name=9197dd9d2877daa9dddb148c9923efeef0e3
 #EXTINF:-1 tvg-id="368362" tvg-name="ROCK Action" group-title="香港",ROCK Action
 http://atryffad.usa3.345123.xyz/eth_play.php?name=267c373090965e6b2751ff
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/ccm789/epg@main/logos/POPC.png" tvg-id="368322" tvg-name="PopC" group-title="香港",PopC
+#EXTINF:-1 tvg-id="368322" tvg-name="PopC" tvg-logo="https://gcore.jsdelivr.net/gh/ccm789/epg@main/logos/POPC.png" group-title="香港",PopC
 http://atryffad.usa3.345123.xyz/eth_play.php?name=245c0438
 #EXTINF:-1 tvg-id="Now Discovery Asia" tvg-name="Now Discovery Asia" group-title="香港",Now Discovery Asia
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a5c035bf4be4e7c2148f44609a315741811
@@ -285,9 +285,9 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=16563d3590846d501c6ac21446
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a5c035be3a7526d3a4db10244b4
 #EXTINF:-1 tvg-id="410414" tvg-name="Now668" group-title="香港",Now668
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a5c034d86ef
-#EXTINF:-1 tvg-id="Now Sports Plus" tvg-name="Now Sports Plus" group-title="香港",Now Sports Plus
+#EXTINF:-1 tvg-id="410419" tvg-name="Now Sports Plus" group-title="香港",Now Sports Plus
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a5c035be3a7526d3a4db1641cf627
-#EXTINF:-1 tvg-id="Now Sports Plus|備" tvg-name="Now Sports Plus|備" group-title="香港",Now Sports Plus|備
+#EXTINF:-1 tvg-id="410419" tvg-name="Now Sports Plus|備" group-title="香港",Now Sports Plus|備
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a5c035be3a7526d3a4db1641cf6277b94f267
 #EXTINF:-1 tvg-id="410420" tvg-name="Now Golf 2" group-title="香港",Now Golf 2
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a5c035bf7b851796e0c
@@ -559,9 +559,9 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=92aec59d1379d484f5db2c85950ce4
 http://atryffad.usa3.345123.xyz/eth_play.php?name=9384db9f0e51d484f5db2c85950ce4
 #EXTINF:-1 tvg-id="456565" tvg-name="緯來電影台|備" group-title="台灣",緯來電影台|備
 http://atryffad.usa3.345123.xyz/eth_play.php?name=9384db9f0e51d484f5db2c85950ce47b94f267
-#EXTINF:-1 tvg-id="LS龍祥電影台" tvg-name="LS龍祥電影台" group-title="台灣",LS龍祥電影台
+#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/LSTIME.png" tvg-id="456566" tvg-name="LS龍祥電影台" group-title="台灣",LS龍祥電影台
 http://atryffad.usa3.345123.xyz/eth_play.php?name=38609dc53d3098baa7a52ad1cd32b188c1
-#EXTINF:-1 tvg-id="LS龍祥電影台|備" tvg-name="LS龍祥電影台|備" group-title="台灣",LS龍祥電影台|備
+#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/LSTIME.png" tvg-id="456566" tvg-name="LS龍祥電影台|備" group-title="台灣",LS龍祥電影台|備
 http://atryffad.usa3.345123.xyz/eth_play.php?name=38609dc53d3098baa7a52ad1cd32b188c10c1b4430
 #EXTINF:-1 tvg-id="410283" tvg-name="HBO|備" group-title="台灣",HBO|備
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c713b075555a4
@@ -709,7 +709,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=92b7ef9c3869d49edad73aa09801e6
 http://atryffad.usa3.345123.xyz/eth_play.php?name=91beee9d2678d4b4d6d901b7943bd4e2fec0
 #EXTINF:-1 tvg-id="457247" tvg-name="博斯高球一台|備" group-title="台灣",博斯高球一台|備
 http://atryffad.usa3.345123.xyz/eth_play.php?name=91beee9d2678d4b4d6d901b7943bd4e2fec082232b25
-#EXTINF:-1 tvg-id="457248" tvg-name="博斯高球二台" group-title="台灣",博斯高球二台
+#EXTINF:-1 tvg-id="544779" tvg-name="博斯高球二台" group-title="台灣",博斯高球二台
 http://atryffad.usa3.345123.xyz/eth_play.php?name=91beee9d2678d4b4d6d901b79439d8e2fec0
 #EXTINF:-1 tvg-id="457249" tvg-name="博斯網球" group-title="台灣",博斯網球
 http://atryffad.usa3.345123.xyz/eth_play.php?name=91beee9d2678daa9fcd901b7
@@ -933,7 +933,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=35613d29f1997af6d68178b3fc6ad7
 http://atryffad.usa3.345123.xyz/eth_play.php?name=9c95e29c045ad590e1da2ab59737d4e2ded61b4919
 #EXTINF:-1 tvg-id="410773" tvg-name="影迷數位紀實台" group-title="台灣",影迷數位紀實台
 http://atryffad.usa3.345123.xyz/eth_play.php?name=918ec5930f60db8af6da2cb99737d4e2ded61b4919
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/ccm789/epg@main/logos/MAE.png" tvg-id="457360" tvg-name="美亞電影" group-title="台灣",美亞電影
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/ccm789/epg@main/logos/MAE.png" tvg-id="368348" tvg-name="美亞電影" group-title="台灣",美亞電影
 http://atryffad.usa3.345123.xyz/eth_play.php?name=938dfa9f0a49d484f5db2c85
 #EXTINF:-1 tvg-id="457361" tvg-name="龍華電影" group-title="台灣",龍華電影
 http://atryffad.usa3.345123.xyz/eth_play.php?name=9d8df9933f78d484f5db2c85
@@ -965,9 +965,9 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=397c3b35f2827a
 http://atryffad.usa3.345123.xyz/eth_play.php?name=9db4e59e355ed8a7cdd633bf960be6
 #EXTINF:-1 tvg-id="Astro Awani" tvg-name="Astro Awani" group-title="馬來西亞",Astro Awani
 http://atryffad.usa3.345123.xyz/eth_play.php?name=35400009dff77c682f50f8
-#EXTINF:-1 tvg-id="Astro30" tvg-name="Astro30" group-title="馬來西亞",Astro30
+#EXTINF:-1 tvg-id="s_ASTRO30" tvg-name="Astro30" group-title="馬來西亞",Astro30
 http://atryffad.usa3.345123.xyz/eth_play.php?name=35400009dfe40d
-#EXTINF:-1 tvg-id="s_CETV-1高清" tvg-name="TV1" group-title="馬來西亞",TV1
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" group-title="馬來西亞",TV1
 http://atryffad.usa3.345123.xyz/eth_play.php?name=206545
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2" group-title="馬來西亞",TV2
 http://atryffad.usa3.345123.xyz/eth_play.php?name=206546
@@ -989,33 +989,33 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=3566263a909f79
 http://atryffad.usa3.345123.xyz/eth_play.php?name=2065543afc9f74551c7fd9
 #EXTINF:-1 tvg-id="420293" tvg-name="COLORS HD" group-title="馬來西亞",COLORS HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=377c3834e2841d570a
-#EXTINF:-1 tvg-id="Zee Cinema" tvg-name="Zee Cinema" group-title="馬來西亞",Zee Cinema
+#EXTINF:-1 tvg-id="s_Zee Cinema" tvg-name="Zee Cinema" group-title="馬來西亞",Zee Cinema
 http://atryffad.usa3.345123.xyz/eth_play.php?name=2e56115bf3be537a235f
 #EXTINF:-1 tvg-id="Aniplus" tvg-name="Aniplus" group-title="馬來西亞",Aniplus
 http://atryffad.usa3.345123.xyz/eth_play.php?name=355d1d0bdca24e
-#EXTINF:-1 tvg-id="Pokemon" tvg-name="Pokemon" group-title="馬來西亞",Pokemon
+#EXTINF:-1 tvg-id="s_POKEMON" tvg-name="Pokemon" group-title="馬來西亞",Pokemon
 http://atryffad.usa3.345123.xyz/eth_play.php?name=245c1f1eddb853
 #EXTINF:-1 tvg-id="TVS" tvg-name="TVS" group-title="馬來西亞",TVS
 http://atryffad.usa3.345123.xyz/eth_play.php?name=206527
-#EXTINF:-1 tvg-id="TV OKEY" tvg-name="TV OKEY" group-title="馬來西亞",TV OKEY
+#EXTINF:-1 tvg-id="s_TVOKEY" tvg-name="TV OKEY" group-title="馬來西亞",TV OKEY
 http://atryffad.usa3.345123.xyz/eth_play.php?name=20655434fb9264
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" group-title="馬來西亞",NTV7
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a67224c
-#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="馬來西亞",8TV
+#EXTINF:-1 tvg-id="s_8TV" tvg-name="8TV" group-title="馬來西亞",8TV
 http://atryffad.usa3.345123.xyz/eth_play.php?name=4c6722
 #EXTINF:-1 tvg-id="VAANAVIL HD" tvg-name="VAANAVIL HD" group-title="馬來西亞",VAANAVIL HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=22723535f18174536e76d5
 #EXTINF:-1 tvg-id="VINMEEN HD" tvg-name="VINMEEN HD" group-title="馬來西亞",VINMEEN HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=227a3a36f592733f067a
-#EXTINF:-1 tvg-id="SUN TV HD" tvg-name="SUN TV HD" group-title="馬來西亞",SUN TV HD
+#EXTINF:-1 tvg-id="s_SUN TV" tvg-name="SUN TV HD" group-title="馬來西亞",SUN TV HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=27663a5be4811d570a
 #EXTINF:-1 tvg-id="SUN MUSIC HD" tvg-name="SUN MUSIC HD" group-title="馬來西亞",SUN MUSIC HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=27663a5bfd826e560d1ed970
 #EXTINF:-1 tvg-id="ADITHYA" tvg-name="ADITHYA" group-title="馬來西亞",ADITHYA
 http://atryffad.usa3.345123.xyz/eth_play.php?name=35773d2ff88e7c
-#EXTINF:-1 tvg-id="Sun News" tvg-name="Sun News" group-title="馬來西亞",Sun News
+#EXTINF:-1 tvg-id="s_SUNNEWS" tvg-name="Sun News" group-title="馬來西亞",Sun News
 http://atryffad.usa3.345123.xyz/eth_play.php?name=27461a5bfeb24a6c
-#EXTINF:-1 tvg-id="KTV" tvg-name="KTV" group-title="馬來西亞",KTV
+#EXTINF:-1 tvg-id="s_KTV HD" tvg-name="KTV" group-title="馬來西亞",KTV
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3f6722
 #EXTINF:-1 tvg-id="s_SUNLIFE" tvg-name="Sun Life" group-title="馬來西亞",Sun Life
 http://atryffad.usa3.345123.xyz/eth_play.php?name=27461a5bfcbe5b7a
@@ -1025,11 +1025,11 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=275c1a0290815465265f
 http://atryffad.usa3.345123.xyz/eth_play.php?name=27673529908174550f67b17c34
 #EXTINF:-1 tvg-id="COLORS TAMIL" tvg-name="COLORS TAMIL" group-title="馬來西亞",COLORS TAMIL
 http://atryffad.usa3.345123.xyz/eth_play.php?name=377c3834e2841d4b0f73d878
-#EXTINF:-1 tvg-id="ZEE TAMIL HD" tvg-name="ZEE TAMIL HD" group-title="馬來西亞",ZEE TAMIL HD
+#EXTINF:-1 tvg-id="s_ZEE TAMIL" tvg-name="ZEE TAMIL HD" group-title="馬來西亞",ZEE TAMIL HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=2e76315be4967056021ed970
 #EXTINF:-1 tvg-id="THANGATHIRAI HD" tvg-name="THANGATHIRAI HD" group-title="馬來西亞",THANGATHIRAI HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=207b3535f7966957076cd07d50cb10
-#EXTINF:-1 tvg-id="iQIYI HD" tvg-name="iQIYI HD" group-title="馬來西亞",iQIYI HD
+#EXTINF:-1 tvg-id="s_iQIYI" tvg-name="iQIYI HD" group-title="馬來西亞",iQIYI HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=1d623d22f9f7755b
 #EXTINF:-1 tvg-id="TVB CLASSIC HD" tvg-name="TVB CLASSIC HD" group-title="馬來西亞",TVB CLASSIC HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=2065365bf39b7c4c1d77d21438c7
@@ -1043,7 +1043,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=3776383ee383745e021ed970
 http://atryffad.usa3.345123.xyz/eth_play.php?name=20653631
 #EXTINF:-1 tvg-id="AOD HD" tvg-name="AOD HD" group-title="馬來西亞",AOD HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=357c305bf893
-#EXTINF:-1 tvg-id="CTI ASIA HD" tvg-name="CTI ASIA HD" group-title="馬來西亞",CTI ASIA HD
+#EXTINF:-1 tvg-id="s_CTI Asia (HD)" tvg-name="CTI ASIA HD" group-title="馬來西亞",CTI ASIA HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=37673d5bf184745e6e76d5
 #EXTINF:-1 tvg-id="TVB E-NEWS HD" tvg-name="TVB E-NEWS HD" group-title="馬來西亞",TVB E-NEWS HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=2065365bf5fa735a196db17c34
@@ -1051,7 +1051,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=2065365bf5fa735a196db17c34
 http://atryffad.usa3.345123.xyz/eth_play.php?name=2065365be89e73586e76d41438c7
 #EXTINF:-1 tvg-id="g_TVBS ASIA" tvg-name="TVBS ASIA HD" group-title="馬來西亞",TVBS ASIA HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=2065362890966e560f1ed970
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/ccm789/epg@main/logos/CCM.png" tvg-id="CCM" tvg-name="CCM" group-title="馬來西亞",CCM
+#EXTINF:-1 tvg-id="s_CCM" tvg-name="CCM" tvg-logo="https://gcore.jsdelivr.net/gh/ccm789/epg@main/logos/CCM.png" group-title="馬來西亞",CCM
 http://atryffad.usa3.345123.xyz/eth_play.php?name=377039
 #EXTINF:-1 tvg-id="PHOENIX HD" tvg-name="PHOENIX HD" group-title="馬來西亞",PHOENIX HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=247b3b3efe9e653f067a
@@ -1067,31 +1067,31 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=39521a1cdff76949
 http://atryffad.usa3.345123.xyz/eth_play.php?name=2113241adeb35c3f1a68
 #EXTINF:-1 tvg-id="KBSW HD" tvg-name="KBSW HD" group-title="馬來西亞",KBSW HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3f71272c909f79
-#EXTINF:-1 tvg-id="Astro Daebak" tvg-name="Astro Daebak" group-title="馬來西亞",Astro Daebak
+#EXTINF:-1 tvg-id="s_ASTRODAEBAK" tvg-name="Astro Daebak" group-title="馬來西亞",Astro Daebak
 http://atryffad.usa3.345123.xyz/eth_play.php?name=35400009dff7797e2b5cf05f
 #EXTINF:-1 tvg-id="368326" tvg-name="tvN HD" group-title="馬來西亞",tvN HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=00453a5bf893
-#EXTINF:-1 tvg-id="KPLUS" tvg-name="KPLUS" group-title="馬來西亞",KPLUS
+#EXTINF:-1 tvg-id="s_KPLUS" tvg-name="KPLUS" group-title="馬來西亞",KPLUS
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3f63382ee3
 #EXTINF:-1 tvg-id="412087" tvg-name="HITS MOVIES HD" group-title="馬來西亞",HITS MOVIES HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c7a2028909a7249077bc21438c7
-#EXTINF:-1 tvg-id="BOO" tvg-name="BOO" group-title="馬來西亞",BOO
+#EXTINF:-1 tvg-id="s_BOO" tvg-name="BOO" group-title="馬來西亞",BOO
 http://atryffad.usa3.345123.xyz/eth_play.php?name=367c3b
 #EXTINF:-1 tvg-id="Astro Showtime" tvg-name="Astro Showtime" group-title="馬來西亞",Astro Showtime
 http://atryffad.usa3.345123.xyz/eth_play.php?name=35400009dff76e772149e55d1de6
 #EXTINF:-1 tvg-id="s_ASTROFAMTIME" tvg-name="Astro FAM Time" group-title="馬來西亞",Astro FAM Time
 http://atryffad.usa3.345123.xyz/eth_play.php?name=35400009dff77b5e031ec55d1de6
-#EXTINF:-1 tvg-id="SHOWCASE" tvg-name="SHOWCASE" group-title="馬來西亞",SHOWCASE
+#EXTINF:-1 tvg-id="s_SHOWCASE" tvg-name="SHOWCASE" group-title="馬來西亞",SHOWCASE
 http://atryffad.usa3.345123.xyz/eth_play.php?name=277b3b2cf3966e5a
 #EXTINF:-1 tvg-id="368362" tvg-name="Rock Action" group-title="馬來西亞",Rock Action
 http://atryffad.usa3.345123.xyz/eth_play.php?name=265c171090965e6b2751ff
-#EXTINF:-1 tvg-id="Rock X Stream" tvg-name="Rock X Stream" group-title="馬來西亞",Rock X Stream
+#EXTINF:-1 tvg-id="s_ROCK X Stream" tvg-name="Rock X Stream" group-title="馬來西亞",Rock X Stream
 http://atryffad.usa3.345123.xyz/eth_play.php?name=265c1710908f1d4c3a4cf4551d
-#EXTINF:-1 tvg-id="tvN Movies" tvg-name="tvN Movies" group-title="馬來西亞",tvN Movies
+#EXTINF:-1 tvg-id="s_TVNMOVIES" tvg-name="tvN Movies" group-title="馬來西亞",tvN Movies
 http://atryffad.usa3.345123.xyz/eth_play.php?name=00453a5bfdb84b762b4d
 #EXTINF:-1 tvg-id="AWANI HD" tvg-name="AWANI HD" group-title="馬來西亞",AWANI HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=35643535f9f7755b
-#EXTINF:-1 tvg-id="Bernama TV" tvg-name="Bernama TV" group-title="馬來西亞",Bernama TV
+#EXTINF:-1 tvg-id="s_BERNAMATV" tvg-name="Bernama TV" group-title="馬來西亞",Bernama TV
 http://atryffad.usa3.345123.xyz/eth_play.php?name=36560615d1ba5c3f1a68
 #EXTINF:-1 tvg-id="CGTN HD" tvg-name="CGTN HD" group-title="馬來西亞",CGTN HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=37742035909f79
@@ -1125,13 +1125,13 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=307a2738ff81784d171ed06739c2
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c7a272fff85643f067a
 #EXTINF:-1 tvg-id="CGTN Documentary" tvg-name="CGTN Documentary" group-title="馬來西亞",CGTN Documentary
 http://atryffad.usa3.345123.xyz/eth_play.php?name=377420359093527c3b53f45a04e2267e
-#EXTINF:-1 tvg-id="TUTOR TV" tvg-name="TUTOR TV" group-title="馬來西亞",TUTOR TV
+#EXTINF:-1 tvg-id="s_TUTORTV" tvg-name="TUTOR TV" group-title="馬來西亞",TUTOR TV
 http://atryffad.usa3.345123.xyz/eth_play.php?name=20662034e2f76949
 #EXTINF:-1 tvg-id="CERIA HD" tvg-name="CERIA HD" group-title="馬來西亞",CERIA HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=37762632f1f7755b
 #EXTINF:-1 tvg-id="CARTOON NTWK HD" tvg-name="CARTOON NTWK HD" group-title="馬來西亞",CARTOON NTWK HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3772262fff98733f006ac67f50cb10
-#EXTINF:-1 tvg-id="NICKELODEON HD" tvg-name="NICKELODEON HD" group-title="馬來西亞",NICKELODEON HD
+#EXTINF:-1 tvg-id="s_Nickelodeon" tvg-name="NICKELODEON HD" group-title="馬來西亞",NICKELODEON HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a7a3730f59b725b0b71df1438c7
 #EXTINF:-1 tvg-id="368367" tvg-name="NICK JR" group-title="馬來西亞",NICK JR
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a7a3730909d6f
@@ -1145,43 +1145,43 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=356b3a5bf893
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c7a202890997248
 #EXTINF:-1 tvg-id="412204" tvg-name="HITS HD" group-title="馬來西亞",HITS HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c7a2028909f79
-#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC HD" group-title="馬來西亞",TLC HD
+#EXTINF:-1 tvg-id="s_TLC" tvg-name="TLC HD" group-title="馬來西亞",TLC HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=207f375bf893
 #EXTINF:-1 tvg-id="s_AFN (HD)" tvg-name="AFN HD" group-title="馬來西亞",AFN HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=35753a5bf893
 #EXTINF:-1 tvg-id="CI HD" tvg-name="CI HD" group-title="馬來西亞",CI HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=377a5433f4
-#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV HD" group-title="馬來西亞",HGTV HD
+#EXTINF:-1 tvg-id="s_HGTV (HD)" tvg-name="HGTV HD" group-title="馬來西亞",HGTV HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c74202d909f79
 #EXTINF:-1 tvg-id="ARENA HD" tvg-name="ARENA HD" group-title="馬來西亞",ARENA HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=35613135f1f7755b
 #EXTINF:-1 tvg-id="Stadium Astro" tvg-name="Stadium Astro" group-title="馬來西亞",Stadium Astro
 http://atryffad.usa3.345123.xyz/eth_play.php?name=2747151fd9a2503f0f4de5461f
-#EXTINF:-1 tvg-id="ARENA BOLA" tvg-name="ARENA BOLA" group-title="馬來西亞",ARENA BOLA
+#EXTINF:-1 tvg-id="s_ARENABOLA" tvg-name="ARENA BOLA" group-title="馬來西亞",ARENA BOLA
 http://atryffad.usa3.345123.xyz/eth_play.php?name=35613135f1f77f50027f
 #EXTINF:-1 tvg-id="s_ARENABOLA2" tvg-name="ARENA BOLA 2" group-title="馬來西亞",ARENA BOLA 2
 http://atryffad.usa3.345123.xyz/eth_play.php?name=35613135f1f77f50027fb106
-#EXTINF:-1 tvg-id="Sukan+" tvg-name="Sukan+" group-title="馬來西亞",Sukan+
+#EXTINF:-1 tvg-id="s_SUKAN+" tvg-name="Sukan+" group-title="馬來西亞",Sukan+
 http://atryffad.usa3.345123.xyz/eth_play.php?name=27461f1adefc
 #EXTINF:-1 tvg-id="Astro Premier League 4" tvg-name="Astro Premier League 4" group-title="馬來西亞",Astro Premier League 4
 http://atryffad.usa3.345123.xyz/eth_play.php?name=35400009dff76d6d2b53f85102a3186210178ba38988
 #EXTINF:-1 tvg-id="Astro Grandstand" tvg-name="Astro Grandstand" group-title="馬來西亞",Astro Grandstand
 http://atryffad.usa3.345123.xyz/eth_play.php?name=35400009dff77a6d2f50f54704e23a63
-#EXTINF:-1 tvg-id="Astro Premier League" tvg-name="Astro Premier League" group-title="馬來西亞",Astro Premier League
+#EXTINF:-1 tvg-id="s_ASTROPREMIERLEAGUE" tvg-name="Astro Premier League" group-title="馬來西亞",Astro Premier League
 http://atryffad.usa3.345123.xyz/eth_play.php?name=35400009dff76d6d2b53f85102a3186210178ba3
-#EXTINF:-1 tvg-id="Astro Premier League 2" tvg-name="Astro Premier League 2" group-title="馬來西亞",Astro Premier League 2
+#EXTINF:-1 tvg-id="s_ASTROPREMIERLEAGUE2" tvg-name="Astro Premier League 2" group-title="馬來西亞",Astro Premier League 2
 http://atryffad.usa3.345123.xyz/eth_play.php?name=35400009dff76d6d2b53f85102a3186210178ba3898e
 #EXTINF:-1 tvg-id="Astro Premier League 3" tvg-name="Astro Premier League 3" group-title="馬來西亞",Astro Premier League 3
 http://atryffad.usa3.345123.xyz/eth_play.php?name=35400009dff76d6d2b53f85102a3186210178ba3898f
-#EXTINF:-1 tvg-id="Astro Football" tvg-name="Astro Football" group-title="馬來西亞",Astro Football
+#EXTINF:-1 tvg-id="s_ASTROFOOTBALL" tvg-name="Astro Football" group-title="馬來西亞",Astro Football
 http://atryffad.usa3.345123.xyz/eth_play.php?name=35400009dff77b70214af3551cef
 #EXTINF:-1 tvg-id="Astro Badminton" tvg-name="Astro Badminton" group-title="馬來西亞",Astro Badminton
 http://atryffad.usa3.345123.xyz/eth_play.php?name=35400009dff77f7e2a53f85a04ec3a
-#EXTINF:-1 tvg-id="Astro Sports Plus" tvg-name="Astro Sports Plus" group-title="馬來西亞",Astro Sports Plus
+#EXTINF:-1 tvg-id="s_ASTROSPORTSPLUS" tvg-name="Astro Sports Plus" group-title="馬來西亞",Astro Sports Plus
 http://atryffad.usa3.345123.xyz/eth_play.php?name=35400009dff76e6f214ce54750d3387202
 #EXTINF:-1 tvg-id="Astro Tennis 2" tvg-name="Astro Tennis 2" group-title="馬來西亞",Astro Tennis 2
 http://atryffad.usa3.345123.xyz/eth_play.php?name=35400009dff7697a2050f84750b1
-#EXTINF:-1 tvg-id="Astro Tennis" tvg-name="Astro Tennis" group-title="馬來西亞",Astro Tennis
+#EXTINF:-1 tvg-id="s_ASTROTENNIS" tvg-name="Astro Tennis" group-title="馬來西亞",Astro Tennis
 http://atryffad.usa3.345123.xyz/eth_play.php?name=35400009dff7697a2050f847
 #EXTINF:-1 tvg-id="beIN SPORTS" tvg-name="beIN SPORTS" group-title="馬來西亞",beIN SPORTS
 http://atryffad.usa3.345123.xyz/eth_play.php?name=16563d3590846d501c6ac2
@@ -1543,7 +1543,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=3e602434e2836e3f7d
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3e602434e2836e3f7a
 #EXTINF:-1 tvg-id="MBS" tvg-name="MBS" group-title="日本",MBS
 http://atryffad.usa3.345123.xyz/eth_play.php?name=397127
-#EXTINF:-1 tvg-id="NHK G" tvg-name="NHK G" group-title="日本",NHK G
+#EXTINF:-1 tvg-id="s_NHKWORLDPREMIUMHD" tvg-name="NHK G" group-title="日本",NHK G
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a7b3f5bf7
 #EXTINF:-1 tvg-id="NHK BS" tvg-name="NHK BS" group-title="日本",NHK BS
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a7b3f5bf284
@@ -1817,43 +1817,43 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=2767352990846d501c6ac21438ca1a
 http://atryffad.usa3.345123.xyz/eth_play.php?name=2767352990846d501c6ac21423c618423224de8eed9c3f
 #EXTINF:-1 tvg-id="STAR SPORTS SELECT HD 2" tvg-name="STAR SPORTS SELECT HD 2" group-title="印度",STAR SPORTS SELECT HD 2
 http://atryffad.usa3.345123.xyz/eth_play.php?name=2767352990846d501c6ac21423c618423224de8eed9c3c
-#EXTINF:-1 tvg-id="Sky Sport Select" tvg-name="Sky Sport Select" group-title="紐西蘭",Sky Sport Select
+#EXTINF:-1 tvg-id="s_SKYSPORTSELECT" tvg-name="Sky Sport Select" group-title="紐西蘭",Sky Sport Select
 http://atryffad.usa3.345123.xyz/eth_play.php?name=27580d5be3a7526d3a1ec2511ce63773
 #EXTINF:-1 tvg-id="s_SKYSPORT1" tvg-name="Sky Sport 1" group-title="紐西蘭",Sky Sport 1
 http://atryffad.usa3.345123.xyz/eth_play.php?name=27580d5be3a7526d3a1ea0
-#EXTINF:-1 tvg-id="Sky Sport 2" tvg-name="Sky Sport 2" group-title="紐西蘭",Sky Sport 2
+#EXTINF:-1 tvg-id="s_SKYSPORT2" tvg-name="Sky Sport 2" group-title="紐西蘭",Sky Sport 2
 http://atryffad.usa3.345123.xyz/eth_play.php?name=27580d5be3a7526d3a1ea3
-#EXTINF:-1 tvg-id="Sky Sport 3" tvg-name="Sky Sport 3" group-title="紐西蘭",Sky Sport 3
+#EXTINF:-1 tvg-id="s_SKYSPORT3" tvg-name="Sky Sport 3" group-title="紐西蘭",Sky Sport 3
 http://atryffad.usa3.345123.xyz/eth_play.php?name=27580d5be3a7526d3a1ea2
-#EXTINF:-1 tvg-id="Sky Sport 4" tvg-name="Sky Sport 4" group-title="紐西蘭",Sky Sport 4
+#EXTINF:-1 tvg-id="s_SKYSPORT4" tvg-name="Sky Sport 4" group-title="紐西蘭",Sky Sport 4
 http://atryffad.usa3.345123.xyz/eth_play.php?name=27580d5be3a7526d3a1ea5
 #EXTINF:-1 tvg-id="s_SKYSPORT5" tvg-name="Sky Sport 5" group-title="紐西蘭",Sky Sport 5
 http://atryffad.usa3.345123.xyz/eth_play.php?name=27580d5be3a7526d3a1ea4
-#EXTINF:-1 tvg-id="Sky Sport 6" tvg-name="Sky Sport 6" group-title="紐西蘭",Sky Sport 6
+#EXTINF:-1 tvg-id="s_SKYSPORT6" tvg-name="Sky Sport 6" group-title="紐西蘭",Sky Sport 6
 http://atryffad.usa3.345123.xyz/eth_play.php?name=27580d5be3a7526d3a1ea7
-#EXTINF:-1 tvg-id="Sky Sport 7" tvg-name="Sky Sport 7" group-title="紐西蘭",Sky Sport 7
+#EXTINF:-1 tvg-id="s_SKYSPORT7" tvg-name="Sky Sport 7" group-title="紐西蘭",Sky Sport 7
 http://atryffad.usa3.345123.xyz/eth_play.php?name=27580d5be3a7526d3a1ea6
 #EXTINF:-1 tvg-id="Sky Sport 8" tvg-name="Sky Sport 8" group-title="紐西蘭",Sky Sport 8
 http://atryffad.usa3.345123.xyz/eth_play.php?name=27580d5be3a7526d3a1ea9
-#EXTINF:-1 tvg-id="Sky Sport 9" tvg-name="Sky Sport 9" group-title="紐西蘭",Sky Sport 9
+#EXTINF:-1 tvg-id="s_SKYSPORT9" tvg-name="Sky Sport 9" group-title="紐西蘭",Sky Sport 9
 http://atryffad.usa3.345123.xyz/eth_play.php?name=27580d5be3a7526d3a1ea8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="紐西蘭",ESPN
 http://atryffad.usa3.345123.xyz/eth_play.php?name=31602435
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" group-title="紐西蘭",ESPN 2
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3160243590e5
-#EXTINF:-1 tvg-id="Sky Movies Premiere" tvg-name="Sky Movies Premiere" group-title="紐西蘭",Sky Movies Premiere
+#EXTINF:-1 tvg-id="s_SKYMOVIESPREMIERE" tvg-name="Sky Movies Premiere" group-title="紐西蘭",Sky Movies Premiere
 http://atryffad.usa3.345123.xyz/eth_play.php?name=27580d5bfdb84b762b4db16402e6396e14029b
 #EXTINF:-1 tvg-id="Sky Movies Comedy" tvg-name="Sky Movies Comedy" group-title="紐西蘭",Sky Movies Comedy
 http://atryffad.usa3.345123.xyz/eth_play.php?name=27580d5bfdb84b762b4db1771fee316308
-#EXTINF:-1 tvg-id="Sky Movies Action" tvg-name="Sky Movies Action" group-title="紐西蘭",Sky Movies Action
+#EXTINF:-1 tvg-id="s_SKYMOVIESACTION" tvg-name="Sky Movies Action" group-title="紐西蘭",Sky Movies Action
 http://atryffad.usa3.345123.xyz/eth_play.php?name=27580d5bfdb84b762b4db17513f73d681f
-#EXTINF:-1 tvg-id="Sky Movies Greats" tvg-name="Sky Movies Greats" group-title="紐西蘭",Sky Movies Greats
+#EXTINF:-1 tvg-id="s_SKYMOVIESGREATS" tvg-name="Sky Movies Greats" group-title="紐西蘭",Sky Movies Greats
 http://atryffad.usa3.345123.xyz/eth_play.php?name=27580d5bfdb84b762b4db17302e6357302
 #EXTINF:-1 tvg-id="s_SKYMOVIESCLASSICS" tvg-name="Sky Movies Classics" group-title="紐西蘭",Sky Movies Classics
 http://atryffad.usa3.345123.xyz/eth_play.php?name=27580d5bfdb84b762b4db1771ce2277418138d
-#EXTINF:-1 tvg-id="Sky Movies Family" tvg-name="Sky Movies Family" group-title="紐西蘭",Sky Movies Family
+#EXTINF:-1 tvg-id="s_SKYMOVIESFAMILY" tvg-name="Sky Movies Family" group-title="紐西蘭",Sky Movies Family
 http://atryffad.usa3.345123.xyz/eth_play.php?name=27580d5bfdb84b762b4db17211ee3d6b08
-#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" group-title="新加坡",Channel 5
+#EXTINF:-1 tvg-id="s_Channel 5" tvg-name="Channel 5" group-title="新加坡",Channel 5
 http://atryffad.usa3.345123.xyz/eth_play.php?name=375b1515deb2513f7b
 #EXTINF:-1 tvg-id="Channel 5 (a)" tvg-name="Channel 5 (a)" group-title="新加坡",Channel 5 (a)
 http://atryffad.usa3.345123.xyz/eth_play.php?name=375b1515deb2513f7b1eb95559
@@ -1873,31 +1873,31 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=2252071adea3557e23
 http://atryffad.usa3.345123.xyz/eth_play.php?name=377d35
 #EXTINF:-1 tvg-id="SPL01" tvg-name="SPL01" group-title="新加坡",SPL01
 http://atryffad.usa3.345123.xyz/eth_play.php?name=2763384b81
-#EXTINF:-1 tvg-id="Hub Sports 1 HD" tvg-name="Hub Sports 1 HD" group-title="新加坡",Hub Sports 1 HD
+#EXTINF:-1 tvg-id="s_HUB SPORTS 1 HD" tvg-name="Hub Sports 1 HD" group-title="新加坡",Hub Sports 1 HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c46165be3a7526d3a4db10550cb10
-#EXTINF:-1 tvg-id="Hub Sports 2 HD" tvg-name="Hub Sports 2 HD" group-title="新加坡",Hub Sports 2 HD
+#EXTINF:-1 tvg-id="s_HUB SPORTS 2 HD" tvg-name="Hub Sports 2 HD" group-title="新加坡",Hub Sports 2 HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c46165be3a7526d3a4db10650cb10
-#EXTINF:-1 tvg-id="Hub Sports 3 HD" tvg-name="Hub Sports 3 HD" group-title="新加坡",Hub Sports 3 HD
+#EXTINF:-1 tvg-id="s_HUB SPORTS 3 HD" tvg-name="Hub Sports 3 HD" group-title="新加坡",Hub Sports 3 HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c46165be3a7526d3a4db10750cb10
-#EXTINF:-1 tvg-id="Hub Sports 4 HD" tvg-name="Hub Sports 4 HD" group-title="新加坡",Hub Sports 4 HD
+#EXTINF:-1 tvg-id="s_HUB SPORTS 4 HD" tvg-name="Hub Sports 4 HD" group-title="新加坡",Hub Sports 4 HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c46165be3a7526d3a4db10050cb10
-#EXTINF:-1 tvg-id="Hub Sports 5 HD" tvg-name="Hub Sports 5 HD" group-title="新加坡",Hub Sports 5 HD
+#EXTINF:-1 tvg-id="s_HUB SPORTS 5 HD" tvg-name="Hub Sports 5 HD" group-title="新加坡",Hub Sports 5 HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c46165be3a7526d3a4db10150cb10
-#EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" group-title="新加坡",Hub Premier 1
+#EXTINF:-1 tvg-id="s_Hub Premier 1 HD" tvg-name="Hub Premier 1" group-title="新加坡",Hub Premier 1
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c46165be0a55872275be31441
-#EXTINF:-1 tvg-id="Hub Premier 2" tvg-name="Hub Premier 2" group-title="新加坡",Hub Premier 2
+#EXTINF:-1 tvg-id="s_HUBPREMIER2(HD)" tvg-name="Hub Premier 2" group-title="新加坡",Hub Premier 2
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c46165be0a55872275be31442
-#EXTINF:-1 tvg-id="Hub Premier 3" tvg-name="Hub Premier 3" group-title="新加坡",Hub Premier 3
+#EXTINF:-1 tvg-id="s_HUB PREMIER 3" tvg-name="Hub Premier 3" group-title="新加坡",Hub Premier 3
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c46165be0a55872275be31443
-#EXTINF:-1 tvg-id="Hub Premier 4" tvg-name="Hub Premier 4" group-title="新加坡",Hub Premier 4
+#EXTINF:-1 tvg-id="s_HUB PREMIER 4" tvg-name="Hub Premier 4" group-title="新加坡",Hub Premier 4
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c46165be0a55872275be31444
-#EXTINF:-1 tvg-id="Travelxp HD" tvg-name="Travelxp HD" group-title="新加坡",Travelxp HD
+#EXTINF:-1 tvg-id="s_Travelxp HD" tvg-name="Travelxp HD" group-title="新加坡",Travelxp HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=2041150dd5bb456f6e76d5
-#EXTINF:-1 tvg-id="Hub E City HD" tvg-name="Hub E City HD" group-title="新加坡",Hub E City HD
+#EXTINF:-1 tvg-id="s_Hub E City HD" tvg-name="Hub E City HD" group-title="新加坡",Hub E City HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c46165bf5f77e763a47b17c34
-#EXTINF:-1 tvg-id="Hub VVDrama HD" tvg-name="Hub VVDrama HD" group-title="新加坡",Hub VVDrama HD
+#EXTINF:-1 tvg-id="s_Hub VV Drama HD" tvg-name="Hub VVDrama HD" group-title="新加坡",Hub VVDrama HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c46165be681796d2f53f01438c7
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/ccm789/epg@main/logos/CM.png" tvg-id="492882" tvg-name="Celestial Movies HD" group-title="新加坡",Celestial Movies HD
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/ccm789/epg@main/logos/CM.png" tvg-id="astro134" tvg-name="Celestial Movies HD" group-title="新加坡",Celestial Movies HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3756181ec3a3547e221edc5b06ea31745138ba
 #EXTINF:-1 tvg-id="s_Hub Ruyi" tvg-name="HubRuyi" group-title="新加坡",HubRuyi
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c461629c5ae54
@@ -1909,7 +1909,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=3e5a155bfcb2
 http://atryffad.usa3.345123.xyz/eth_play.php?name=111e381e
 #EXTINF:-1 tvg-id="Ju-Le-Cool" tvg-name="Ju-Le-Cool" group-title="新加坡",Ju-Le-Cool
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3e465937d5fa7e702152
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/ccm789/epg@main/logos/CM.png" tvg-id="1298" tvg-name="Celestial Movies (1080p)" group-title="新加坡",Celestial Movies (1080p)
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/ccm789/epg@main/logos/CM.png" tvg-id="astro134" tvg-name="Celestial Movies (1080p)" group-title="新加坡",Celestial Movies (1080p)
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3756181ec3a3547e221edc5b06ea31745158cff6918c7e5c
 #EXTINF:-1 tvg-id="410283" tvg-name="HBO HD" group-title="新加坡",HBO HD
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c713b5bf893
@@ -2043,7 +2043,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=207d205be3a7526d3a1ea3
 http://atryffad.usa3.345123.xyz/eth_play.php?name=207d205be3a7526d3a1ea2
 #EXTINF:-1 tvg-id="TNT Sport 4" tvg-name="TNT Sport 4" group-title="英國",TNT Sport 4
 http://atryffad.usa3.345123.xyz/eth_play.php?name=207d205be3a7526d3a1ea5
-#EXTINF:-1 tvg-id="EURO SPORT 1" tvg-name="EURO SPORT 1" group-title="英國",EURO SPORT 1
+#EXTINF:-1 tvg-id="s_EUROSPORT 1" tvg-name="EURO SPORT 1" group-title="英國",EURO SPORT 1
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3166263490846d501c6ab105
 #EXTINF:-1 tvg-id="EURO SPORT 2" tvg-name="EURO SPORT 2" group-title="英國",EURO SPORT 2
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3166263490846d501c6ab106
@@ -2051,7 +2051,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=3166263490846d501c6ab106
 http://atryffad.usa3.345123.xyz/eth_play.php?name=24411116d9b24f3f1d4efe4604f07436
 #EXTINF:-1 tvg-id="Premier Sports 2" tvg-name="Premier Sports 2" group-title="英國",Premier Sports 2
 http://atryffad.usa3.345123.xyz/eth_play.php?name=24411116d9b24f3f1d4efe4604f07435
-#EXTINF:-1 tvg-id="ITV1" tvg-name="ITV1" group-title="英國",ITV1
+#EXTINF:-1 tvg-id="s_ITV1" tvg-name="ITV1" group-title="英國",ITV1
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3d67224a
 #EXTINF:-1 tvg-id="ITV2" tvg-name="ITV2" group-title="英國",ITV2
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3d672249
@@ -2175,7 +2175,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=2065365bf4a55c722f
 http://atryffad.usa3.345123.xyz/eth_play.php?name=2065365bfeb24a6c
 #EXTINF:-1 tvg-id="g_TVBJ" tvg-name="TVBJ1" group-title="北美",TVBJ1
 http://atryffad.usa3.345123.xyz/eth_play.php?name=2065363181
-#EXTINF:-1 tvg-id="s_TVBPEARLDRAMA" tvg-name="TVB Pearl Drama" group-title="北美",TVB Pearl Drama
+#EXTINF:-1 tvg-id="TVB Pearl Drama" tvg-name="TVB Pearl Drama" group-title="北美",TVB Pearl Drama
 http://atryffad.usa3.345123.xyz/eth_play.php?name=2065365be0b25c6d221ed54611ee35
 #EXTINF:-1 tvg-id="NBA 24/7 TV (APP)" tvg-name="NBA 24/7 TV (APP)" group-title="NBA",NBA 24/7 TV (APP)
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3a71355b82e312286e6ac71458c2045758

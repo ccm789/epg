@@ -297,12 +297,48 @@ def merge_my_celestial(text):
     print(f'补马来版天映: {len(progs)} 条节目')
     return text.replace('</tv>', m.group(0) + ''.join(progs) + '</tv>', 1)
 
+def merge_astro(text):
+    """并入 Astro 马来西亚 EPG（v-epg/as-epg，175 频道 / 7 天，astroXXX 命名）"""
+    # 幂等：先剔除旧的 astro 数据
+    if 'channel id="astro' in text:
+        text = re.sub(r'<channel id="astro[^"]*">.*?</channel>\s*', '', text, flags=re.S)
+        text = re.sub(r'<programme\s+[^>]*channel="astro[^"]*"[^>]*>.*?</programme>\s*', '', text, flags=re.S)
+    try:
+        src = fetch('https://raw.githubusercontent.com/v-epg/as-epg/main/astro_epg.xml', timeout=180)
+    except Exception as e:
+        print('Astro EPG拉取失败:', e); return text
+    chs = re.findall(r'<channel id="astro[^"]*">.*?</channel>', src, re.S)
+    progs = re.findall(r'<programme\s+[^>]*channel="astro[^"]*"[^>]*>.*?</programme>', src, re.S)
+    if not chs:
+        print('Astro EPG无数据'); return text
+    # 去掉每集剧照 icon，体积减半
+    progs = [re.sub(r'\s*<icon src="[^"]*"\s*/>', '', p) for p in progs]
+    print(f'并入Astro: {len(chs)} 频道 / {len(progs)} 节目')
+    return text.replace('</tv>', '\n'.join(chs) + '\n' + '\n'.join(progs) + '\n</tv>', 1)
+
+def clean_expired(text):
+    """删除已结束的节目，控制文件体积"""
+    today = datetime.datetime.utcnow().strftime('%Y%m%d')
+    parts = re.split(r'(<programme\s+[^>]*>.*?</programme>)', text, flags=re.S)
+    res, dropped = [], 0
+    for p in parts:
+        if p.startswith('<programme'):
+            m = re.search(r'stop="(\d{8})', p)
+            if m and m.group(1) < today:
+                dropped += 1
+                continue
+        res.append(p)
+    print(f'清理过期节目 {dropped} 条')
+    return ''.join(res)
+
 if merged:
     final = ('<?xml version="1.0" encoding="UTF-8"?>\n<tv generator-info-name="epgsgmy" source-info-url="https://epg.pw">\n'
              + '\n'.join(merged) + '\n</tv>\n')
     final = add_aliases(final)
     final = merge_my_celestial(final)
+    final = merge_astro(final)
     final = inject_icons(final, build_singtel_logos())
+    final = clean_expired(final)
     with open('epg_sgmy.xml', 'w', encoding='utf-8') as f:
         f.write(final)
     print(f'epg_sgmy.xml: {nch} channels, {nprog} programmes, {os.path.getsize("epg_sgmy.xml")//1024}KB')

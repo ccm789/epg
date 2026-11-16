@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://gh-proxy.com/raw.githubusercontent.com/ccm789/epg/main/epg_sgmy.xml"
+#EXTM3U url-tvg="https://gh-proxy.com/raw.githubusercontent.com/ccm789/epg/main/epg_sgmy.xml.gz"
 #EXTINF:-1 tvg-id="astro622" group-title="Astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro30.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogoNew.png",100 Astro 30
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_primary.mpd
 #EXTINF:-1 tvg-id="astro395" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",101 TV1 HD

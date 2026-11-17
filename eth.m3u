@@ -39,9 +39,9 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=928bdb9e3f67da8bfbd636b243b5
 http://atryffad.usa3.345123.xyz/eth_play.php?name=92affd9c074d0c27abb121
 #EXTINF:-1 tvg-id="HKIBC 香港國際財經台" tvg-name="HKIBC 香港國際財經台" group-title="香港",HKIBC 香港國際財經台
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c783d39f3f7d4b9d7d8299b951fdfeeebeb1674085bb8e6e6f8a5
-#EXTINF:-1 tvg-id="g_HOY77" tvg-name="HOY 77" group-title="香港",HOY 77
+#EXTINF:-1 tvg-id="s_HOY77" tvg-name="HOY 77" group-title="香港",HOY 77
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c7c2d5b87e0
-#EXTINF:-1 tvg-id="g_HOY78" tvg-name="HOY 78" group-title="香港",HOY 78
+#EXTINF:-1 tvg-id="s_HOY78" tvg-name="HOY 78" group-title="香港",HOY 78
 http://atryffad.usa3.345123.xyz/eth_play.php?name=3c7c2d5b87ef
 #EXTINF:-1 tvg-id="368358" tvg-name="黃金翡翠台" group-title="香港",黃金翡翠台
 http://atryffad.usa3.345123.xyz/eth_play.php?name=9d88f7923746daa0efd92e94950ce4
@@ -967,7 +967,7 @@ http://atryffad.usa3.345123.xyz/eth_play.php?name=9db4e59e355ed8a7cdd633bf960be6
 http://atryffad.usa3.345123.xyz/eth_play.php?name=35400009dff77c682f50f8
 #EXTINF:-1 tvg-id="Astro30" tvg-name="Astro30" group-title="馬來西亞",Astro30
 http://atryffad.usa3.345123.xyz/eth_play.php?name=35400009dfe40d
-#EXTINF:-1 tvg-id="s_CETV-1高清" tvg-name="TV1" group-title="馬來西亞",TV1
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" group-title="馬來西亞",TV1
 http://atryffad.usa3.345123.xyz/eth_play.php?name=206545
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2" group-title="馬來西亞",TV2
 http://atryffad.usa3.345123.xyz/eth_play.php?name=206546

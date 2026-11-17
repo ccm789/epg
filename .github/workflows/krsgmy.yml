@@ -14,11 +14,13 @@ jobs:
         with:
           python-version: '3.11'
       - name: 生成韩国/新加坡/马来西亚 EPG
-        run: python update_krsgmy.py
+        run: |
+          python update_krsgmy.py
+          gzip -kf epg_sgmy.xml
       - name: commit
         run: |
           git config user.name "epg-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add epg_sgmy.xml epg_kr.xml 2>/dev/null || git add epg_sgmy.xml
+          git add epg_sgmy.xml epg_sgmy.xml.gz epg_kr.xml 2>/dev/null || git add epg_sgmy.xml epg_sgmy.xml.gz
           git diff --cached --quiet || git commit -m "kr-sg-my update $(date -u +%F-%H)"
           git push

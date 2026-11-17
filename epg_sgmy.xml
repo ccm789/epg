@@ -115,13 +115,13 @@
   <channel id="492867">
     <display-name lang="zh">Discovery HD</display-name>
   </channel>
-  <channel id="369811">
-    <display-name lang="zh">Sony YAY!</display-name>
-  </channel>
   <channel id="492903">
     <display-name lang="zh">Hub Premier 1</display-name>
     <display-name lang="zh">Hub Premier 1 HD</display-name>
     <display-name lang="zh">HUB PREMIER 1</display-name>
+  </channel>
+  <channel id="369811">
+    <display-name lang="zh">Sony YAY!</display-name>
   </channel>
   <channel id="549952">
     <display-name lang="zh">Drama Hebat</display-name>
@@ -147,11 +147,11 @@
     <display-name lang="zh">Hub VV Drama</display-name>
     <display-name lang="zh">HUB VVDRAMA</display-name>
   </channel>
-  <channel id="524991">
-    <display-name lang="zh">FIGHT SPORTS HD</display-name>
-  </channel>
   <channel id="369722">
     <display-name lang="zh">NHK World Premium</display-name>
+  </channel>
+  <channel id="524991">
+    <display-name lang="zh">FIGHT SPORTS HD</display-name>
   </channel>
   <channel id="369783">
     <display-name lang="zh">Phoenix InfoNews</display-name>
@@ -174,14 +174,14 @@
   <channel id="492883">
     <display-name lang="zh">CTI Asia HD</display-name>
   </channel>
-  <channel id="492833">
-    <display-name lang="zh">Fox News Channel HD</display-name>
-  </channel>
   <channel id="492898">
     <display-name lang="zh">Hub Ruyi</display-name>
     <display-name lang="zh">Hub 如意台</display-name>
     <display-name lang="zh">Hub如意台</display-name>
     <display-name lang="zh">HUB RUYI</display-name>
+  </channel>
+  <channel id="492833">
+    <display-name lang="zh">Fox News Channel HD</display-name>
   </channel>
   <channel id="495472">
     <display-name lang="zh">Fear Factor</display-name>
@@ -231,45 +231,42 @@
   <channel id="369848">
     <display-name lang="zh">Animax (HD)</display-name>
   </channel>
-  <channel id="501126">
-    <display-name lang="zh">WION</display-name>
+  <channel id="369844">
+    <display-name lang="zh">STAR Plus</display-name>
   </channel>
   <channel id="369737">
     <display-name lang="zh">TRACE Sports Stars HD</display-name>
   </channel>
-  <channel id="369844">
-    <display-name lang="zh">STAR Plus</display-name>
-  </channel>
-  <channel id="492914">
-    <display-name lang="zh">Astro Warna HD</display-name>
+  <channel id="501126">
+    <display-name lang="zh">WION</display-name>
   </channel>
   <channel id="492905">
     <display-name lang="zh">LIVE 1</display-name>
+  </channel>
+  <channel id="492914">
+    <display-name lang="zh">Astro Warna HD</display-name>
   </channel>
   <channel id="492817">
     <display-name lang="zh">Vasantham</display-name>
     <display-name lang="zh">Vasantha HD</display-name>
   </channel>
-  <channel id="492901">
-    <display-name lang="zh">Suria</display-name>
-  </channel>
   <channel id="501125">
     <display-name lang="zh">BRTV International</display-name>
   </channel>
-  <channel id="522552">
-    <display-name lang="zh">CGTN</display-name>
+  <channel id="492901">
+    <display-name lang="zh">Suria</display-name>
   </channel>
   <channel id="522559">
     <display-name lang="zh">CCTV-4 (HD)</display-name>
   </channel>
-  <channel id="524987">
-    <display-name lang="zh">beIN SPORTS 2 HD</display-name>
+  <channel id="522552">
+    <display-name lang="zh">CGTN</display-name>
   </channel>
   <channel id="492869">
     <display-name lang="zh">Astro Sensasi HD</display-name>
   </channel>
-  <channel id="369813">
-    <display-name lang="zh">CNBC Asia</display-name>
+  <channel id="524987">
+    <display-name lang="zh">beIN SPORTS 2 HD</display-name>
   </channel>
   <channel id="369760">
     <display-name lang="zh">AFN (HD)</display-name>
@@ -277,24 +274,27 @@
   <channel id="369772">
     <display-name lang="zh">Colors</display-name>
   </channel>
-  <channel id="524985">
-    <display-name lang="zh">beIN SPORTS 3 HD</display-name>
+  <channel id="369813">
+    <display-name lang="zh">CNBC Asia</display-name>
   </channel>
   <channel id="492834">
     <display-name lang="zh">Hub Sports 1 HD</display-name>
     <display-name lang="zh">Hub Sports 1</display-name>
     <display-name lang="zh">HUB SPORTS 1 HD</display-name>
   </channel>
+  <channel id="524985">
+    <display-name lang="zh">beIN SPORTS 3 HD</display-name>
+  </channel>
   <channel id="492895">
     <display-name lang="zh">Hub E City HD</display-name>
     <display-name lang="zh">Hub E-City HD</display-name>
     <display-name lang="zh">Hub E City</display-name>
   </channel>
-  <channel id="491156">
-    <display-name lang="zh">Zee Tamil</display-name>
-  </channel>
   <channel id="522554">
     <display-name lang="zh">Vijay</display-name>
+  </channel>
+  <channel id="491156">
+    <display-name lang="zh">Zee Tamil</display-name>
   </channel>
   <channel id="369779">
     <display-name lang="zh">HGTV (HD)</display-name>
@@ -302,23 +302,23 @@
   <channel id="501127">
     <display-name lang="zh">ABS-CBN News Channel</display-name>
   </channel>
-  <channel id="582243">
-    <display-name lang="zh">ROCK Entertainment HD</display-name>
-  </channel>
   <channel id="369757">
     <display-name lang="zh">Sky News HD</display-name>
   </channel>
+  <channel id="582243">
+    <display-name lang="zh">ROCK Entertainment HD</display-name>
+  </channel>
   <channel id="513276">
     <display-name lang="zh">Ch 8 (HD)</display-name>
-  </channel>
-  <channel id="492880">
-    <display-name lang="zh">W-Sport</display-name>
   </channel>
   <channel id="369828">
     <display-name lang="zh">ZEE TV</display-name>
   </channel>
   <channel id="513280">
     <display-name lang="zh">Ch U (HD)</display-name>
+  </channel>
+  <channel id="492880">
+    <display-name lang="zh">W-Sport</display-name>
   </channel>
   <channel id="524989">
     <display-name lang="zh">Cricbuzz</display-name>
@@ -353,11 +353,11 @@
   <channel id="516581">
     <display-name lang="zh">TechStorm (HD)</display-name>
   </channel>
-  <channel id="535445">
-    <display-name lang="zh">That's 70s</display-name>
-  </channel>
   <channel id="535444">
     <display-name lang="zh">That's Rock</display-name>
+  </channel>
+  <channel id="535445">
+    <display-name lang="zh">That's 70s</display-name>
   </channel>
   <channel id="369780">
     <display-name lang="zh">Cartoon Network (HD)</display-name>
@@ -380,11 +380,11 @@
   <channel id="535443">
     <display-name lang="zh">That's 80s</display-name>
   </channel>
-  <channel id="369785">
-    <display-name lang="zh">Animal Planet (HD)</display-name>
-  </channel>
   <channel id="491164">
     <display-name lang="zh">GMA News TV</display-name>
+  </channel>
+  <channel id="369785">
+    <display-name lang="zh">Animal Planet (HD)</display-name>
   </channel>
   <channel id="512067">
     <display-name lang="zh">CCTV Entertainment</display-name>
@@ -392,14 +392,6 @@
   <channel id="491157">
     <display-name lang="zh">CNN International (HD)</display-name>
   </channel>
-<programme channel="369719" start="20261117090000 +0800" stop="20261117094500 +0800">
-    <title lang="zh">Law &amp; Order: Special Victims Unit S28</title>
-    <desc>In the criminal justice system, sexually based crimes are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of the Special Victims Unit.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="369719" start="20261117094500 +0800" stop="20261117103000 +0800">
     <title lang="zh">Law &amp; Order: Special Victims Unit S28</title>
     <desc>In the criminal justice system, sexually based crimes are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of the Special Victims Unit.</desc>
@@ -1028,22 +1020,6 @@
     <title lang="zh">Accident, Suicide, Or Murder S6</title>
     <desc>A horse groomer's apparent suicide is called into question years later, when a near-identical crime scene suggests a serial killer may be at work.</desc>
     <date>20261119</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="369726" start="20261117091500 +0800" stop="20261117093000 +0800">
-    <title lang="zh">A PROPOS</title>
-    <desc />
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="369726" start="20261117093000 +0800" stop="20261117094500 +0800">
-    <title lang="zh">News</title>
-    <desc />
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -3592,14 +3568,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="369729" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="369729" start="20261117093000 +0800" stop="20261117100000 +0800">
     <title lang="zh">Talking Business (r)</title>
     <desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
@@ -4708,14 +4676,6 @@
     <title lang="zh">Verified Live</title>
     <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
     <date>20261119</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="369737" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Only Live Once</title>
-    <desc>Only Live Once heads for Montpellier, in the south of France, to taste the joys of rollerblading during the FISE World Games.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -6524,14 +6484,6 @@
     <title lang="zh">Sky News Today with Jayne Secker</title>
     <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
     <date>20261119</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="369760" start="20261117090500 +0800" stop="20261117093500 +0800">
-    <title lang="zh">The Cook Up With Adam Liaw (S3)</title>
-    <desc>Recipe developer Breda Fenn and Maître d' of Momofuku Seibo fame, Kylie Javier Ashton join Adam Liaw in The Cook Up Kitchen to bring their favorite pies.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -8960,14 +8912,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="369772" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Dr. Aarambhi</title>
-    <desc>Once an AIPMT topper, Aarambhi's life is now weighed down by marital duties, but deep within her lies a long-lost dream. Will she get a second chance?</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="369772" start="20261117093000 +0800" stop="20261117100000 +0800">
     <title lang="zh">Mahadev &amp; Sons</title>
     <desc>Mahadev is a man of principles, leading a strict household as the family head! But bound to fly high, his children rebel, and a generational clash ensues!</desc>
@@ -10520,22 +10464,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="369783" start="20261117090000 +0800" stop="20261117092700 +0800">
-    <title lang="zh">鳳凰正點播報 0900</title>
-    <desc>《鳳凰正點播報》：每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事，《鳳凰正點播報》為你追蹤報導。第一時間為你送上，第一時間讓你知道最新發展。.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="369783" start="20261117092700 +0800" stop="20261117093000 +0800">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="369783" start="20261117093000 +0800" stop="20261117100000 +0800">
     <title lang="zh">金石財經</title>
     <desc>《金石財經》精確對準匯股走勢，鎖定最新金融行情，結算每日熱門財經話題，即日即時評論各項消息。.</desc>
@@ -11824,14 +11752,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="369805" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">爱．回家之三代同糖 / Like Mother, Like Daughter</title>
-    <desc>公关女皇唐万里(吴若希饰)独力照顾Gen Z女儿唐芯(李茵彤饰)，控制欲极强。万里的母亲唐曹嘉冰(车婉婉饰)半生相夫教子，忽然「觉醒」，由加拿大返港，决心寻回失落时光，更搬入万里家中。当年嘉冰曾因万里坚持未婚生下女儿，母女彻底闹僵，如今嘉冰却突然无预警杀入及扰乱万里的生活。万里力图维持秩序，唐芯则周旋两人之间，三代同堂火花四溅，矛盾不断。职场上，富二代老板空降「营销大神」杨帆(赵浚承饰)，与万里平起平坐正面交锋，万里事业与家庭同时迎来危机…….</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="369805" start="20261117093000 +0800" stop="20261117100000 +0800">
     <title lang="zh">Hands Up / Hands Up 2026</title>
     <desc>全新儿童节目《Hands Up》鼓励小朋友勇于发问，表达自我，向目标进发！\n\n吉祥物「酱汁家族」成员跟一众主持演出短剧，陪伴大家度过愉快时光。另会带来多首儿歌，让孩子们边唱边学习生活知识。\n\n小朋友走进录像厂，寓学习于娱乐。透过不同主题游戏，加强逻辑思维、锻练体能；玩转STEAM实验，脑力全开！\n\n节目特设表演小舞台，让小朋友展示才艺；齐集创意工作室，DIY小手工。小教「煮」环节，家长和子女共享亲子烹饪乐趣。.</desc>
@@ -12596,22 +12516,6 @@
     <title lang="zh">晚间新闻 / News Roundup</title>
     <desc>报导香港、两岸、国际重要新闻以及体育消息，让你洞悉各地大事及体坛动向.</desc>
     <date>20261119</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="369811" start="20261117091500 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Guru Aur Bhole</title>
-    <desc>Guru's onomatopoeic singing talents adds to Bhole's unique dancing style and brute strength which helps them to get out of many sticky situations in this animated musical comedy.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="369811" start="20261117093000 +0800" stop="20261117094500 +0800">
-    <title lang="zh">Prince Jai Aur Dumdaar Viru</title>
-    <desc>A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -14040,14 +13944,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="369812" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Na Umra Ki Seema Ho</title>
-    <desc>Vidhi, a young woman, falls in love with Devratha, a middle-aged tycoon. Together they embark on a journey of love, and acceptance beyond the barrier of age.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="369812" start="20261117093000 +0800" stop="20261117100000 +0800">
     <title lang="zh">Ye Hai Mohabbatein</title>
     <desc>A Tamil dentist and Punjabi businessman fall in love, navigating family expectations, parenting, and emotional complexities across cultures.</desc>
@@ -14764,14 +14660,6 @@
     <title lang="zh">Ye Hai Mohabbatein</title>
     <desc>A Tamil dentist and Punjabi businessman fall in love, navigating family expectations, parenting, and emotional complexities across cultures.</desc>
     <date>20261119</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="369813" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Squawk Box Asia</title>
-    <desc>Squawk Box Asia is CNBC's flagship show that sets the news agenda and takes viewers through the pre-game and the opening of Asia's business trading day, covering the top market moving stories and views from the top CEOs, asset managers and newsmakers.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -15668,30 +15556,6 @@
     <title lang="zh">Squawk On The Street</title>
     <desc>Headquartered live on the floor of the New York Stock Exchange (NYSE) where the biggest companies in the world trade, “Squawk On The Street” tracks the action of every stock and gives you access to the treasury, currency and commodity action in real time.</desc>
     <date>20261119</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="369816" start="20261117091500 +0800" stop="20261117092500 +0800">
-    <title lang="zh">Go Jetters (S2)</title>
-    <desc>Glitch races the Go Jetters across the Academy to find the lost G.O. Dome of the Ancients.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="369816" start="20261117092500 +0800" stop="20261117094000 +0800">
-    <title lang="zh">Go Jetters (S2)</title>
-    <desc>The Go Jetters visit a nature reserve in China. But who's taking all the pandas' bamboo?</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="369816" start="20261117094000 +0800" stop="20261117095000 +0800">
-    <title lang="zh">Thomas &amp; Friends (S24)</title>
-    <desc>There's a fancy dress competition on the railways and while Thomas and the others are excited, Shankar doesn't want to join in.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -19112,14 +18976,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="369828" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Ganga Mai Ki Betiyan</title>
-    <desc>Ganga Mai, abandoned for bearing daughters, defies norms with fierce love and dignity, raising three girls who each forge bold, individual paths shaped by their dreams and inner fire.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="369828" start="20261117093000 +0800" stop="20261117100000 +0800">
     <title lang="zh">Tu Hi Re Dil Mein</title>
     <desc>Believed to bring luck, Vrinda marries her dream man, Sanjay, who loves Divya. Living as a caretaker, she faces silent sacrifices, unsure if fate will choose her.</desc>
@@ -19892,14 +19748,6 @@
     <title lang="zh">Tumm Se Tumm Tak</title>
     <desc>Anu, a kind 20-year-old, and Aryavardhan, a resolute 45-year-old businessman, defy societal norms and family resistance, overcoming struggles to demonstrate that love transcends age or boundaries.</desc>
     <date>20261119</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="369836" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">NHK NEWSLINE</title>
-    <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -21132,22 +20980,6 @@
     <title lang="zh">NHK NEWSLINE</title>
     <desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
     <date>20261119</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="369839" start="20261117091500 +0800" stop="20261117094500 +0800">
-    <title lang="zh">Le monde dans tous ses Etats</title>
-    <desc />
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="369839" start="20261117094500 +0800" stop="20261117095100 +0800">
-    <title lang="zh">Plan B</title>
-    <desc />
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -23264,14 +23096,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="369844" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Yeh Rishta Kya Kehlata Hai</title>
-    <desc>Dr. Abhimanyu, a misogynist, falls for Akshara, their daughter. Complications arise when Akshara's half-sister, Arohi, also falls for him.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="369844" start="20261117093000 +0800" stop="20261117100000 +0800">
     <title lang="zh">Anupamaa</title>
     <desc>Anupamaa sacrifices her ambitions for family, feeling uncredited. She finds empowerment by living on her terms after trials, showcasing a dramatic journey of resilience and independence.</desc>
@@ -24264,14 +24088,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="369848" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">WITCH WATCH</title>
-    <desc>Morihito faces a trope-filled Student Council trying to ban Nico's magic and meets the mysterious President Kiyomiya.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="369848" start="20261117093000 +0800" stop="20261117100000 +0800">
     <title lang="zh">WITCH WATCH</title>
     <desc>Kanshi saves Keigo from a bully using a candy called "Drop." They learn that a man named Wolf is distributing it.</desc>
@@ -25260,14 +25076,6 @@
     <title lang="zh">RAGNA CRIMSON</title>
     <desc>The Argentum Corps successfully launched the first strike against Olto Zora, who sees his old master in Starlia.</desc>
     <date>20261119</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="369849" start="20261117092100 +0800" stop="20261117094700 +0800">
-    <title lang="zh">Kyunki Papa Kehte Hain</title>
-    <desc>After their parents' tragic death, five siblings must grow up overnight. Eldest brother Pawan shoulders the massive responsibility of running the house and raising his younger brothers and sisters.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -26380,14 +26188,6 @@
     <title lang="zh">Kyunki Papa Kehte Hain</title>
     <desc>After their parents' tragic death, five siblings must grow up overnight. Eldest brother Pawan shoulders the massive responsibility of running the house and raising his younger brothers and sisters.</desc>
     <date>20261119</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="491156" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Parijatham</title>
-    <desc>After losing her parents and hearing in a tragic accident, Isai is forced to marry Vishal when her aunt Rukmini manipulates her horoscope to meet Subadra's strict astrological beliefs.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -27888,14 +27688,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="491159" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Miss Kobayashi's Dragon Maid</title>
-    <desc>The Emperor of Demise - Tohru's father - suddenly appears before her, and wants her to return home.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="491159" start="20261117093000 +0800" stop="20261117100000 +0800">
     <title lang="zh">Miss Kobayashi's Dragon Maid S</title>
     <desc>Tohru somehow ends up working at a newly opened maid cafe. One day, while going about her usual routine, she learns from the news that the area where she met Miss Kobayashi was vandalised.</desc>
@@ -28900,14 +28692,6 @@
     <title lang="zh">I'm Getting Married to a Girl I Hate in My Class</title>
     <desc>Saito asks his aunt, Reiko, for a part-time job in secret to buy Akane the ring she wants. Akane learns that Saito has been visiting Shisei's, but Reiko coldly brushes her off when she asks….</desc>
     <date>20261119</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="491166" start="20261117091000 +0800" stop="20261117093500 +0800">
-    <title lang="zh">Blue's Clues &amp; You</title>
-    <desc>Josh and Blue are making a movie and they need YOUR help! We play Blue's Clues to figure out the ending of our movie- what will wake Magenta up after a magic flower makes her fall asleep? While looking for clues, we help Rapunzel make her own movie.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -30616,14 +30400,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="491170" start="20261117092000 +0800" stop="20261117094500 +0800">
-    <title lang="zh">SpongeBob SquarePants</title>
-    <desc>SpongeBob goes to extreme lengths to trick Gary into going to the vet. // SpongeBob become desperate when he accidentally gets pinned under his exercise equipment and must wait for help to arrive.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="491170" start="20261117094500 +0800" stop="20261117101000 +0800">
     <title lang="zh">The Thundermans: Undercover</title>
     <desc>After Phoebe and Max let Chloe's friends watch a horror movie and eat candy, Jinx and Booch's parents want to meet Chloe's. With Hank and Barb away, Max and Phoebe transform into them to help Chloe. It goes well until the real Hank and Barb show up.</desc>
@@ -32020,30 +31796,6 @@
     <title lang="zh">The Marsupilamis</title>
     <desc>The Twins Halloween Movie night takes a spooky turn when the Marsups are mistaken for spirits by their friends.</desc>
     <date>20261119</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="492816" start="20261117091500 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Builder Brothers Dream Factory S1 - EP 21</title>
-    <desc>The show centers on the twins, their friends Mel and Ayana, and their HQ called the "Dream Factory." In each episode, a friend or neighbor approaches the team with a problem or challenge. The brothers use their imagination, creativity, and construction skills—often utilizing a concept they call "twinspiration"—to come up with inventive, DIY solutions built from everyday objects.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="492816" start="20261117093000 +0800" stop="20261117094000 +0800">
-    <title lang="zh">Hey Duggee: Sr2 - EP 7</title>
-    <desc>The return of the Bafta and International Emmy-winning series for pre-school children that encourages physical activity. Each episode of this funny animated series starts with club leader Duggee - a big lovable dog - welcoming the Squirrels, a bunch of curious little characters who are dropped off at the club by their parents.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="492816" start="20261117094000 +0800" stop="20261117095000 +0800">
-    <title lang="zh">Hey Duggee: Sr2 - EP 8</title>
-    <desc>The return of the Bafta and International Emmy-winning series for pre-school children that encourages physical activity. Each episode of this funny animated series starts with club leader Duggee - a big lovable dog - welcoming the Squirrels, a bunch of curious little characters who are dropped off at the club by their parents.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -34636,14 +34388,6 @@
     <title lang="zh">Yes Captain! - EP 59</title>
     <desc>The CUAs push back against increasingly strict restrictions imposed by the officers. Meanwhile, Joshua returns to G5 as a tutoring volunteer and reunites with Adam. He also grows closer to Charlize, causing Russell’s trust in her to waver. After losing a terminally ill inmate, Dr Poon struggles to cope with the loss.</desc>
     <date>20261124</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="492817" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Enna Kodumai - EP 6</title>
-    <desc>"Hold onto your helmets, folks! Our host's next escapade took him 15,000 feet above sea level, where he practically touched the clouds of Rome. What's on his mind up there? Well, the producers thought it'd be a splendid idea to zip-line him across Venice at speeds that make the Flash jealous. But when the need for adventure reached its peak, our host decided. 'Enough is enough' and bid the show fa</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -37420,14 +37164,6 @@
     <title lang="zh">One World - Monday, November 23, 2026 11am ET</title>
     <desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
     <date>20261124</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="492825" start="20261117091000 +0800" stop="20261117093500 +0800">
-    <title lang="zh">Blue's Clues &amp; You S2 - Blue Makes a Movie with YOU!</title>
-    <desc>Josh and Blue are making a movie and they need YOUR help! We play Blue's Clues to figure out the ending of our movie- what will wake Magenta up after a magic flower makes her fall asleep? While looking for clues, we help Rapunzel make her own movie.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -41724,30 +41460,6 @@
     <title lang="zh">Mr. Crocodile S1 - Birthday Party / Tick Tock Mr. Croc</title>
     <desc>Mr. Crocodile wants to be a good guest at Daisy's birthday party since he's never been to one before. // Rushing to get to a concert on time, Mr. Crocodile and Daisy misplace their tickets at Mom's Box and Ship Shop.</desc>
     <date>20261124</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="492826" start="20261117091500 +0800" stop="20261117092500 +0800">
-    <title lang="zh">Go Jetters S02 - Go Jet Academy: Map Readers</title>
-    <desc>Glitch races the Go Jetters across the Academy to find the lost G.O. Dome of the Ancients.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="492826" start="20261117092500 +0800" stop="20261117094000 +0800">
-    <title lang="zh">Go Jetters S02 - Wolong Panda Reserve, China</title>
-    <desc>Lars and Foz are in the Wolong Nature Reserve in China, taking care of the 2,000 pandas that live in the wild there. Grim HQ has also landed in the Wolong reserve, having been through a monsoon. The rain has washed Grandmaster Glitch's ship sparkling clean. Glitch is grumpy - he likes his Grim HQ to be dirty and, well, grim! He tries to use his mud splatterer to make Grim HQ dirty again, but he ca</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="492826" start="20261117094000 +0800" stop="20261117095000 +0800">
-    <title lang="zh">Thomas &amp; Friends S24 - Shankar's Makeover</title>
-    <desc>There's a fancy dress competition on the railways and while Thomas and the others are excited, Shankar doesn't want to join in.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -50536,14 +50248,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="492832" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Witch Watch - Trope-Tacular Student Council / A Stray Cat's Bubble Of Bliss</title>
-    <desc>Morihito faces a trope-filled Student Council trying to ban Nico’s magic and meets the mysterious President Kiyomiya.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="492832" start="20261117093000 +0800" stop="20261117100000 +0800">
     <title lang="zh">Witch Watch - Dogs And Raindrops, Part 1</title>
     <desc>Kanshi saves Keigo from a bully using a candy called "Drop." They learn that a man named Wolf is distributing it.</desc>
@@ -54368,14 +54072,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="492834" start="20261117073000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">ASO Cycling Programming 2026 - Tour de France J:COM Saitama Criterium</title>
-    <desc>The Tour de France J:COM Saitama Criterium is an annual post-season exhibition bicycle race held in Saitama City, Japan. It brings top international Tour de France stars and Japanese cyclists to compete on a tight urban circuit.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="492834" start="20261117093000 +0800" stop="20261117110000 +0800">
     <title lang="zh">Nitto ATP Finals 2026 - Day 2 Doubles Afternoon Session</title>
     <desc>The ATP Finals is the season-ending championship of the ATP Tour. It is the most significant tennis event in the men's annual calendar after the four majors. The event features the world's best eight qualified singles players and doubles teams.</desc>
@@ -55356,14 +55052,6 @@
     <title lang="zh">HSBC BWF World Tour 2026 - LI-NING Hong Kong Open (S500) Finals</title>
     <desc>The Hong Kong Open is an annual badminton tournament held in Hong Kong, China. Established in 1982, it is held at Hong Kong Coliseum and has a prize pool of USD $500,000.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="492837" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">The World Today</title>
-    <desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world’s top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -57756,22 +57444,6 @@
     <title lang="zh">Global Business</title>
     <desc>The flagship business program of CGTN’s English language service. The program offers in-depth analysis of the latest economic data, business trends and market moving policies, zooming in on how all this affects ordinary people. With separate editions out of Asia, Europe, Africa and the Americas, Global Business features analysts and news-makers supported through a global network of correspondents.</desc>
     <date>20261124</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="492839" start="20261117091200 +0800" stop="20261117093000 +0800">
-    <title lang="zh">News</title>
-    <desc>The leading news stories of the moment.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="492839" start="20261117093000 +0800" stop="20261117094200 +0800">
-    <title lang="zh">Euronews Now</title>
-    <desc>Breaking News. In depth analysis on the biggest stories making headlines in Europe and across the world.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -62720,14 +62392,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="492840" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Startup</title>
-    <desc>ANC brings you news updates and breaking news from the Philippines, as well as cultural and religious progamming.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="492840" start="20261117093000 +0800" stop="20261117100000 +0800">
     <title lang="zh">Market Edge</title>
     <desc>ANC brings you news updates and breaking news from the Philippines, as well as cultural and religious progamming.</desc>
@@ -64964,14 +64628,6 @@
     <title lang="zh">The World Tonight</title>
     <desc>ANC brings you news updates and breaking news from the Philippines, as well as cultural and religious progamming.</desc>
     <date>20261124</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="492851" start="20261117083000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">The Imperial Coroner 2 - EP2</title>
-    <desc>[With English and Chinese subtitles] Newlywed forensic duo Chu Chu and Prince Xiao Jinyu lead the Three Judicial Offices against Nanzhao diplomats' schemes, unravelling haunted palace mysteries and border conspiracies during the Emperor's birthday festivi</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -72216,14 +71872,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="492871" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="492871" start="20261117093000 +0800" stop="20261117100000 +0800">
     <title lang="zh">Talking Business</title>
     <desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
@@ -79128,14 +78776,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="492893" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Squawk Box Asia</title>
-    <desc>Squawk Box Asia is CNBC’s flagship show that sets the news agenda and takes viewers through the pre-game and the opening of Asia’s business trading day, covering the top market moving stories and views from the top CEOs, asset managers and newsmakers</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="492893" start="20261117093000 +0800" stop="20261117100000 +0800">
     <title lang="zh">Squawk Box Asia</title>
     <desc>Squawk Box Asia is CNBC’s flagship show that sets the news agenda and takes viewers through the pre-game and the opening of Asia’s business trading day, covering the top market moving stories and views from the top CEOs, asset managers and newsmakers</desc>
@@ -81272,14 +80912,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="492894" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Talk of The Town - EP 165 / 狮城热话</title>
-    <desc>A half-hour talk-show segment in Hello Singapore which brings together diverse voices and expert opinions to thought-provoking discussions on wide range of issues. Incorporating online polls which gather public opinions, the segment creates a space that allows for multi viewpoints in the studio from Monday to Friday.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="492894" start="20261117093000 +0800" stop="20261117100000 +0800">
     <title lang="zh">Unchained Medley - EP 9 / 灵戏逼人</title>
     <desc>Yijun discovers that Xingyun has a family and that Ah Li is his granddaughter, leaving Liufang upset and angry. Meanwhile, Liufang secretly follows Haodong and his students to a Cantonese opera theatre without telling Yijun.</desc>
@@ -83288,14 +82920,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="492895" start="20261117083000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Billionaire Story - EP580</title>
-    <desc>A street separates two worlds. On one side, there is a hard-working life in the market with both hardships and laughter; one the other, it's the life of rich and wealthy families who are intriguing and trembling.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="492895" start="20261117093000 +0800" stop="20261117113000 +0800">
     <title lang="zh">Hello, Saturday - EP126</title>
     <desc>Meng Ziyi, Li Yunrui, Ding Chengxin and Yang Di gather for a wedding-themed celebration on Hao 6 Street. A chaotic ceremony unfolds as four competing suitors vie for the princess's affection through playful contests and comic twists.</desc>
@@ -84268,14 +83892,6 @@
     <title lang="zh">Best Choice Ever - EP28</title>
     <desc>Mai Cheng Huan and Liu Wan Yu finally speak honestly about the conflicts that have shaped their relationship. Mother and daughter begin to understand each other's pressures and expectations, while Mai Cheng Zao decides to stand by Mao Mao as she faces a family problem of her own.</desc>
     <date>20261124</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="492896" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Football's Greatest Stage - Beckenbauer - EP10</title>
-    <desc>Franz Beckenbauer, "The Kaiser".</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -88016,14 +87632,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="492901" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Kelab JMJ S5 - EP 4</title>
-    <desc>Discover the joy of language learning and problem-solving through musical performances, hands-on activities and interactive segments with the energetic casts of Kelab JMJ!</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="492901" start="20261117093000 +0800" stop="20261117100000 +0800">
     <title lang="zh">5 Rencah 5 Rasa S4 - EP 9</title>
     <desc>This week menu is from Pahang - Nasi Kebuli, Opor Daging, Pais Ikan Talapia, Sambal Bunga Kantan and Puding Raja</desc>
@@ -89100,14 +88708,6 @@
     <title lang="zh">End of Transmission</title>
     <desc>End of Transmission</desc>
     <date>20261124</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="492902" start="20261117083000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Xena: Warrior Princess S1 - Beware Of Greeks Bearing</title>
-    <desc>Xena and Gabrielle arrive to Troy during the Trojan War when she is required by an old friend, Helen. While Xena tries to win the war, Gabrielle meets Perdicas, her ex-fiance, who's working now as a mercenary for Troy.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -92260,14 +91860,6 @@
     <title lang="zh">End of Transmission</title>
     <desc>End of Transmission</desc>
     <date>20261124</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="492904" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Dr. Aarambhi - EP229</title>
-    <desc>Once an AIPMT topper, Aarambhi's life is now weighed down by marital duties, but deep within her lies a long-lost dream. Will she get a second chance?</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -97156,14 +96748,6 @@
     <title lang="zh">Information Not Available</title>
     <desc>Information Not Available</desc>
     <date>20261124</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="492908" start="20261117090500 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Rainbow Rangers S1 - Sludge Stream / The Tsunami - EP106</title>
-    <desc>The Rangers have to stop a factory owner from polluting a local stream. / The Rangers have to save Preston and Patty from a tsunami.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -102896,14 +102480,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="501126" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">RACE TO POWER</title>
-    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="501126" start="20261117093000 +0800" stop="20261117100000 +0800">
     <title lang="zh">TOP STORIES</title>
     <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
@@ -103896,14 +103472,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="501127" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">STARTUP</title>
-    <desc />
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="501127" start="20261117093000 +0800" stop="20261117100000 +0800">
     <title lang="zh">MARKET EDGE</title>
     <desc />
@@ -104740,22 +104308,6 @@
     <title lang="zh">EXECUTIVE CLASS</title>
     <desc />
     <date>20261119</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="502440" start="20261117090000 +0800" stop="20261117092700 +0800">
-    <title lang="zh">Cham Islands - A Land of Rich Culture</title>
-    <desc />
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="502440" start="20261117092700 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Promos</title>
-    <desc />
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -106252,14 +105804,6 @@
     <title lang="zh">China's Approach to Tackling Climate Change 4</title>
     <desc />
     <date>20261119</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="513276" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">狮城热话</title>
-    <desc>周一至周五晚上7点狮城有约谈话性栏目狮城热话以汇集多元声音及专家看法为目标通过网络投票和引导观点碰撞打造能让观众参与的时事舆论场.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -107960,30 +107504,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="513286" start="20261117091500 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Builder Brothers Dream Factory S1</title>
-    <desc>The show centers on the twins, their friends Mel and Ayana, and their HQ called the "Dream Factory." In each episode, a friend or neighbor approaches the team with a problem or challenge. The brothers use their imagination, creativity, and construction skills—often utilizing a concept they call "twinspiration"—to come up with inventive, DIY solutions built from everyday objects.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="513286" start="20261117093000 +0800" stop="20261117094000 +0800">
-    <title lang="zh">Hey Duggee: Sr2</title>
-    <desc>The return of the Bafta and International Emmy-winning series for pre-school children that encourages physical activity. Each episode of this funny animated series starts with club leader Duggee - a big lovable dog - welcoming the Squirrels, a bunch of curious little characters who are dropped off at the club by their parents.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="513286" start="20261117094000 +0800" stop="20261117095000 +0800">
-    <title lang="zh">Hey Duggee: Sr2</title>
-    <desc>The return of the Bafta and International Emmy-winning series for pre-school children that encourages physical activity. Each episode of this funny animated series starts with club leader Duggee - a big lovable dog - welcoming the Squirrels, a bunch of curious little characters who are dropped off at the club by their parents.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="513286" start="20261117095000 +0800" stop="20261117100000 +0800">
     <title lang="zh">Hey Duggee: Sr2</title>
     <desc>The return of the Bafta and International Emmy-winning series for pre-school children that encourages physical activity. Each episode of this funny animated series starts with club leader Duggee - a big lovable dog - welcoming the Squirrels, a bunch of curious little characters who are dropped off at the club by their parents.</desc>
@@ -109076,14 +108596,6 @@
     <title lang="zh">NCIS: Tony and Ziva</title>
     <desc>Tony and Ziva use a wedding as an undercover operation to root out their enemies.</desc>
     <date>20261119</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="516579" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Jason Can't Cook</title>
-    <desc>Jason mencuba dunia kulinari dengan berguru bersama cef-cef di bandar. Mampukah dia menguasai seni masakan dan menghasilkan hidangan yang istimewa?</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -110480,14 +109992,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="522552" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">The World Today</title>
-    <desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="522552" start="20261117093000 +0800" stop="20261117100000 +0800">
     <title lang="zh">China 24</title>
     <desc>China 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China. Produced by CGTN's studios in Beijing and Washington D.C., the show takes a compelling and comprehensive look at China. It explores the country's business, politics, technology, culture, entertainment and more. China 24 tackles head-on the issues that matter most to the nation an</desc>
@@ -111436,14 +110940,6 @@
     <title lang="zh">The World Today</title>
     <desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
     <date>20261119</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="522554" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
-    <desc>Three unmarried brothers navigate a family feud amid tensions over father's success and past conflicts. Kadhir and Raji, in an arranged marriage, must overcome dislike amidst familial strife.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -112992,14 +112488,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="524989" start="20261117085100 +0800" stop="20261117092500 +0800">
-    <title lang="zh">England tour of Australia, 2026 Highlights: AUS vs ENG, 2nd ODI - Highlights: AUS vs ENG, 2nd ODI</title>
-    <desc>Watch the highlights from the 2nd ODI between Australia and England.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="524989" start="20261117092500 +0800" stop="20261117095900 +0800">
     <title lang="zh">India tour of New Zealand, 2026 Highlights: NZ vs IND, 5th ODI - Highlights: NZ vs IND, 5th ODI</title>
     <desc>Watch the highlights from the 5th ODI between New Zealand and India.</desc>
@@ -113748,14 +113236,6 @@
     <title lang="zh">ACC Men's Asia Cup Rising Stars 2026 LIVE: M10: SL A vs BAN A - LIVE: M10: SL A vs BAN A</title>
     <desc>Watch the live action from Match 10 between Sri Lanka A and Bangladesh A in the ACC Men's Asia Cup Rising Stars 2026.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="524991" start="20261117070000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">MEGA Fights Paul Williams vs. Kermit Cintron</title>
-    <desc>MEGA Fights are premiere events from the sport of boxing including HBO World Championship Boxing and historic PPV events plus past, current and future World Champions. This episode features former champions Paul 'The Punisher' Williams (38-1, 27 KOs) and 'El Asesino' Kermit Cintron (32-2, 28 KOs) in a middleweight battle. The fight took place at the Home Depot Center in Carson, California, USA, on</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -117352,14 +116832,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="560919" start="20261117092000 +0800" stop="20261117094500 +0800">
-    <title lang="zh">SpongeBob SquarePants S15 - Wary Gary / Pinned</title>
-    <desc>SpongeBob goes to extreme lengths to trick Gary into going to the vet. // SpongeBob become desperate when he accidentally gets pinned under his exercise equipment and must wait for help to arrive.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="560919" start="20261117094500 +0800" stop="20261117101000 +0800">
     <title lang="zh">The Thundermans: Undercover S1 - The Parent Zap</title>
     <desc>After Phoebe and Max let Chloe's friends watch a horror movie and eat candy, Jinx and Booch's parents want to meet Chloe's. With Hank and Barb away, Max and Phoebe transform into them to help Chloe. It goes well until the real Hank and Barb show up.</desc>
@@ -120848,14 +120320,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="561858" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Bino &amp; Fino</title>
-    <desc>Bino &amp; Fino is about a brother and sister named Bino and Fino who live with their grandparents 'Mama' and 'Papa' in a modern day city in Africa. Bino and Fino have many adventures where, with the help of their friend Zeena the Magic Butterfly, they discover and learn things about the world.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="561858" start="20261117093000 +0800" stop="20261117100000 +0800">
     <title lang="zh">Princess Play Time </title>
     <desc>The proud Princess likes to do things her own way, but her antics are always joined by her restless brother, Prince, who tends to turn everything topsy-turvy. Any playtime in their room transforms into a fantastic journey through unusual worlds: the children arrange a picnic on the Moon, conduct a detective investigation in a toy city, or search for pirate treasures on islands! Although initially,</desc>
@@ -123896,14 +123360,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="570455" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">From Phoenix To The World (16/11/26)</title>
-    <desc>Phoenix Chinese Channel offers Chinese viewers across the globe a full range of quality programmes, including long-running favourites covering a broad spectrum of issues from current affairs, exclusive interviews, documentaries and financial analysis to culture and entertainment features.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="570455" start="20261117093000 +0800" stop="20261117100000 +0800">
     <title lang="zh">Phoenix Panorama</title>
     <desc>Phoenix Chinese Channel offers Chinese viewers across the globe a full range of quality programmes, including long-running favourites covering a broad spectrum of issues from current affairs, exclusive interviews, documentaries and financial analysis to culture and entertainment features.</desc>
@@ -125996,14 +125452,6 @@
     <title lang="zh">Phoenix Intercontinental Express (24/11/26)</title>
     <desc>Phoenix Chinese Channel offers Chinese viewers across the globe a full range of quality programmes, including long-running favourites covering a broad spectrum of issues from current affairs, exclusive interviews, documentaries and financial analysis to culture and entertainment features.</desc>
     <date>20261124</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="570456" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">News On The Hour (17/11/26)</title>
-    <desc>Phoenix InfoNews provides a blend of information and news to Chinese viewers from an angle that is global in content, perspective and values.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -128120,14 +127568,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="495472" start="20261117081335 +0800" stop="20261117095411 +0800">
-    <title lang="zh">Fear Factor 2.0 USA - The Bees Are So Angry</title>
-    <desc>Five teams of two compete for $100,000 dollars on a five stunt, 2 hour spectacular.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="495472" start="20261117095411 +0800" stop="20261117113453 +0800">
     <title lang="zh">Fear Factor 2.0 USA - Leeches &amp; Shaved Heads &amp; Tear Gas</title>
     <desc>In a special 2 hour Fear Factor five teams of 2 are bungeed off a cliff while tied under a helicopter.</desc>
@@ -129400,14 +128840,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="369779" start="20261117090500 +0800" stop="20261117093000 +0800">
-    <title lang="zh">House Hunters (S139)</title>
-    <desc>A newly-engaged couple wants to move out of their parents' houses and buy a home together in Buffalo, NY.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="369779" start="20261117093000 +0800" stop="20261117102000 +0800">
     <title lang="zh">Flipping 101 With Tarek El Moussa (S2)</title>
     <desc>Tarek steps in to help engaged flippers complete and sell a home before their fast-approaching wedding.</desc>
@@ -130260,14 +129692,6 @@
     <title lang="zh">House Hunters (S267)</title>
     <desc>A caterer is ready to become a homeowner again in Atlanta. He's looking for a modern home with the space and kitchen to expand his business.</desc>
     <date>20261119</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="492861" start="20261117090500 +0800" stop="20261117093000 +0800">
-    <title lang="zh">House Hunters (S139) - Buying Together In Buffalo</title>
-    <desc>A newly-engaged couple wants to move out of their parents' houses and buy a home together in Buffalo, NY.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -133848,14 +133272,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="501125" start="20261117091300 +0800" stop="20261117095300 +0800">
-    <title lang="zh">北京评书大会</title>
-    <desc />
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="501125" start="20261117095300 +0800" stop="20261117102300 +0800">
     <title lang="zh">文化之约</title>
     <desc />
@@ -134796,14 +134212,6 @@
     <title lang="zh">京津冀大格局</title>
     <desc />
     <date>20261119</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="507899" start="20261117081501 +0800" stop="20261117092357 +0800">
-    <title lang="zh">MasterChef Australia Season 08 - Pressure Test: Christy Tania</title>
-    <desc>The bottom three contestants from the test now face the elimination pressure test set by Christy Tania.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -136768,14 +136176,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="492882" start="20261117080000 +0800" stop="20261117094000 +0800">
-    <title lang="zh">The Grey Men</title>
-    <desc>Undercover police officer Shan is sent to prison to befriend crime boss Tin and gather evidence. After Tin’s release, Shan helps him rise through the ranks by eliminating rivals. But when his contact with police arouses suspicion, Shan’s cover is exposed, leaving him in a deadly predicament as a secret that could change everything emerges.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="492882" start="20261117094000 +0800" stop="20261117111500 +0800">
     <title lang="zh">Paper Man</title>
     <desc>As the police investigate a gang murder case, another mysterious paper man murder occurs, and the suspects are killed one by one. Continuing to track the clues of the case, the police finally unveil a hidden secret and tragedy spanning two generations.</desc>
@@ -137548,14 +136948,6 @@
     <title lang="zh">The Accidental Spy</title>
     <desc>Gifted salesman Siu Buck travels to Turkey to uncover his roots, only to find himself entangled in his spy father's dangerous legacy. Caught in an international conspiracy involving a lethal bioterror threat, he is thrust into a high-stakes chase. As danger closes in, Buck must push beyond his limits to stop a global crisis.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="369722" start="20261117090500 +0800" stop="20261117095000 +0800">
-    <title lang="zh">Amazing Video Collection! Part 13 (R)</title>
-    <desc>We asked scholars of uncommon fields to share the videos of the latest findings. Enjoy an entertainment show full of amazement!</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -138876,14 +138268,6 @@
     <title lang="zh">World Weather</title>
     <desc>Weather information of the different areas around the world.</desc>
     <date>20261119</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="492863" start="20261117085500 +0800" stop="20261117095000 +0800">
-    <title lang="zh">George Clarke's Amazing Spaces S13 - EP6</title>
-    <desc>An eco cabin created from old supermarket delivery van fridges, George visits snake inspired treehouses in Portugal and the smallest ever Amazing Space. Plus, a home created in an American School bus.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -141936,14 +141320,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="492900" start="20261117082822 +0800" stop="20261117092300 +0800">
-    <title lang="zh">River Monsters - Atomic Assassin</title>
-    <desc>Angler Jeremy Wade braves the radiation in Chernobyl on the trail of a monster fish.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="492900" start="20261117092300 +0800" stop="20261117101732 +0800">
     <title lang="zh">River Monsters - European Maneater</title>
     <desc>Biologist and extreme angler Jeremy Wade investigates tales of a man-eating catfish.</desc>
@@ -143500,14 +142876,6 @@
     <title lang="zh">River Monsters - Killer Snakehead</title>
     <desc>Jeremy Wade investigates whether the snakehead deserves its fearsome reputation.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="492877" start="20261117092000 +0800" stop="20261117094500 +0800">
-    <title lang="zh">Not Quite Narwhal S1 - Sea Monsters / Puff Fruit</title>
-    <desc>Rumors of scary sea monsters in the East End take the kids on a journey of discovering you shouldn’t believe everything you hear. / Mysterious globs disturbing the ocean turn out to be the byproduct of food from Unicorn Land.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -146624,14 +145992,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="369786" start="20261117085000 +0800" stop="20261117093500 +0800">
-    <title lang="zh">ALL HER FAULT S1</title>
-    <desc>The Irvines struggle to adjust to their new normal as Jenny makes some discoveries of her own.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="369786" start="20261117093500 +0800" stop="20261117102000 +0800">
     <title lang="zh">THE TITAN GAMES S2</title>
     <desc>Regional competition has come to an end and the final Titans from the Central, West and Eastern divisions have advanced to the Championship. Those six elite Titans return for the final rounds of competition. The top two men and women will advance to compete on Mount Olympus one last time. In the end, one man and one woman will be crowned Titan Champions.</desc>
@@ -147684,14 +147044,6 @@
     <title lang="zh">WICKED: FOR GOOD</title>
     <desc>In the epic conclusion to the story of the witches of Oz, Elphaba and Glinda must reunite if they are to change themselves—and all of Oz—for good.</desc>
     <date>20261119</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="492866" start="20261117084000 +0800" stop="20261117093500 +0800">
-    <title lang="zh">Fugitive Hunters: Mexico - Nowhere To Hide</title>
-    <desc>The Fugitive Hunters stop a suspicious woman who tries to hide her identity, while elsewhere, the agents surround the house of a human trafficker when it bursts into flames.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -149244,14 +148596,6 @@
     <title lang="zh">Evil Up Close (S6) - Women Who Kill - Georgina Henshaw</title>
     <desc>Chef Philip Rolph was besotted with waitress Georgina Henshaw. But Phil realised she was using him for his money, and Georgina bragged to a friend that she was planning to kill him.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="492872" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Asia Today</title>
-    <desc>CCTV-4 brings you the latest on Asia news, from an Asian perspective.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -151608,14 +150952,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="522559" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">今日亚洲 / Asia Today</title>
-    <desc>以亚洲人的视角报道亚洲、传达亚洲人的声音、展现亚洲的进步和发展、反映亚洲与世界其他地区的互动.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="522559" start="20261117093000 +0800" stop="20261117103000 +0800">
     <title lang="zh">健康中国 / Health China</title>
     <desc>健康中国.</desc>
@@ -152536,14 +151872,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="369734" start="20261117090000 +0800" stop="20261117094000 +0800">
-    <title lang="zh">A Trap Called Desire</title>
-    <desc>A woman whose life was stolen by a false murder accusation fights to reclaim her destiny in a gripping revenge drama against insatiable greed.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="369734" start="20261117094000 +0800" stop="20261117102000 +0800">
     <title lang="zh">Pearl in Red</title>
     <desc>A meticulous and intense revenge chronicle in which two women return under false identities to uncover the truths and sins hidden within the Adel family.</desc>
@@ -153172,14 +152500,6 @@
     <title lang="zh">The Best of Immortal Songs</title>
     <desc>The true classic of the century is born again! The legendary classic is reinterpreted by the best vocalists in Korea. Don't miss out on the heart-moving moments that transcend generations.</desc>
     <date>20261119</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="369767" start="20261117090000 +0800" stop="20261117094000 +0800">
-    <title lang="zh">A Trap Called Desire</title>
-    <desc>A woman whose life was stolen by a false murder accusation fights to reclaim her destiny in a gripping revenge drama against insatiable greed.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -156776,14 +156096,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="492890" start="20261117083000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Konjam Coffee Neraiya Comedy</title>
-    <desc>Start off the day on a joyful note with this series of comedy clips from various movies!</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="492890" start="20261117093000 +0800" stop="20261117100000 +0800">
     <title lang="zh">Yogam Rajayogam</title>
     <desc>An astrology-themed programme that discusses daily horoscopes, auspicious dates and more.</desc>
@@ -158044,14 +157356,6 @@
     <title lang="zh">Vedi Sirippu</title>
     <desc>Don't miss this fun-filled talk show, along with a delightful blend of sketches, stand-up performances and humorous segments!</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="492897" start="20261117090000 +0800" stop="20261117094000 +0800">
-    <title lang="zh">A Trap Called Desire</title>
-    <desc>A woman whose life was stolen by a false murder accusation fights to reclaim her destiny in a gripping revenge drama against insatiable greed.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -159540,14 +158844,6 @@
     <title lang="zh">The Jingbirok: A Memoir of Imjin War</title>
     <desc>Inspired by the historical memoir 'Jingbirok', the drama traces the turbulent events at the royal court from the eve of the Imjin War to the Battle of Noryang, where Admiral Yi Sun-sin made his final stand.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="512067" start="20261117090700 +0800" stop="20261117094700 +0800">
-    <title lang="zh">健康之路-2026-289</title>
-    <desc />
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -162268,14 +161564,6 @@
     <title lang="zh">Deal or No Deal USA - EP67</title>
     <desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="492867" start="20261117084000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Deadliest Catch (S22) - Hunger Game</title>
-    <desc>John makes an emergency trip to St. George Island to feed his hungry crew. Sig and Jake lure Bairdi crab to their own side of a maritime boundary.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -166640,14 +165928,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="492915" start="20261117084500 +0800" stop="20261117094000 +0800">
-    <title lang="zh">RODA - RODA GILA - EP3</title>
-    <desc>Roda-Roda Gila follows Elvano, a motorcycle enthusiast, and his romantic journey with Mika, the daughter of a veteran racer. Elvano falls for Mika when they first meet at a racing circuit, but their relationship faces opposition from their respective parents and friends.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="492915" start="20261117094000 +0800" stop="20261117103500 +0800">
     <title lang="zh">GARIS CINTA - EP53</title>
     <desc>Garis Cinta follows two sisters, Citra and Bunga, who were separated as babies after their family was involved in an accident and were raised by different families. Eighteen years later, they grow up in very different family circumstances and meet at the same university, where they both fall in love with a man named Reyhan.</desc>
@@ -167756,14 +167036,6 @@
     <title lang="zh">MAU HERAN TAPI KEPIKIRAN</title>
     <desc>It's surprising that Gabby and Gilang actually fall in love, considering Gilang was only Gabby's fan.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="369785" start="20261117091700 +0800" stop="20261117094500 +0800">
-    <title lang="zh">Coyote Peterson: Brave The Wild (S1)</title>
-    <desc>Coyote explores the coastline of Australia in hopes of discovering the most toxic aquatic creatures.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -169388,14 +168660,6 @@
     <title lang="zh">La Vuelta 2026: Stage 21: Carrefour Granada - Granada</title>
     <desc>81st edition of the Vuelta a EspaÃ±a and the third and final grand tour of the 2026 men's road cycling season.It is Spain's most epic and open cycling competition.</desc>
     <date>20261124</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="573732" start="20261117084000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Where the Wild Men Are with Ben Fogle S12 - Cheshire, UK</title>
-    <desc>Ben experiences a different kind of wild living - 'continuous cruising' on a narrowboat - staying with his host Dave, whose move to an off-grid life on the canals became a lifeline after personal tragedy.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -172536,14 +171800,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="524988" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Mini Match - LaLiga 2026/27: Sevilla vs Osasuna</title>
-    <desc>Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="524988" start="20261117093000 +0800" stop="20261117100000 +0800">
     <title lang="zh">Mini Match - LaLiga 2026/27: Villarreal vs Espanyol</title>
     <desc>Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
@@ -173804,14 +173060,6 @@
     <title lang="zh">LaLiga 2026/27: Barcelona vs Villarreal</title>
     <desc>Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="492891" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">SLOT</title>
-    <desc>Private Producers Slot</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -177268,11 +176516,11 @@
   <channel id="562755">
     <display-name lang="zh">Aniplus</display-name>
   </channel>
-  <channel id="3158">
-    <display-name lang="zh">Astro Prima HD</display-name>
-  </channel>
   <channel id="570768">
     <display-name lang="zh">Pokémon</display-name>
+  </channel>
+  <channel id="3158">
+    <display-name lang="zh">Astro Prima HD</display-name>
   </channel>
   <channel id="4185">
     <display-name lang="zh">Sun News</display-name>
@@ -177316,11 +176564,11 @@
   <channel id="3518">
     <display-name lang="zh">CCTV4  HD</display-name>
   </channel>
-  <channel id="2885">
-    <display-name lang="zh">Zee Tamil HD</display-name>
-  </channel>
   <channel id="2473">
     <display-name lang="zh">HGTV HD</display-name>
+  </channel>
+  <channel id="2885">
+    <display-name lang="zh">Zee Tamil HD</display-name>
   </channel>
   <channel id="558518">
     <display-name lang="zh">Berita RTM</display-name>
@@ -177328,14 +176576,14 @@
   <channel id="4160">
     <display-name lang="zh">TV Okey HD</display-name>
   </channel>
+  <channel id="369612">
+    <display-name lang="zh">Nick Jr.</display-name>
+  </channel>
   <channel id="536961">
     <display-name lang="zh">TRAXXfm</display-name>
   </channel>
   <channel id="2524">
     <display-name lang="zh">TVB Jade</display-name>
-  </channel>
-  <channel id="369612">
-    <display-name lang="zh">Nick Jr.</display-name>
   </channel>
   <channel id="2226">
     <display-name lang="zh">Astro AEC HD</display-name>
@@ -177343,26 +176591,26 @@
   <channel id="3873">
     <display-name lang="zh">CNBC Asia HD</display-name>
   </channel>
-  <channel id="3308">
-    <display-name lang="zh">Star Vijay HD</display-name>
-  </channel>
   <channel id="558538">
     <display-name lang="zh">TRAXX FM</display-name>
   </channel>
-  <channel id="536950">
-    <display-name lang="zh">Johor FM</display-name>
+  <channel id="3308">
+    <display-name lang="zh">Star Vijay HD</display-name>
   </channel>
   <channel id="3416">
     <display-name lang="zh">Al Jazeera English HD</display-name>
   </channel>
+  <channel id="536950">
+    <display-name lang="zh">Johor FM</display-name>
+  </channel>
   <channel id="3683">
     <display-name lang="zh">TV1 HD</display-name>
   </channel>
-  <channel id="479618">
-    <display-name lang="zh">Aura</display-name>
-  </channel>
   <channel id="536956">
     <display-name lang="zh">SabahV FM</display-name>
+  </channel>
+  <channel id="479618">
+    <display-name lang="zh">Aura</display-name>
   </channel>
   <channel id="3735">
     <display-name lang="zh">Astro Vaanavil HD</display-name>
@@ -177451,17 +176699,17 @@
   <channel id="1029">
     <display-name lang="zh">NTV7</display-name>
   </channel>
-  <channel id="4171">
-    <display-name lang="zh">Love Nature 4K</display-name>
-  </channel>
   <channel id="4196">
     <display-name lang="zh">Love Nature</display-name>
   </channel>
-  <channel id="2852">
-    <display-name lang="zh">CNA HD</display-name>
+  <channel id="4171">
+    <display-name lang="zh">Love Nature 4K</display-name>
   </channel>
   <channel id="3968">
     <display-name lang="zh">Lifetime HD</display-name>
+  </channel>
+  <channel id="2852">
+    <display-name lang="zh">CNA HD</display-name>
   </channel>
   <channel id="1205">
     <display-name lang="zh">AXN HD</display-name>
@@ -177490,14 +176738,14 @@
   <channel id="3885">
     <display-name lang="zh">CTI Asia HD</display-name>
   </channel>
-  <channel id="573870">
-    <display-name lang="zh">Sony Vizha</display-name>
-  </channel>
   <channel id="1781">
     <display-name lang="zh">Astro Quan Jia HD</display-name>
   </channel>
   <channel id="3493">
     <display-name lang="zh">TVB Xing He HD</display-name>
+  </channel>
+  <channel id="573870">
+    <display-name lang="zh">Sony Vizha</display-name>
   </channel>
   <channel id="3920">
     <display-name lang="zh">TVB Entertainment News HD</display-name>
@@ -177532,11 +176780,11 @@
   <channel id="521957">
     <display-name lang="zh">ROLL</display-name>
   </channel>
-  <channel id="2917">
-    <display-name lang="zh">Colors Tamil HD</display-name>
-  </channel>
   <channel id="3835">
     <display-name lang="zh">Sun Music HD</display-name>
+  </channel>
+  <channel id="2917">
+    <display-name lang="zh">Colors Tamil HD</display-name>
   </channel>
   <channel id="558706">
     <display-name lang="zh">WAI FM</display-name>
@@ -177556,11 +176804,11 @@
   <channel id="558709">
     <display-name lang="zh">MINNAL FM</display-name>
   </channel>
-  <channel id="517642">
-    <display-name lang="zh">Rock X Stream</display-name>
-  </channel>
   <channel id="369682">
     <display-name lang="zh">Phoenix Info News HD</display-name>
+  </channel>
+  <channel id="517642">
+    <display-name lang="zh">Rock X Stream</display-name>
   </channel>
   <channel id="2652">
     <display-name lang="zh">K-Plus HD</display-name>
@@ -178948,14 +178196,6 @@
     <title lang="zh">Kintang Kintung</title>
     <desc>Memaparkan pengacara Harun Salim Bachik dan Achey bersama tetamu jemputan Puan Junaini membincangkan isu 'Hutang Bank'.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="1029" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Pecutan</title>
-    <desc>Episod ini menyediakan perkongsian teknik menjawab soalan bagi kertas peperiksaan Sijil Pelajaran Malaysia (SPM)</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -180468,14 +179708,6 @@
     <title lang="zh">Wow Shop</title>
     <desc>Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="1072" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Wow Shop</title>
-    <desc>Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -182140,14 +181372,6 @@
     <title lang="zh">Misteri Wan Peah</title>
     <desc>Nurin berjumpa dengan Yeh Kumbang kerana ingin meminta pertolongan untuk mendapatkan rumah baru bagi mereka.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="1781" start="20261117083000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Against The Current Ep37</title>
-    <desc>After her grandfather was framed and her family decimated, Shen Jia Lan was forced to enter the Lin household as a maid under the alias 'Xu Lan Xiang' in order to clear her family name.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -185744,14 +184968,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="2226" start="20261117083000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">The Gift Of Time Ep08</title>
-    <desc>A tycoon and a mechanic, who were once enemies, reconnect at a clinic as cancer patients and learn to help other terminal patients while making peace with themselves.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="2226" start="20261117093000 +0800" stop="20261117100000 +0800">
     <title lang="zh">Food Producers Ep10</title>
     <desc>Discover the origins of the food you place on your table in this eye-opening food programme produced by Jason Yeoh. Knowing the value of what you eat is the true meaning of food and eating. Learn how your favourite dishes came to be by discovering the origins of daily ingredients by stepping into farms, seas, rivers and food processing plants. Besides exploring the relationship between food and th</desc>
@@ -187784,14 +187000,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="2384" start="20261117091500 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Kisah Bawah Tanah Ep14</title>
-    <desc>Saksikan sebuah animasi terbaru bertajuk Kisah Bawah Tanah yang akan menghiburkan anda sekeluarga.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="2384" start="20261117093000 +0800" stop="20261117100000 +0800">
     <title lang="zh">Cuti Baru Nak Up Ep10</title>
     <desc>Program travelog yang membawa bintang-bintang muda bercuti bersama rakan baik mereka di destinasi-destinasi menarik di seluruh negara.</desc>
@@ -189428,14 +188636,6 @@
     <title lang="zh">Malaysian Host Wanted S2 Ep07</title>
     <desc>Rancangan realiti bakat yang mencari serta mengangkat pengacara TV baharu. Peserta perlu membentangkan idea rancangan asal, dan jika terpilih, akan mengacarakan serta menghasilkan rancangan impian mereka.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="2524" start="20261117091000 +0800" stop="20261117094000 +0800">
-    <title lang="zh">Like Mother, Like Daughter Ep70</title>
-    <desc>Queen of PR Tong Man Lei raises her daughter Tong Sum alone. Her mother Tong Cho Ka Bing's return sparks a family clash, while rival Yeung Fan threatens her career. Can she save her family and empire?</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -194380,22 +193580,6 @@
     <title lang="zh">Global Us</title>
     <desc>DW's on-the-ground reporters are always close to the action, be it covering international events or zooming in on some of the quirks of daily life.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="2781" start="20261117091500 +0800" stop="20261117093000 +0800">
-    <title lang="zh">A PROPOS</title>
-    <desc>Beyond the headlines to the heart of the news of the day. At Apropos, we offer a comprehensive look at just one story that's been making the headlines around the world.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="2781" start="20261117093000 +0800" stop="20261117094500 +0800">
-    <title lang="zh">News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -199760,14 +198944,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="2885" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Maari Ep94</title>
-    <desc>Maari, who is gifted with supernatural powers to predict the future, tries to help everyone around her but her own family abandons her.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="2885" start="20261117093000 +0800" stop="20261117100000 +0800">
     <title lang="zh">Parijatham Ep168</title>
     <desc>The show narrates a heartwarming love story between a traditional girl and a rock star singer, beautifully blending the contrasting worlds of simplicity and glamour.</desc>
@@ -201876,14 +201052,6 @@
     <title lang="zh">Samanthi Ep79</title>
     <desc>The story revolves around Samanthi, a strong-willed young woman who faces numerous challenges while trying to protect her family and uphold her values.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="2917" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Perazhagi</title>
-    <desc>A young girl named Pothum Ponnu is ridiculed by her family and friends for having a darker skin tone. With her mother's support, she overcomes all the hurdles and continues to follow her passion.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -205544,30 +204712,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="3158" start="20261117092000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Lepak@Les'Copaque: Upin &amp; Ipin S16 Ep05</title>
-    <desc>Raya norma baharu, satu pengalaman berbeza buat Upin, Ipin dan kawan-kawan pada tahun ini. Walaupun dalam keadaan covid-19 semakin meningkat, tidak menghalang Upin, Ipin membuat persiapan menyambut raya.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="3158" start="20261117093000 +0800" stop="20261117094000 +0800">
-    <title lang="zh">Lepak@Les'Copaque: Pada Zaman Dahulu S3 Ep25</title>
-    <desc>Kisah Sang Singa yang kacak, Si Helang yang bergaya, Belalang si ahli muzik serta watak lain dengan keistimewaan sendiri. Tidak dilupakan Aki, Aris dan Ara.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="3158" start="20261117094000 +0800" stop="20261117095000 +0800">
-    <title lang="zh">Lepak@Les'Copaque: Pada Zaman Dahulu S3 Ep26</title>
-    <desc>Kisah Sang Singa yang kacak, Si Helang yang bergaya, Belalang si ahli muzik serta watak lain dengan keistimewaan sendiri. Tidak dilupakan Aki, Aris dan Ara.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="3158" start="20261117095000 +0800" stop="20261117100000 +0800">
     <title lang="zh">Lepak@Les'Copaque: Pada Zaman Dahulu S3 Ep27</title>
     <desc>Kisah Sang Singa yang kacak, Si Helang yang bergaya, Belalang si ahli muzik serta watak lain dengan keistimewaan sendiri. Tidak dilupakan Aki, Aris dan Ara.</desc>
@@ -208096,14 +207240,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="3313" start="20261117083000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Hanuman</title>
-    <desc>A mythology story based on the life of the Hindu deity Hanuman, an avatar of Shiva.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="3313" start="20261117093000 +0800" stop="20261117103000 +0800">
     <title lang="zh">Ethirneechal</title>
     <desc>Story about a girl whose father has high expectations on her to succeed in her life.</desc>
@@ -209484,14 +208620,6 @@
     <title lang="zh">Iru Malargal</title>
     <desc>When secrets, societal pressure, and an unexpected wedding come between 3 childhood friends, tradition and emotions clash turning their lives upside down and testing every bond they hold dear.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="3385" start="20261117092000 +0800" stop="20261117094500 +0800">
-    <title lang="zh">SpongeBob SquarePants S15 Ep313</title>
-    <desc>SpongeBob goes to extreme lengths to trick Gary into going to the vet. // SpongeBob become desperate when he accidentally gets pinned under his exercise equipment and must wait for help to arrive.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -212972,30 +212100,6 @@
     <title lang="zh">SpongeBob SquarePants S15 Ep312</title>
     <desc>Squidward's amazing new life in witness protection is threatened after SpongeBob and Patrick discover his whereabouts. // While stuck in her dome, Sandy suspects Plankton's up to no good and recruits...</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="3533" start="20261117092100 +0800" stop="20261117092400 +0800">
-    <title lang="zh">Didi &amp; Friends  (English version) S2 Ep08</title>
-    <desc>Lets watch and sing with Didi &amp; his friends!</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="3533" start="20261117092400 +0800" stop="20261117092700 +0800">
-    <title lang="zh">Didi &amp; Friends  (English version) S2 Ep09</title>
-    <desc>Lets watch and sing with Didi &amp; his friends!</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="3533" start="20261117092700 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Didi &amp; Friends  (English version) S2 Ep10</title>
-    <desc>Lets watch and sing with Didi &amp; his friends!</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -219116,14 +218220,6 @@
     <title lang="zh">BoBoiBoy Galaxy Windara Ep01</title>
     <desc>Gopal diculik oleh seorang musuh misteri. Apa matlamat sebenar si penculik misteri itu? Mampukah BoBoiBoy menewaskannya, dan menyelamatkan Gopal?</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="3600" start="20261117091000 +0800" stop="20261117093500 +0800">
-    <title lang="zh">Blue's Clues &amp; You S2 Ep218</title>
-    <desc>Josh and Blue are making a movie and they need YOUR help! We play Blue's Clues to figure out the ending of our movie- what will wake Magenta up after a magic flower makes her fall asleep? While looking...</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -225336,14 +224432,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="3770" start="20261117083000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Magic 5 Ep181</title>
-    <desc>5 children accidentally found by a wealthy man who lost his wife and child in a car accident. They have different powers and only realize when they are teenagers. Their powers help them to solve cases.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="3770" start="20261117093000 +0800" stop="20261117103000 +0800">
     <title lang="zh">Magic 5 Ep182</title>
     <desc>5 children accidentally found by a wealthy man who lost his wife and child in a car accident. They have different powers and only realize when they are teenagers. Their powers help them to solve cases.</desc>
@@ -228252,14 +227340,6 @@
     <title lang="zh">Cinta Setelah Cinta Ep403</title>
     <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="3809" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">TVP@TTV B. Melayu Tahun 4 Ep03</title>
-    <desc>Pantun merupakan bahan sastera yang menyerap keindahan dan kesantunan bahasa. Penyampai akan menerangkan asal usul pantun, jenis - jenis pantun dan langkah - langkah mudah membina pantun.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -234848,14 +233928,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="3942" start="20261117091500 +0800" stop="20261117094500 +0800">
-    <title lang="zh">Journey of the Bidayuh Ep05</title>
-    <desc>James Ritchie will take us to discover more about the Bidayuh. A documentary series that will touch on the aspects of Bidayuh culture, tradition, history and where this race fares in today's world.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="3942" start="20261117094500 +0800" stop="20261117100000 +0800">
     <title lang="zh">(DL) Detik Dunia</title>
     <desc>Detik Dunia membawakan rangkuman berita antarabangsa, mengetengahkan perkembangan global serta kisah-kisah yang membentuk landskap dunia hari ini.</desc>
@@ -240436,14 +239508,6 @@
     <title lang="zh">Nadi Arena</title>
     <desc>Berita terkini dari dunia sukan tanahair dan antarabangsa.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="4030" start="20261117085000 +0800" stop="20261117094000 +0800">
-    <title lang="zh">Where the Wild Men Are With Ben Fogle S12 Ep04</title>
-    <desc>Ben experiences a different kind of wild living, 'continuous cruising' on a narrowboat, staying with his host Dave whose move to an off-grid life on the canals became a lifeline after personal tragedy</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -250712,14 +249776,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="479618" start="20261117085600 +0800" stop="20261117095300 +0800">
-    <title lang="zh">Iris Wanita : Dunia Kartunis Wanita</title>
-    <desc />
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="479618" start="20261117095300 +0800" stop="20261117104500 +0800">
     <title lang="zh">Iris Wanita : Kini Kau Tiada</title>
     <desc />
@@ -252620,14 +251676,6 @@
     <title lang="zh">Wanita Ikon</title>
     <desc />
     <date>20261124</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="479619" start="20261117091000 +0800" stop="20261117093200 +0800">
-    <title lang="zh">Irama &amp; Rasa EP3</title>
-    <desc />
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -259420,14 +258468,6 @@
     <title lang="zh">Konsert Irama Nurani</title>
     <desc />
     <date>20261124</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="536945" start="20261117091500 +0800" stop="20261117093000 +0800">
-    <title lang="zh">SEGMEN YUN NGAN DI ARUN</title>
-    <desc />
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -271160,22 +270200,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="548887" start="20261117091200 +0800" stop="20261117093600 +0800">
-    <title lang="zh">Jom Pusing Asia #travelbajet : EP6</title>
-    <desc />
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="548887" start="20261117093600 +0800" stop="20261117093800 +0800">
-    <title lang="zh">Klip Video</title>
-    <desc />
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="548887" start="20261117093800 +0800" stop="20261117100200 +0800">
     <title lang="zh">Kulinari Kayangan : EP5</title>
     <desc />
@@ -275716,30 +274740,6 @@
     <title lang="zh">Pelikpedia : EP7</title>
     <desc />
     <date>20261124</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="548888" start="20261117085700 +0800" stop="20261117092600 +0800">
-    <title lang="zh">Daulat Tuanku Allah Peliharakan Sultan</title>
-    <desc />
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="548888" start="20261117092600 +0800" stop="20261117092700 +0800">
-    <title lang="zh">Klip Video</title>
-    <desc />
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="548888" start="20261117092700 +0800" stop="20261117094800 +0800">
-    <title lang="zh">Wanita Ikon</title>
-    <desc />
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -295728,14 +294728,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="570768" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Pokemon the Series: XY Kalos Quest Ep14</title>
-    <desc>Ash Ketchum and his partner Pikachu as they continue their journey through the Kalos region</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="570768" start="20261117093000 +0800" stop="20261117100000 +0800">
     <title lang="zh">Pokemon the Series: XY Kalos Quest Ep15</title>
     <desc>Ash Ketchum and his partner Pikachu as they continue their journey through the Kalos region</desc>
@@ -298272,14 +297264,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="571674" start="20261117082700 +0800" stop="20261117092300 +0800">
-    <title lang="zh">Forum Perdana Ehwal Islam : 2026 Dakwah Tanpa Noktah</title>
-    <desc />
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="571674" start="20261117092300 +0800" stop="20261117101700 +0800">
     <title lang="zh">Forum Perdana Ehwal Islam : 2026 Janji Kami</title>
     <desc />
@@ -300508,14 +299492,6 @@
     <title lang="zh">Hubbun Nabi</title>
     <desc>Saksikan Hubbun Nabi</desc>
     <date>20261124</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="572282" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">ASEAN - Jejak Halal ASEAN</title>
-    <desc>Jejak Halal ASEAN is a travelogue exploring the diverse cultures and lifestyles of Muslim communities across ASEAN countries. In this episode, the programme travels to Songkhla, Thailand, to discover the local Muslim community and its way of life.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -307600,14 +306576,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="3873" start="20261117090200 +0800" stop="20261117093200 +0800">
-    <title lang="zh">Squawk Box Asia</title>
-    <desc>Squawk Box Asia is CNBC's flagship show that sets the news agenda and takes viewers through the pre-game and the opening of Asia's business trading day, covering the top market moving stories.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="3873" start="20261117093200 +0800" stop="20261117100200 +0800">
     <title lang="zh">Squawk Box Asia</title>
     <desc>Squawk Box Asia is CNBC's flagship show that sets the news agenda and takes viewers through the pre-game and the opening of Asia's business trading day, covering the top market moving stories.</desc>
@@ -309532,22 +308500,6 @@
     <title lang="zh">Squawk on the Street</title>
     <desc>Headquartered live on the floor of the New York Stock Exchange, 'Squawk On The Street' tracks the action of every stock and gives you access to the treasury, currency and commodity action in real time.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="878" start="20261117090300 +0800" stop="20261117093000 +0800">
-    <title lang="zh">News on the Hour</title>
-    <desc>Provides live coverage of news and current affairs from around the world, bringing viewers the latest breaking news.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="878" start="20261117093000 +0800" stop="20261117093300 +0800">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc>Check the Phoenix Weather Forecasts for the major cities around the world.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -314592,14 +313544,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="3478" start="20261117090300 +0800" stop="20261117093300 +0800">
-    <title lang="zh">From Phoenix to the World</title>
-    <desc>Tiger Hu hosts this new programme which aims to keep you informed about important events which are taking place in the world today.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="3478" start="20261117093300 +0800" stop="20261117100300 +0800">
     <title lang="zh">Phoenix Panorama</title>
     <desc>This series of captivating documentaries encompasses exclusive insider views along with special segments on a variety of topics.</desc>
@@ -319560,14 +318504,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="3906" start="20261117090300 +0800" stop="20261117093300 +0800">
-    <title lang="zh">The World Today Ep911</title>
-    <desc>Catch up live coverage, in-depth reporting, expert analysis and sustained coverage as The World Today keeps viewers up-to-date with all the world's top stories as they happen.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="3906" start="20261117093300 +0800" stop="20261117100300 +0800">
     <title lang="zh">China 24 Ep264</title>
     <desc>This prime time news program featuring in-depth reports and analysis of the stories in China. It explores the country's business, politics, technology, culture, entertainment and more.</desc>
@@ -321948,14 +320884,6 @@
     <title lang="zh">The Vibe Ep16</title>
     <desc>Focusing on trends and cultural topics moving China and the world, the host presents delivers a lighthearted review and in-depth analysis that also gives viewers a bigger picture.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="2208" start="20261117083500 +0800" stop="20261117093500 +0800">
-    <title lang="zh">Xena: Warrior Princess S1 Ep12</title>
-    <desc>Xena and Gabrielle arrive to Troy during the Trojan War when she is required by an old friend.While Xena tries to win the war, Gabrielle meets her ex-fiance, who's working now as a mercenary for Troy.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -324992,14 +323920,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="3895" start="20261117084000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Black Heart White Soul Ep19</title>
-    <desc>Roger Kwok and Kristal Tin put on a stunning performance in this new drama that explores humanity and justice in the world of crime.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="3895" start="20261117093000 +0800" stop="20261117102000 +0800">
     <title lang="zh">Black Heart White Soul Ep20</title>
     <desc>Roger Kwok and Kristal Tin put on a stunning performance in this new drama that explores humanity and justice in the world of crime.</desc>
@@ -326708,14 +325628,6 @@
     <title lang="zh">The Ultimate Crime Fighter Ep17</title>
     <desc>A monk returns home and starts experiencing supernatural events. He also meets Lung, an undercover agent whom he might have crossed paths with in the past.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="997" start="20261117091500 +0800" stop="20261117094500 +0800">
-    <title lang="zh">The Cook up With Adam Liaw S3 Ep02</title>
-    <desc>Recipe developer Breda Fenn and Maitre d' of Momofuku Seibo fame, Kylie Javier Ashton join Adam Liaw in The Cook Up Kitchen to bring their favorite pies.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -328972,14 +327884,6 @@
     <title lang="zh">Travel With Mommy S1 Ep02</title>
     <desc>At the Lamin Dana Cultural Boutique Lodge, they share the Melanau people's culture and lifestyle and head out on a wild Tellian River boat ride!</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="2473" start="20261117091000 +0800" stop="20261117093500 +0800">
-    <title lang="zh">House Hunters S139 Ep02</title>
-    <desc>A newly-engaged couple wants to move out of their parents' houses and buy a home together in Buffalo, NY.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -332392,14 +331296,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="4185" start="20261117091000 +0800" stop="20261117094000 +0800">
-    <title lang="zh">6 Mani Seithigal</title>
-    <desc>The host covers the live political and top socio-economic headlines and various updates from India and worldwide.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="4185" start="20261117094000 +0800" stop="20261117101000 +0800">
     <title lang="zh">7 Mani Seithigal</title>
     <desc>The host covers the live political and top socio-economic headlines and various updates from India and worldwide.</desc>
@@ -334936,14 +333832,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="399500" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">TVP@TTV B. Melayu Tahun 4</title>
-    <desc>Pantun merupakan bahan sastera yang menyerap keindahan dan kesantunan bahasa. Penyampai akan menerangkan asal usul pantun, jenis - jenis pantun dan langkah - langkah mudah membina pantun.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="399500" start="20261117093000 +0800" stop="20261117100000 +0800">
     <title lang="zh">TVP@TTV B. Inggeris Tahun 3</title>
     <desc>This programme is about identifying animals and how to use comparative adjectives to compare animals.</desc>
@@ -336516,14 +335404,6 @@
     <title lang="zh">Upin &amp; Ipin Iqra</title>
     <desc>Mengekalkan Upin &amp; Ipin dan kawan - kawan sebagai watak utama. Saksikan keletah mereka belajar mengaji.</desc>
     <date>20261119</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="461591" start="20261117091000 +0800" stop="20261117094000 +0800">
-    <title lang="zh">Cham Islands - a Land of Rich Culture</title>
-    <desc>A well-crafted collage of selected short documentaries telling stories about all aspects of China! People, technology, culture, and wildlife, all are showcased in Internet-friendly form.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -338332,14 +337212,6 @@
     <title lang="zh">Masters of Traditional Chinese Medicine Ep02</title>
     <desc>Real life stories told from the personal perspective. Moving, dramatic, sorrows and joys, expressed emphatically and expressed quietly. Watch closely to see and understand the real China as it is lived.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="562755" start="20261117091000 +0800" stop="20261117094000 +0800">
-    <title lang="zh">Miss Kobayashi's Dragon Maid Ep13</title>
-    <desc>The Emperor of Demise - Tohru's father - suddenly appears before her, and wants her to return home.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -340912,14 +339784,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="573870" start="20261117091000 +0800" stop="20261117094000 +0800">
-    <title lang="zh">Veera Mahabaratham - Athyayam Ondru S1 Ep38</title>
-    <desc>Five noble brothers unite to battle injustice and protect their kingdom, testing their courage, sacrifice and devotion to dharma.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="573870" start="20261117094000 +0800" stop="20261117111000 +0800">
     <title lang="zh">Celebrity Masterchef Tamil S1 Ep20</title>
     <desc>Hosted by Samantha Ruth Prabhu, celebrities compete in exciting cooking challenges, showcasing their culinary skills and creativity to impress the judges and win the coveted title.</desc>
@@ -342172,14 +341036,6 @@
     <title lang="zh">Celebrity Masterchef Tamil S1 Ep26</title>
     <desc>Hosted by Samantha Ruth Prabhu, celebrities compete in exciting cooking challenges, showcasing their culinary skills and creativity to impress the judges and win the coveted title.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="400446" start="20261117085800 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Air Asia Buds Adventures</title>
-    <desc>It's time for a high-flying adventure with the Air Asia Buds! Join them as they explore a busy fire station, visit a fun-filled farm, and learn all about amazing animals. Their journey takes them to incredible destinations around the world, from the vibrant streets of Bangkok and the beautiful beaches of the Philippines to the bustling city of Kuala Lumpur. It's a non-stop trip full of fun, learni</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -348364,14 +347220,6 @@
     <title lang="zh">Yes Boss</title>
     <desc>Rahul bekerja keras untuk Siddharth dan jatuh cinta pada model bernama Seema yang menyukai Siddharth kerana kekayaannya. Namun, keikhlasan Rahul akhirnya memikat hati Seema dan mereka bersatu.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="3929" start="20261117090000 +0800" stop="20261117095000 +0800">
-    <title lang="zh">News &amp; Weather</title>
-    <desc>The latest up-to-date weather information.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -355808,22 +354656,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="369658" start="20261117091500 +0800" stop="20261117093000 +0800">
-    <title lang="zh">A PROPOS</title>
-    <desc>Beyond the headlines to the heart of the news of the day. At Apropos, we offer a comprehensive look at just one story that's been making the headlines around the world.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="369658" start="20261117093000 +0800" stop="20261117094500 +0800">
-    <title lang="zh">News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="369658" start="20261117094500 +0800" stop="20261117100000 +0800">
     <title lang="zh">Eye on Africa</title>
     <desc>France 24 brings you all the news from Africa with France 24's correspondents and guests on set.</desc>
@@ -358268,14 +357100,6 @@
     <title lang="zh">Short Cuts</title>
     <desc />
     <date>20261120</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="1358" start="20261117083500 +0800" stop="20261117092500 +0800">
-    <title lang="zh">The Indigenous S1 Ep06</title>
-    <desc>Following her previous tribal journey in Mongolia, explorer Hazelle sets out once again -- this time to visit the Kazakhs, the largest ethnic minority in the country.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -361176,14 +360000,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="369612" start="20261117091000 +0800" stop="20261117093500 +0800">
-    <title lang="zh">Blue's Clues &amp; You</title>
-    <desc>Josh and Blue are making a movie and they need YOUR help! We play Blue's Clues to figure out the ending of our movie- what will wake Magenta up after a magic flower makes her fall asleep? While looking...</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="369612" start="20261117093500 +0800" stop="20261117095500 +0800">
     <title lang="zh">Tim Rex in Space</title>
     <desc>Tim, Tommy and Tia can't decide on the best gift for Grandma. // Tim tries to make his own Captain DinoStar movie. // Tim fakes it to prove he's just as cool as Kai's cousin.</desc>
@@ -363096,14 +361912,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="946" start="20261117073000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Gubir Sirippu</title>
-    <desc>Back to back comedy clips with a literary or cinematic work of a comic nature that uses themes or methods of comedy and humor.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="946" start="20261117093000 +0800" stop="20261117103000 +0800">
     <title lang="zh">Konjam Coffee Neraiya Comedy</title>
     <desc>Start out your morning on high note with these hillarious comedy scenes.</desc>
@@ -364380,14 +363188,6 @@
     <title lang="zh">Oru Pada Comedy</title>
     <desc>This program plays comedy tracks from popular Tamil movie.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="2124" start="20261117085000 +0800" stop="20261117094000 +0800">
-    <title lang="zh">War Of Thorns Ep06</title>
-    <desc>Adapted from Momo Wu's novel, four former best friends reunite after a mysterious letter revives a 7-year-old death mystery. Suicide or murder? Who is the killer, and who seeks revenge?</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -369160,14 +367960,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="3362" start="20261117084500 +0800" stop="20261117094000 +0800">
-    <title lang="zh">Fugitive Hunters: Mexico Ep04</title>
-    <desc>The Fugitive Hunters stop a suspicious woman who tries to hide her identity, while elsewhere, the agents surround the house of a human trafficker when it bursts into flames.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="3362" start="20261117094000 +0800" stop="20261117103500 +0800">
     <title lang="zh">Booked: First Day in S2 Ep10</title>
     <desc>A man charged with his fourth DUI rages against the machine, and a mom, who's a first-time arrestee, contemplates life as a possible convicted felon. In Modesto, a man is accused of felony arson.</desc>
@@ -370716,14 +369508,6 @@
     <title lang="zh">Evil up Close S6 Ep04</title>
     <desc>Chef Philip Rolph was besotted with waitress Georgina Henshaw. But Phil realised she was using him for his money, and Georgina bragged to a friend that she was planning to kill him.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="3735" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Abhinandana (TG) Ep421</title>
-    <desc>Despite growing apart, Rahul &amp; Abhisarika have loved each other since childhood. By a twist of events, Abhisarika changes her looks to evade a forced marriage &amp; later becomes engaged to Rahul.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -372612,14 +371396,6 @@
     <title lang="zh">Kettyolaanu Ente Malakha (ML) Ep43</title>
     <desc>Sleevachan gets married of having someone to care for his aging mother. He is, however, oblivious of the idiosyncrasies of a relationship. Trouble comes soon after he takes matter to his own hands.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="3835" start="20261117083000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Mellisaiye</title>
-    <desc>A comprehensive compilation of some of the most famous Tamil melody songs.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -375052,30 +373828,6 @@
     <title lang="zh">Best of DW Podcasts</title>
     <desc>DW's on-the-ground reporters are always close to the action, be it covering international events or zooming in on some of the quirks of daily life.</desc>
     <date>20261120</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="369636" start="20261117092100 +0800" stop="20261117092400 +0800">
-    <title lang="zh">Didi &amp; Friends  (English version)</title>
-    <desc>Lets watch and sing with Didi &amp; his friends!</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="369636" start="20261117092400 +0800" stop="20261117092700 +0800">
-    <title lang="zh">Didi &amp; Friends  (English version)</title>
-    <desc>Lets watch and sing with Didi &amp; his friends!</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="369636" start="20261117092700 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Didi &amp; Friends  (English version)</title>
-    <desc>Lets watch and sing with Didi &amp; his friends!</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -378032,14 +376784,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="369686" start="20261117092000 +0800" stop="20261117094500 +0800">
-    <title lang="zh">SpongeBob SquarePants</title>
-    <desc>SpongeBob goes to extreme lengths to trick Gary into going to the vet. // SpongeBob become desperate when he accidentally gets pinned under his exercise equipment and must wait for help to arrive.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="369686" start="20261117094500 +0800" stop="20261117101000 +0800">
     <title lang="zh">The Thundermans: Undercover</title>
     <desc>After Phoebe and Max let Chloe's friends watch a horror movie and eat candy, Jinx and Booch's parents want to meet Chloe's. With Hank and Barb away, Max and Phoebe transform into them to help Chloe. It...</desc>
@@ -379596,14 +378340,6 @@
     <title lang="zh">The Marsupilamis</title>
     <desc>The Twins Halloween Movie night takes a spooky turn when the Marsups are mistaken for spirits by their friends. // Rosa's fired by the Mayor when she arrives with her mother to utter chaos and mess.</desc>
     <date>20261120</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="3329" start="20261117090200 +0800" stop="20261117093200 +0800">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -384136,14 +382872,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="3518" start="20261117090300 +0800" stop="20261117093300 +0800">
-    <title lang="zh">Asia Today</title>
-    <desc>Asia Today highlights the latest news and social developments across Asia. Correspondents report on the region's top stories while analysts bring Asian perspective to topical and developing issues.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="3518" start="20261117093300 +0800" stop="20261117103300 +0800">
     <title lang="zh">Health China</title>
     <desc>a story of China has always put the people's health at the top of its policy agenda, working hard to improve the health of its population and making universal health a primary goal of development.</desc>
@@ -387748,14 +386476,6 @@
     <title lang="zh">NCIS: ORIGINS S2 Ep01</title>
     <desc>Gibbs and Franks investigate the disappearance of a young Marine connected to a mysterious compound with a charismatic leader, and Lala's fate is revealed.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="1889" start="20261117090500 +0800" stop="20261117094500 +0800">
-    <title lang="zh">A Trap Called Desire Ep55</title>
-    <desc>A woman whose life was stolen by a false murder accusation fights to reclaim her destiny in a gripping revenge drama against insatiable greed.</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -392104,14 +390824,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="3437" start="20261117084300 +0800" stop="20261117093300 +0800">
-    <title lang="zh">Deadliest Catch S22 Ep04</title>
-    <desc>John makes an emergency trip to St. George Island to feed his hungry crew. Sig and Jake lure Bairdi crab to their own side of a maritime boundary.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="3437" start="20261117093300 +0800" stop="20261117102300 +0800">
     <title lang="zh">Jeremy Wade's Dark Waters S1 Ep01</title>
     <desc>Jeremy Wade's search will take him through the heart of grizzly bear territory, remote native communities and ultimately the Pacific Ocean.</desc>
@@ -395060,14 +393772,6 @@
     <title lang="zh">Forged in Fire S10 Ep13</title>
     <desc>Two champions return for the opportunity to go head to head against one of our titans. After facing off against a fellow champ, only one smith will remain and be tasked with making an M1917 Naval Cutlass.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="569835" start="20261117091500 +0800" stop="20261117094000 +0800">
-    <title lang="zh">Hopes and Dreams Ep05</title>
-    <desc>This film focuses on ordinary Chinese people of different regions and identities. It tells stories of their daily life, work and pursuit of dreams, including inheriting classic culture, protecting intangible cultural heritage, guarding the jungle in the border of China, using modern technology to get rid of poverty and so on. The film vividly shows how ordinary Chinese people pursue dreams and hop</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -398464,14 +397168,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="3325" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Dr. Aarambhi Ep169</title>
-    <desc>Dr. Aarambhi follows a former medical topper who returns to her profession after years devoted to family, rediscovering her purpose, strength, and passion for healing.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="3325" start="20261117093000 +0800" stop="20261117100000 +0800">
     <title lang="zh">Seher Hone Ko Hai Ep228</title>
     <desc>Seher Hone Ko Hai follows Seher, a determined girl fighting for her dream of becoming a doctor, supported by her mother against family pressures and societal norms.</desc>
@@ -400084,14 +398780,6 @@
     <title lang="zh">Salaam Bombay</title>
     <desc>Young Krishna struggles to survive among the drug dealers, pimps, and prostitutes in the back alleys and gutters of India.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="4136" start="20261117090400 +0800" stop="20261117093300 +0800">
-    <title lang="zh">Minibods</title>
-    <desc>The Minibods are having a day of drawing, painting, music and a quick fix! Newt is drawing a beautiful flower but keeps rushing and crumpling her drawings, so she must learn to slow down. Then, when the Minibods help her finish a huge painting, Newt wants it all for herself! The creative chaos continues as Lulu struggles to make a music video with a marching Oddbird and Bubbles accidentally makes </desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -402480,22 +401168,6 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
-<programme channel="369682" start="20261117090300 +0800" stop="20261117093000 +0800">
-    <title lang="zh">News on the Hour</title>
-    <desc>Provides live coverage of news and current affairs from around the world, bringing viewers the latest breaking news.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="369682" start="20261117093000 +0800" stop="20261117093300 +0800">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc>Check the Phoenix Weather Forecasts for the major cities around the world.</desc>
-    <date>20261117</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 <programme channel="369682" start="20261117093300 +0800" stop="20261117100300 +0800">
     <title lang="zh">Financial Journal</title>
     <desc>An up-to-date analysis of shifting market movements, Financial Journal also features commentaries by authorities on key financial issues.</desc>
@@ -404508,14 +403180,6 @@
     <title lang="zh">Vanakkam Minnal</title>
     <desc>Info Semasa / Lagu Baharu.</desc>
     <date>20261120</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="399493" start="20261117090400 +0800" stop="20261117093300 +0800">
-    <title lang="zh">Minibods</title>
-    <desc>It's a creative day for the Minibods! Newt learns to slow down her drawing and Lulu tries to make a music video!</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -406788,14 +405452,6 @@
     <title lang="zh">American Idol 2026 Ep08</title>
     <desc>Human emotions is at the heart of American Idol, as we watch ordinary people bring their dreams and ambitions to the famous stage. American Idol contunues to be the world's favourite singing competition!</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="2580" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">Mini Match - LaLiga : Sevilla Vs Osasuna</title>
-    <desc>Mini Match - LaLiga 2026/27 : Sevilla vs Osasuna</desc>
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -409564,14 +408220,6 @@
     <title lang="zh">Quran@114 Ep318</title>
     <desc>Program yang bertujuan untuk membawa masyarakat lebih dekat dengan Al-Quran, dengan memudahkan mereka untuk mentadabur dan memahami intipati kitab suci.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="536937" start="20261117090000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">BERITA UTAMA 9 PAGI</title>
-    <desc />
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
@@ -414916,14 +413564,6 @@
     <title lang="zh">MEKAR BAHASA</title>
     <desc>Rancangan santai dan penuh info. Mengetengahkan keunikan bahasa dan dialek Johor serta maksud dan pengunaan patah perkataan tersebut.</desc>
     <date>20261123</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-<programme channel="536942" start="20261117092000 +0800" stop="20261117093000 +0800">
-    <title lang="zh">ID SEGMEN / INFO CUACA</title>
-    <desc />
-    <date>20261117</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>

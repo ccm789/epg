@@ -95,84 +95,24 @@ http://120.196.235.42:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=
 http://183.236.239.132:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视",CCTV12
 http://74.91.26.218:82/live/cctv12hd.m3u8
-#EXTINF:-1 group-title="央视",CCTV12社会与法
-http://119.29.233.26:1234/673168185
-#EXTINF:-1 group-title="央视",CCTV12社会与法
-http://47.100.80.251:50001/673168185
-#EXTINF:-1 group-title="央视",CCTV12社会与法
-http://113.98.11.46:3000/673168185
 #EXTINF:-1 group-title="央视",CCTV13
 http://74.91.26.218:82/live/cctv13hd.m3u8
-#EXTINF:-1 group-title="央视",CCTV13新闻
-http://119.29.233.26:1234/608807423
-#EXTINF:-1 group-title="央视",CCTV13新闻
-http://47.100.80.251:50001/608807423
-#EXTINF:-1 group-title="央视",CCTV13新闻
-http://113.98.11.46:3000/608807423
 #EXTINF:-1 group-title="央视",CCTV15
 http://74.91.26.218:82/live/cctv15hd.m3u8
-#EXTINF:-1 group-title="央视",CCTV15音乐
-http://119.29.233.26:1234/673168223
-#EXTINF:-1 group-title="央视",CCTV15音乐
-http://47.100.80.251:50001/673168223
-#EXTINF:-1 group-title="央视",CCTV15音乐
-http://113.98.11.46:3000/673168223
 #EXTINF:-1 group-title="央视",CCTV17
 http://74.91.26.218:82/live/cctv17hd.m3u8
-#EXTINF:-1 group-title="央视",CCTV17农业农村
-http://119.29.233.26:1234/673168256
-#EXTINF:-1 group-title="央视",CCTV17农业农村
-http://47.100.80.251:50001/673168256
-#EXTINF:-1 group-title="央视",CCTV17农业农村
-http://113.98.11.46:3000/673168256
 #EXTINF:-1 group-title="央视",CCTV2
 http://74.91.26.218:82/live/cctv2hd.m3u8
-#EXTINF:-1 group-title="央视",CCTV2财经
-http://119.29.233.26:1234/631780532
-#EXTINF:-1 group-title="央视",CCTV2财经
-http://47.100.80.251:50001/631780532
-#EXTINF:-1 group-title="央视",CCTV2财经
-http://113.98.11.46:3000/631780532
 #EXTINF:-1 group-title="央视",CCTV3
 http://74.91.26.218:82/live/cctv3hd.m3u8
-#EXTINF:-1 group-title="央视",CCTV3综艺
-http://119.29.233.26:1234/624878271
-#EXTINF:-1 group-title="央视",CCTV3综艺
-http://47.100.80.251:50001/624878271
-#EXTINF:-1 group-title="央视",CCTV3综艺
-http://113.98.11.46:3000/624878271
-#EXTINF:-1 group-title="央视",CCTV6电影
-http://47.100.80.251:50001/624878396
-#EXTINF:-1 group-title="央视",CCTV6电影
-http://113.98.11.46:3000/624878396
-#EXTINF:-1 group-title="央视",CCTV6电影
-http://47.99.244.216:3333/624878396
 #EXTINF:-1 group-title="央视",CCTV7
 http://74.91.26.218:82/live/cctv7hd.m3u8
-#EXTINF:-1 group-title="央视",CCTV7国防军事
-http://119.29.233.26:1234/673168121
-#EXTINF:-1 group-title="央视",CCTV7国防军事
-http://47.100.80.251:50001/673168121
-#EXTINF:-1 group-title="央视",CCTV7国防军事
-http://113.98.11.46:3000/673168121
 #EXTINF:-1 group-title="央视",CCTV8
 http://74.91.26.218:82/live/cctv8hd.m3u8
 #EXTINF:-1 group-title="央视",CCTV8
 http://192.151.150.154/live/cctv8k.m3u8
 #EXTINF:-1 group-title="央视",CCTV8K
 http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视",CCTV8电视剧
-http://47.100.80.251:50001/624878356
-#EXTINF:-1 group-title="央视",CCTV8电视剧
-http://113.98.11.46:3000/624878356
-#EXTINF:-1 group-title="央视",CCTV8电视剧
-http://47.99.244.216:3333/624878356
-#EXTINF:-1 group-title="央视",CCTV9纪录
-http://119.29.233.26:1234/673168140
-#EXTINF:-1 group-title="央视",CCTV9纪录
-http://47.100.80.251:50001/673168140
-#EXTINF:-1 group-title="央视",CCTV9纪录
-http://113.98.11.46:3000/673168140
 #EXTINF:-1 group-title="卫视",上海东方卫视
 http://113.15.109.216:59901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",东方卫视
@@ -285,12 +225,6 @@ http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 http://107.150.60.122/live/zjwshd.m3u8
 #EXTINF:-1 group-title="卫视",浙江卫视HD
 http://198.204.228.26/live/zjwshd.m3u8
-#EXTINF:-1 group-title="卫视",海南卫视
-http://119.29.233.26:1234/947472502
-#EXTINF:-1 group-title="卫视",海南卫视
-http://47.100.80.251:50001/947472502
-#EXTINF:-1 group-title="卫视",海南卫视
-http://113.98.11.46:3000/947472502
 #EXTINF:-1 group-title="卫视",深圳卫视
 http://111.4.82.49:8008/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",深圳卫视
@@ -391,8 +325,6 @@ http://cdn.123.rr.kg/163189/hoy
 https://cdn11.163189.xyz/163189/hoy76
 #EXTINF:-1 group-title="港澳台",HOY资讯台
 http://cdn.123.rr.kg/163189/hoy78
-#EXTINF:-1 group-title="港澳台",LIVE三立
-https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",NOW新闻台
 http://cdn.123.rr.kg/163189/now
 #EXTINF:-1 group-title="港澳台",Pet Club TV
@@ -421,10 +353,6 @@ https://cdn3.indevs.in/stream/tvb/tvbp/
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",TVBS Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",TVBS新闻
-https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",TVBS新闻
-https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",TVB亚洲武侠
 http://cdn6.123.rr.kg/163189/yzwx
 #EXTINF:-1 group-title="港澳台",TVB娱乐新闻台
@@ -443,16 +371,6 @@ https://cdn.123.rr.kg/163189/viu
 http://cdn10.123.rr.kg/163189/viu6/
 #EXTINF:-1 group-title="港澳台",iQIYI
 https://cdn3.indevs.in/stream/live/iqiyi/
-#EXTINF:-1 group-title="港澳台",三立新闻
-https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",东森新闻
-https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",东森新闻
-https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",中天新闻
-https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",中视新闻
-https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",八度空间
@@ -479,8 +397,6 @@ http://cdn6.123.rr.kg/163189/jade
 http://cdn6.123.rr.kg/163189/hlfct
 #EXTINF:-1 group-title="港澳台",华丽翡翠台新加坡
 https://cdn3.indevs.in/stream/live/jade/
-#EXTINF:-1 group-title="港澳台",华视新闻
-https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",唯心電視
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1 group-title="港澳台",天映
@@ -495,8 +411,6 @@ http://cdn3.123.rr.kg/stream/live/ccm/
 http://cdn10.123.rr.kg/163189/ccm/
 #EXTINF:-1 group-title="港澳台",天映频道
 http://cdn3.123.rr.kg/stream/live/typd/
-#EXTINF:-1 group-title="港澳台",好消息综合台
-https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 #EXTINF:-1 group-title="港澳台",娱乐新闻台
 http://cdn6.123.rr.kg/163189/ylxw
 #EXTINF:-1 group-title="港澳台",无线新闻台
@@ -509,18 +423,12 @@ http://cdn6.123.rr.kg/163189/wxxwt
 https://cdn3.indevs.in/stream/tvb/mzt/
 #EXTINF:-1 group-title="港澳台",明珠台
 http://120.198.86.186:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="港澳台",明珠台
-http://120.238.87.243:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="港澳台",明珠台(字幕)
 http://cdn3.123.rr.kg/stream/tvb/mzt/
 #EXTINF:-1 group-title="港澳台",欢喜台
 http://cdn3.123.rr.kg/stream/live/hxt/
 #EXTINF:-1 group-title="港澳台",民视新闻
-https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",民视新闻
 http://211.72.174.95:8117/0.ts
-#EXTINF:-1 group-title="港澳台",民视新闻
-https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",民视高清
 http://211.72.174.95:8115/0.ts
 #EXTINF:-1 group-title="港澳台",澳视卫星
@@ -539,8 +447,6 @@ http://cdn6.123.rr.kg/163189/amlh
 http://cdn6.123.rr.kg/163189/amlh
 #EXTINF:-1 group-title="港澳台",爱奇艺
 http://cdn3.123.rr.kg/stream/live/iqiyi/
-#EXTINF:-1 group-title="港澳台",纬来体育
-https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1786948372&sign=2e4a56b89fe644db147552011f972714
 #EXTINF:-1 group-title="港澳台",翡翠剧集台
 http://cdn6.123.rr.kg/163189/tvbd
 #EXTINF:-1 group-title="港澳台",翡翠台
@@ -561,12 +467,8 @@ https://cdn3.indevs.in/stream/tvb/fct/
 https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",黄金华剧台(WebVTT字幕)
 http://cdn10.123.rr.kg/163189/hjhjt/
-#EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: AXN
-http://31.43.191.125:8080/restream/restream/158729
 #EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: American and Asian Movies 美亚电影
 http://31.43.191.125:8080/restream/restream/158809
-#EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: Animal Planet 动物星球
-http://31.43.191.125:8080/restream/restream/158771
 #EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: Arirang 阿里郎
 http://31.43.191.125:8080/restream/restream/158813
 #EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: BBC lifestyle
@@ -599,8 +501,6 @@ http://31.43.191.125:8080/restream/restream/158773
 http://31.43.191.125:8080/restream/restream/158833
 #EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: Da Vinci
 http://31.43.191.125:8080/restream/restream/158870
-#EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: Discovery Channel 探索频道
-http://31.43.191.125:8080/restream/restream/158793
 #EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: Dongsen Comprehensive 东森综合
 http://31.43.191.125:8080/restream/restream/158759
 #EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: Dongsen Drama 东森戏剧
@@ -631,8 +531,6 @@ http://31.43.191.125:8080/restream/restream/158881
 http://31.43.191.125:8080/restream/restream/158882
 #EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: ELTV英語學習頻道
 http://31.43.191.125:8080/restream/restream/158869
-#EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: EYETV 旅游
-http://31.43.191.125:8080/restream/restream/158887
 #EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: Eastern Movies 东森洋片
 http://31.43.191.125:8080/restream/restream/158757
 #EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: Extraordinary News HD 非凡新闻
@@ -657,8 +555,6 @@ http://31.43.191.125:8080/restream/restream/158814
 http://31.43.191.125:8080/restream/restream/158815
 #EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: Jingtian Movie Channel 靖天电影台
 http://31.43.191.125:8080/restream/restream/158819
-#EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: Jingtian Pictures 靖天映画
-http://31.43.191.125:8080/restream/restream/158817
 #EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: Jingyang Drama 靖洋戏剧
 http://31.43.191.125:8080/restream/restream/158822
 #EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: Longhua Drama 龙华戏剧
@@ -689,8 +585,6 @@ http://31.43.191.125:8080/restream/restream/158750
 http://31.43.191.125:8080/restream/restream/158747
 #EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: TVBS Happy Stage 欢乐台
 http://31.43.191.125:8080/restream/restream/158749
-#EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: TVBS News 新闻台
-http://31.43.191.125:8080/restream/restream/158748
 #EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: Universal News Channel 寰宇新闻台
 http://31.43.191.125:8080/restream/restream/158791
 #EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: Video Movies 纬来电影
@@ -713,30 +607,18 @@ http://31.43.191.125:8080/restream/restream/158838
 http://31.43.191.125:8080/restream/restream/158770
 #EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: 三立新闻台
 http://31.43.191.125:8080/restream/restream/158752
-#EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: 东森超视
-http://31.43.191.125:8080/restream/restream/158803
 #EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: 中天亚洲台
 http://31.43.191.125:8080/restream/restream/158873
-#EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: 亚洲旅游
-http://31.43.191.125:8080/restream/restream/158810
 #EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: 人间卫视
 http://31.43.191.125:8080/restream/restream/158874
-#EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: 八大精彩
-http://31.43.191.125:8080/restream/restream/158876
 #EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: 博斯高球2
 http://31.43.191.125:8080/restream/restream/158862
 #EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: 博斯魅力
 http://31.43.191.125:8080/restream/restream/158863
-#EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: 古典音乐台
-http://31.43.191.125:8080/restream/restream/158878
 #EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: 台视财经
 http://31.43.191.125:8080/restream/restream/158867
-#EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: 寰宇新闻台湾台
-http://31.43.191.125:8080/restream/restream/158890
 #EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: 年代新闻
 http://31.43.191.125:8080/restream/restream/158792
-#EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: 探索動力
-http://31.43.191.125:8080/restream/restream/158865
 #EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: 探索科学
 http://31.43.191.125:8080/restream/restream/158783
 #EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: 爱尔达体育2台
@@ -745,12 +627,6 @@ http://31.43.191.125:8080/restream/restream/158795
 http://31.43.191.125:8080/restream/restream/158794
 #EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: 纬来育乐
 http://31.43.191.125:8080/restream/restream/158802
-#EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: 采昌影剧
-http://31.43.191.125:8080/restream/restream/158877
-#EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: 镜新闻
-http://31.43.191.125:8080/restream/restream/158784
-#EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: 靖洋卡通台
-http://31.43.191.125:8080/restream/restream/158871
 #EXTINF:-1 group-title="台湾频道",Province of China VIP",TW: 龙华经典
 http://31.43.191.125:8080/restream/restream/158875
 #EXTINF:-1 group-title="台湾频道",Province of China VIP",TW:EYE戏剧台

@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://gh-proxy.com/raw.githubusercontent.com/ccm789/epg/main/epg_sgmy.xml.gz"
+#EXTM3U url-tvg="https://gh-proxy.com/raw.githubusercontent.com/ccm789/epg/main/epg_sgmy.xml"
 #EXTINF:-1 tvg-id="astro622" group-title="Astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro30.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogoNew.png",100 Astro 30
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_primary.mpd
 #EXTINF:-1 tvg-id="astro395" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",101 TV1 HD
@@ -12,7 +12,7 @@ https://mvts.live/zes-ria
 #EXTINF:-1 tvg-id="astro193" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria Feed 2
 http://tv.cloudcdn.me/live.ts?channelId=132152&uid=10223&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-id="astro193" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",109 Astro Ria Feed 3
-https://abeott.short.gy/WGH5
+https://abeott.short.gy/WGHx
 #EXTINF:-1 tvg-id="astro316" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",105 Astro Prima
 https://mvts.live/zes-prima
 #EXTINF:-1 tvg-id="astro316" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",105 Astro Prima Feed 2
@@ -20,7 +20,7 @@ http://iptv12k.com:35461/m260807962950028/111111/13630
 #EXTINF:-1 tvg-id="astro316" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",110 Astro Prima Feed 3
 http://tv.cloudcdn.me/live.ts?channelId=93734&uid=10223&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-id="astro316" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",110 Astro Prima Feed 4
-https://abeott.short.gy/hQ6d
+https://abeott.short.gy/hQ6p
 #EXTINF:-1 tvg-id="astro315" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroOasis_2024.png",106 Astro Oasis
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #EXTINF:-1 tvg-id="astro301" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",108 Astro Citra
@@ -30,7 +30,7 @@ http://bestiptvgo.net:80/live/2E3LJPJ/WNSMMKF/1052391.m3u8
 #EXTINF:-1 tvg-id="astro301" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",108 Astro Citra Feed 3
 http://tv.cloudcdn.me/live.ts?channelId=132150&uid=10223&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-id="astro301" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",108 Astro Citra Feed 4
-https://abeott.short.gy/coy3
+https://abeott.short.gy/sHqf
 #EXTINF:-1 tvg-id="astro401" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania_2024.png",112 Astro Rania
 https://mvts.live/zes-rania
 #EXTINF:-1 tvg-id="astro401" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania_2024.png",112 Astro Rania Feed 2
@@ -308,7 +308,7 @@ http://tv.cloudcdn.me/live.ts?channelId=93741&uid=10223&deviceMac=00:1A:79:07:07
 #EXTINF:-1 tvg-id="astro543" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="Sports",810 Astro Grandstand Feed 3
 http://4kgood.org:80/live/02928783542314069898/e7ur9j3aha/1775977.m3u8
 #EXTINF:-1 tvg-id="astro536" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",811 Astro Premier League
-https://abeott.short.gy/TOis
+https://abeott.short.gy/TOi4
 #EXTINF:-1 tvg-id="astro536" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",811 Astro Premier League Feed 2
 http://tv.cloudcdn.me:80/live.ts?channelId=93739&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
 #EXTINF:-1 tvg-id="astro536" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",811 Astro Premier League Feed 3
@@ -316,7 +316,7 @@ http://4kgood.org:80/live/02928783542314069898/e7ur9j3aha/1163684.m3u8
 #EXTINF:-1 tvg-id="astro536" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",811 Astro Premier League Feed 4
 https://bozzku.xyz/victus/4996/AstPremierLeague1.mpd
 #EXTINF:-1 tvg-id="astro537" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",812 Astro Premier League 2
-https://abeott.short.gy/oV5w
+https://abeott.short.gy/oV55
 #EXTINF:-1 tvg-id="astro537" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",812 Astro Premier League 2 Feed 2
 http://4kgood.org:80/live/02928783542314069898/e7ur9j3aha/1163986.m3u8
 #EXTINF:-1 tvg-id="astro537" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",812 Astro Premier League 2 Feed 3
@@ -338,13 +338,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5610/default_primary.mpd
 #EXTINF:-1 tvg-id="astro616" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroTennis.png",819 Astro Tennis
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5210/default_primary.mpd
 #EXTINF:-1 tvg-id="astro236" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",820 beIN SPORTS
-https://abeott.short.gy/SyYc
+https://mvts.live/zes-bein1
 #EXTINF:-1 tvg-id="astro236" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",820 beIN SPORTS Feed 2
 http://bestiptvgo.net:80/live/2E3LJPJ/WNSMMKF/78137.m3u8
 #EXTINF:-1 tvg-id="astro236" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",820 beIN SPORTS Feed 3
 http://tv.cloudcdn.me/live.ts?channelId=93748&uid=10223&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-id="astro466" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",821 beIN SPORTS 2
-https://abeott.short.gy/xGa5
+https://mvts.live/zes-bein2
 #EXTINF:-1 tvg-id="astro466" group-title="Sports" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B6AE264E-3B1A-4E37-B9A2-43D912FC89D7/0-16x9.png?width=530",821 beIN SPORTS 2 Feed 2
 http://bestiptvgo.net:80/live/2E3LJPJ/WNSMMKF/78138.m3u8
 #EXTINF:-1 tvg-id="astro466" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",821 beIN SPORTS 2 Feed 3

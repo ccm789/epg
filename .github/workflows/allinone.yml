@@ -1,0 +1,25 @@
+name: allinone-daily
+# 每日测活 allinone.m3u：剔除失效源，有变化自动提交
+on:
+  schedule:
+    - cron: '20 3 * * *'   # UTC 03:20 = 北京时间 11:20
+  workflow_dispatch:        # 支持手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  daily-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 测活并更新
+        run: python3 update_allinone.py
+
+      - name: 提交
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add allinone.m3u
+          git diff --cached --quiet || (git commit -m "allinone 每日测活 $(date -u +%F)" && git push)

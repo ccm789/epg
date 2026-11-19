@@ -25,8 +25,6 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/%E8%8B%8F%E5%B7%9E4K.png" tvg-id="" tvg-name="苏州4K" group-title="地方台",苏州4K
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="吉林纪录片轮播" group-title="地方台",吉林纪录片轮播
-http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/da805d8d77a24db8aaa62328eb6d874e/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93.png" tvg-id="" tvg-name="快乐垂钓" group-title="地方台",快乐垂钓
 https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/KLCDMPP360.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="天祝" group-title="地方台",天祝

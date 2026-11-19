@@ -13,7 +13,12 @@ def _fetch(u, ctx=None):
 
 def test_udp_once(url):
     total = 0
-    r = urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=TIMEOUT)
+    try:
+        r = urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=TIMEOUT)
+    except urllib.error.HTTPError as e:
+        if e.code == 503:
+            return -1  # udpxy 忙（客户端槽位满/组播被占），不算死
+        raise
     deadline = time.time() + READ_SECS
     while time.time() < deadline:
         chunk = r.read(65536)
@@ -21,18 +26,22 @@ def test_udp_once(url):
             break
         total += len(chunk)
     r.close()
-    return total >= 100 * 1024
+    return total if total >= 100 * 1024 else 0
 
 def test_udp(url):
-    """udpxy 裸TS：读3秒>=100KB即活。最多3次尝试，间隔4秒（udpxy连接过频会偶发拒绝）"""
-    for attempt in range(3):
+    """udpxy 裸TS：读3秒>=100KB即活。最多5次尝试（503=被别人占用，多重试挤位）"""
+    saw_busy = False
+    for attempt in range(5):
         try:
-            if test_udp_once(url):
+            ret = test_udp_once(url)
+            if ret == -1:
+                saw_busy = True
+            elif ret > 0:
                 return True
         except Exception:
             pass
-        time.sleep(4)
-    return False
+        time.sleep(3)
+    return False if saw_busy else False
 
 def _get_media(url, ctx):
     """返回 media playlist 地址。master/media 两种都支持"""
@@ -96,16 +105,40 @@ def parse(path):
             cur = None
     return header, entries
 
+def probe_udp(url):
+    """探针：返回 ok / busy(503被占) / dead"""
+    for attempt in range(3):
+        try:
+            try:
+                r = urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=TIMEOUT)
+            except urllib.error.HTTPError as e:
+                if e.code == 503:
+                    return "busy"
+                raise
+            total = 0
+            deadline = time.time() + 2.0
+            while time.time() < deadline:
+                chunk = r.read(65536)
+                if not chunk:
+                    break
+                total += len(chunk)
+            r.close()
+            if total >= 50 * 1024:
+                return "ok"
+        except Exception:
+            pass
+        time.sleep(3)
+    return "dead"
+
 def main():
     header, entries = parse(SRC)
     udp_entries = [(inf, u) for inf, u in entries if "/udp/" in u]
     hls_entries = [(inf, u) for inf, u in entries if "/udp/" not in u]
 
-    # 探针：Actions 等海外机房无法访问台湾家宽 udpxy，探不通则跳过组播测活，避免整表被清
-    udp_reachable = True
-    if udp_entries:
-        udp_reachable = test_udp(udp_entries[0][1])
-        print(f"[探针] udpxy 可达: {udp_reachable}", flush=True)
+    # 探针：Actions 等海外机房无法访问台湾家宽 udpxy；503=被其他用户占用(仍可达)
+    state = probe_udp(udp_entries[0][1]) if udp_entries else "dead"
+    udp_reachable = state in ("ok", "busy")
+    print(f"[探针] udpxy 状态: {state}", flush=True)
 
     results = {}
     if udp_reachable:

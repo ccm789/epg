@@ -106,3 +106,118 @@ https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-id="唯心電視台 WXTV" tvg-name="唯心電視台 WXTV" group-title="台湾·综合生活",唯心電視台 WXTV
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="台湾·MOD扩展",==== 扩展 ====
+#EXTINF:-1 tvg-id="MOD未名台·004" tvg-name="MOD未名台·004" group-title="台湾·MOD扩展",MOD未名台·004
+http://1.170.136.51:8022/udp/230.1.2.4:11111
+#EXTINF:-1 tvg-id="MOD未名台·005" tvg-name="MOD未名台·005" group-title="台湾·MOD扩展",MOD未名台·005
+http://1.170.136.51:8022/udp/230.1.2.5:11111
+#EXTINF:-1 tvg-id="MOD未名台·012" tvg-name="MOD未名台·012" group-title="台湾·MOD扩展",MOD未名台·012
+http://1.170.136.51:8022/udp/230.1.2.12:11111
+#EXTINF:-1 tvg-id="MOD未名台·013" tvg-name="MOD未名台·013" group-title="台湾·MOD扩展",MOD未名台·013
+http://1.170.136.51:8022/udp/230.1.2.13:11111
+#EXTINF:-1 tvg-id="MOD未名台·016" tvg-name="MOD未名台·016" group-title="台湾·MOD扩展",MOD未名台·016
+http://1.170.136.51:8022/udp/230.1.2.16:11111
+#EXTINF:-1 tvg-id="MOD未名台·031" tvg-name="MOD未名台·031" group-title="台湾·MOD扩展",MOD未名台·031
+http://1.170.136.51:8022/udp/230.1.2.31:11111
+#EXTINF:-1 tvg-id="MOD未名台·044" tvg-name="MOD未名台·044" group-title="台湾·MOD扩展",MOD未名台·044
+http://1.170.136.51:8022/udp/230.1.2.44:11111
+#EXTINF:-1 tvg-id="MOD未名台·061" tvg-name="MOD未名台·061" group-title="台湾·MOD扩展",MOD未名台·061
+http://1.170.136.51:8022/udp/230.1.2.61:11111
+#EXTINF:-1 tvg-id="MOD未名台·062" tvg-name="MOD未名台·062" group-title="台湾·MOD扩展",MOD未名台·062
+http://1.170.136.51:8022/udp/230.1.2.62:11111
+#EXTINF:-1 tvg-id="Lifetime娛樂台" tvg-name="Lifetime娛樂台" group-title="台湾·MOD扩展",Lifetime娛樂台
+http://1.170.136.51:8022/udp/230.1.2.64:11111
+#EXTINF:-1 tvg-id="MOD未名台·067" tvg-name="MOD未名台·067" group-title="台湾·MOD扩展",MOD未名台·067
+http://1.170.136.51:8022/udp/230.1.2.67:11111
+#EXTINF:-1 tvg-id="MOD未名台·073" tvg-name="MOD未名台·073" group-title="台湾·MOD扩展",MOD未名台·073
+http://1.170.136.51:8022/udp/230.1.2.73:11111
+#EXTINF:-1 tvg-id="MOD未名台·085" tvg-name="MOD未名台·085" group-title="台湾·MOD扩展",MOD未名台·085
+http://1.170.136.51:8022/udp/230.1.2.85:11111
+#EXTINF:-1 tvg-id="JET綜合台" tvg-name="JET綜合台" group-title="台湾·MOD扩展",JET綜合台
+http://1.170.136.51:8022/udp/230.1.2.89:11111
+#EXTINF:-1 tvg-id="MOD未名台·090" tvg-name="MOD未名台·090" group-title="台湾·MOD扩展",MOD未名台·090
+http://1.170.136.51:8022/udp/230.1.2.90:11111
+#EXTINF:-1 tvg-id="JOJO購物台" tvg-name="JOJO購物台" group-title="台湾·MOD扩展",JOJO購物台
+http://1.170.136.51:8022/udp/230.1.2.95:11111
+#EXTINF:-1 tvg-id="MOD未名台·114" tvg-name="MOD未名台·114" group-title="台湾·MOD扩展",MOD未名台·114
+http://1.170.136.51:8022/udp/230.1.2.114:11111
+#EXTINF:-1 tvg-id="MOD未名台·121" tvg-name="MOD未名台·121" group-title="台湾·MOD扩展",MOD未名台·121
+http://1.170.136.51:8022/udp/230.1.2.121:11111
+#EXTINF:-1 tvg-id="MOD未名台·123" tvg-name="MOD未名台·123" group-title="台湾·MOD扩展",MOD未名台·123
+http://1.170.136.51:8022/udp/230.1.2.123:11111
+#EXTINF:-1 tvg-id="MOD未名台·126" tvg-name="MOD未名台·126" group-title="台湾·MOD扩展",MOD未名台·126
+http://1.170.136.51:8022/udp/230.1.2.126:11111
+#EXTINF:-1 tvg-id="MOD未名台·129" tvg-name="MOD未名台·129" group-title="台湾·MOD扩展",MOD未名台·129
+http://1.170.136.51:8022/udp/230.1.2.129:11111
+#EXTINF:-1 tvg-id="MOD未名台·130" tvg-name="MOD未名台·130" group-title="台湾·MOD扩展",MOD未名台·130
+http://1.170.136.51:8022/udp/230.1.2.130:11111
+#EXTINF:-1 tvg-id="MOD未名台·133" tvg-name="MOD未名台·133" group-title="台湾·MOD扩展",MOD未名台·133
+http://1.170.136.51:8022/udp/230.1.2.133:11111
+#EXTINF:-1 tvg-id="EYE TV戲劇台" tvg-name="EYE TV戲劇台" group-title="台湾·MOD扩展",EYE TV戲劇台
+http://1.170.136.51:8022/udp/230.1.2.134:11111
+#EXTINF:-1 tvg-id="MOD未名台·135" tvg-name="MOD未名台·135" group-title="台湾·MOD扩展",MOD未名台·135
+http://1.170.136.51:8022/udp/230.1.2.135:11111
+#EXTINF:-1 tvg-id="MOD未名台·137" tvg-name="MOD未名台·137" group-title="台湾·MOD扩展",MOD未名台·137
+http://1.170.136.51:8022/udp/230.1.2.137:11111
+#EXTINF:-1 tvg-id="MOD未名台·138" tvg-name="MOD未名台·138" group-title="台湾·MOD扩展",MOD未名台·138
+http://1.170.136.51:8022/udp/230.1.2.138:11111
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" group-title="台湾·MOD扩展",民視新聞台
+http://1.170.136.51:8022/udp/230.1.2.139:11111
+#EXTINF:-1 tvg-id="MOD未名台·140" tvg-name="MOD未名台·140" group-title="台湾·MOD扩展",MOD未名台·140
+http://1.170.136.51:8022/udp/230.1.2.140:11111
+#EXTINF:-1 tvg-id="MOD未名台·141" tvg-name="MOD未名台·141" group-title="台湾·MOD扩展",MOD未名台·141
+http://1.170.136.51:8022/udp/230.1.2.141:11111
+#EXTINF:-1 tvg-id="MOD未名台·143" tvg-name="MOD未名台·143" group-title="台湾·MOD扩展",MOD未名台·143
+http://1.170.136.51:8022/udp/230.1.2.143:11111
+#EXTINF:-1 tvg-id="MOD未名台·146" tvg-name="MOD未名台·146" group-title="台湾·MOD扩展",MOD未名台·146
+http://1.170.136.51:8022/udp/230.1.2.146:11111
+#EXTINF:-1 tvg-id="MOD未名台·158" tvg-name="MOD未名台·158" group-title="台湾·MOD扩展",MOD未名台·158
+http://1.170.136.51:8022/udp/230.1.2.158:11111
+#EXTINF:-1 tvg-id="MOD未名台·163" tvg-name="MOD未名台·163" group-title="台湾·MOD扩展",MOD未名台·163
+http://1.170.136.51:8022/udp/230.1.2.163:11111
+#EXTINF:-1 tvg-id="GOOD TV好消息" tvg-name="GOOD TV好消息" group-title="台湾·MOD扩展",GOOD TV好消息
+http://1.170.136.51:8022/udp/230.1.2.165:11111
+#EXTINF:-1 tvg-id="MOD未名台·167" tvg-name="MOD未名台·167" group-title="台湾·MOD扩展",MOD未名台·167
+http://1.170.136.51:8022/udp/230.1.2.167:11111
+#EXTINF:-1 tvg-id="MOD未名台·168" tvg-name="MOD未名台·168" group-title="台湾·MOD扩展",MOD未名台·168
+http://1.170.136.51:8022/udp/230.1.2.168:11111
+#EXTINF:-1 tvg-id="MOD未名台·172" tvg-name="MOD未名台·172" group-title="台湾·MOD扩展",MOD未名台·172
+http://1.170.136.51:8022/udp/230.1.2.172:11111
+#EXTINF:-1 tvg-id="MOD未名台·176" tvg-name="MOD未名台·176" group-title="台湾·MOD扩展",MOD未名台·176
+http://1.170.136.51:8022/udp/230.1.2.176:11111
+#EXTINF:-1 tvg-id="MOD未名台·180" tvg-name="MOD未名台·180" group-title="台湾·MOD扩展",MOD未名台·180
+http://1.170.136.51:8022/udp/230.1.2.180:11111
+#EXTINF:-1 tvg-id="MOD未名台·181" tvg-name="MOD未名台·181" group-title="台湾·MOD扩展",MOD未名台·181
+http://1.170.136.51:8022/udp/230.1.2.181:11111
+#EXTINF:-1 tvg-id="MOD未名台·184" tvg-name="MOD未名台·184" group-title="台湾·MOD扩展",MOD未名台·184
+http://1.170.136.51:8022/udp/230.1.2.184:11111
+#EXTINF:-1 tvg-id="MOD未名台·189" tvg-name="MOD未名台·189" group-title="台湾·MOD扩展",MOD未名台·189
+http://1.170.136.51:8022/udp/230.1.2.189:11111
+#EXTINF:-1 tvg-id="iNEWS財經台" tvg-name="iNEWS財經台" group-title="台湾·MOD扩展",iNEWS財經台
+http://1.170.136.51:8022/udp/230.1.2.191:11111
+#EXTINF:-1 tvg-id="MOD未名台·194" tvg-name="MOD未名台·194" group-title="台湾·MOD扩展",MOD未名台·194
+http://1.170.136.51:8022/udp/230.1.2.194:11111
+#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" group-title="台湾·MOD扩展",中視經典台
+http://1.170.136.51:8022/udp/230.1.2.197:11111
+#EXTINF:-1 tvg-id="MOD未名台·204" tvg-name="MOD未名台·204" group-title="台湾·MOD扩展",MOD未名台·204
+http://1.170.136.51:8022/udp/230.1.2.204:11111
+#EXTINF:-1 tvg-id="MOD未名台·212" tvg-name="MOD未名台·212" group-title="台湾·MOD扩展",MOD未名台·212
+http://1.170.136.51:8022/udp/230.1.2.212:11111
+#EXTINF:-1 tvg-id="博斯撞球台" tvg-name="博斯撞球台" group-title="台湾·MOD扩展",博斯撞球台
+http://1.170.136.51:8022/udp/230.1.2.215:11111
+#EXTINF:-1 tvg-id="History歷史頻道" tvg-name="History歷史頻道" group-title="台湾·MOD扩展",History歷史頻道
+http://1.170.136.51:8022/udp/230.1.2.216:11111
+#EXTINF:-1 tvg-id="MOD未名台·220" tvg-name="MOD未名台·220" group-title="台湾·MOD扩展",MOD未名台·220
+http://1.170.136.51:8022/udp/230.1.2.220:11111
+#EXTINF:-1 tvg-id="MOD未名台·222" tvg-name="MOD未名台·222" group-title="台湾·MOD扩展",MOD未名台·222
+http://1.170.136.51:8022/udp/230.1.2.222:11111
+#EXTINF:-1 tvg-id="MOD未名台·227" tvg-name="MOD未名台·227" group-title="台湾·MOD扩展",MOD未名台·227
+http://1.170.136.51:8022/udp/230.1.2.227:11111
+#EXTINF:-1 tvg-id="MOD未名台·229" tvg-name="MOD未名台·229" group-title="台湾·MOD扩展",MOD未名台·229
+http://1.170.136.51:8022/udp/230.1.2.229:11111
+#EXTINF:-1 tvg-id="MOD未名台·235" tvg-name="MOD未名台·235" group-title="台湾·MOD扩展",MOD未名台·235
+http://1.170.136.51:8022/udp/230.1.2.235:11111
+#EXTINF:-1 tvg-id="MOD未名台·240" tvg-name="MOD未名台·240" group-title="台湾·MOD扩展",MOD未名台·240
+http://1.170.136.51:8022/udp/230.1.2.240:11111
+#EXTINF:-1 tvg-id="MOD未名台·248" tvg-name="MOD未名台·248" group-title="台湾·MOD扩展",MOD未名台·248
+http://1.170.136.51:8022/udp/230.1.2.248:11111

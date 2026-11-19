@@ -21,6 +21,8 @@ http://1.170.136.51:8022/udp/230.1.2.147:11111
 http://1.170.136.51:8022/udp/230.1.2.252:11111
 #EXTINF:-1 tvg-id="國會頻道" tvg-name="國會頻道" group-title="台湾·新闻",國會頻道
 http://1.170.136.51:8022/udp/230.1.2.210:11111
+#EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" group-title="台湾·新闻",台視新聞
+https://live.wcetv.com/hls/master-ttvnews.m3u8
 #EXTINF:-1 group-title="台湾·体育",==== 体育 ====
 #EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2" group-title="台湾·体育",DAZN 2
 http://1.170.136.51:8022/udp/230.1.2.79:11111
@@ -110,8 +112,6 @@ http://1.170.136.51:8022/udp/230.1.2.175:11111
 http://1.170.136.51:8022/udp/230.1.2.177:11111
 #EXTINF:-1 tvg-id="Crime+ Investigation" tvg-name="Crime+ Investigation" group-title="台湾·综合生活",Crime+ Investigation
 http://1.170.136.51:8022/udp/230.1.2.238:11111
-#EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" group-title="台湾·新闻",台視新聞
-https://live.wcetv.com/hls/master-ttvnews.m3u8
 #EXTINF:-1 tvg-id="美麗人生電視台" tvg-name="美麗人生電視台" group-title="台湾·综合生活",美麗人生電視台
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" group-title="台湾·综合生活",大愛電視

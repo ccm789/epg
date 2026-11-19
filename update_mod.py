@@ -98,12 +98,37 @@ def parse(path):
 
 def main():
     header, entries = parse(SRC)
+    udp_entries = [(inf, u) for inf, u in entries if "/udp/" in u]
+    hls_entries = [(inf, u) for inf, u in entries if "/udp/" not in u]
+
+    # 探针：Actions 等海外机房无法访问台湾家宽 udpxy，探不通则跳过组播测活，避免整表被清
+    udp_reachable = True
+    if udp_entries:
+        udp_reachable = test_udp(udp_entries[0][1])
+        print(f"[探针] udpxy 可达: {udp_reachable}", flush=True)
+
     results = {}
-    for i, (inf, url) in enumerate(entries):
-        fn = test_udp if "/udp/" in url else test_hls
-        results[url] = fn(url)
-        mark = "OK  " if results[url] else "DEAD"
-        print(f"[{mark}] {i+1}/{len(entries)} {url[:70]}", flush=True)
+    if udp_reachable:
+        for i, (inf, url) in enumerate(entries):
+            if "/udp/" in url:
+                results[url] = test_udp(url)
+            else:
+                results[url] = test_hls(url)
+            mark = "OK  " if results[url] else "DEAD"
+            print(f"[{mark}] {i+1}/{len(entries)} {url[:70]}", flush=True)
+    else:
+        print("!! udpxy 不可达（海外机房探针失败），本轮跳过组播测活，仅测公网HLS源", flush=True)
+        for i, (inf, url) in enumerate(hls_entries):
+            results[url] = test_hls(url)
+            mark = "OK  " if results[url] else "DEAD"
+            print(f"[{mark}] {i+1}/{len(hls_entries)} {url[:70]}", flush=True)
+
+    # 护栏：死条目超过30%视为测试环境异常，本轮不修改文件
+    total_n = len(results)
+    dead_n = sum(1 for ok in results.values() if not ok)
+    if total_n and dead_n / total_n > 0.3:
+        print(f"!! 死亡比例 {dead_n}/{total_n} 超过30%，疑似测试环境异常，本轮跳过清理", flush=True)
+        return
     # 二次复查：第一轮死的串口再单独验一次（网络抖动兜底）
     dead1 = [u for u, ok in results.items() if not ok]
     for u in dead1:
@@ -119,7 +144,7 @@ def main():
         if g not in groups:
             groups[g] = []
             order.append(g)
-        if results.get(url):
+        if results.get(url) or ("/udp/" in url and not udp_reachable):
             groups[g].append((inf, url))
     out = list(header[:4])  # EXTM3U + 3行注释说明
     total = 0

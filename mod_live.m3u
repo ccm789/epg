@@ -3,10 +3,6 @@
 # 注意：udpxy 有同时连接数上限，多个频道同时播放可能被拒，正常单人观看无影响
 url-tvg="epg_sgmy.xml.gz"
 #EXTINF:-1 group-title="台湾·新闻",==== 新闻 ====
-#EXTINF:-1 tvg-id="CNA 亞洲新聞台" tvg-name="CNA 亞洲新聞台" group-title="台湾·新闻",CNA 亞洲新聞台
-http://1.170.136.51:8022/udp/230.1.2.11:11111
-#EXTINF:-1 tvg-id="Euronews 歐洲新聞" tvg-name="Euronews 歐洲新聞" group-title="台湾·新闻",Euronews 歐洲新聞
-http://1.170.136.51:8022/udp/230.1.2.15:11111
 #EXTINF:-1 tvg-id="TaiwanPlus" tvg-name="TaiwanPlus" group-title="台湾·新闻",TaiwanPlus
 http://1.170.136.51:8022/udp/230.1.2.30:11111
 #EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" group-title="台湾·新闻",民視新聞台
@@ -24,10 +20,6 @@ http://1.170.136.51:8022/udp/230.1.2.210:11111
 #EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" group-title="台湾·新闻",台視新聞
 https://live.wcetv.com/hls/master-ttvnews.m3u8
 #EXTINF:-1 group-title="台湾·体育",==== 体育 ====
-#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2" group-title="台湾·体育",DAZN 2
-http://1.170.136.51:8022/udp/230.1.2.79:11111
-#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" group-title="台湾·体育",博斯高球台
-http://1.170.136.51:8022/udp/230.1.2.183:11111
 #EXTINF:-1 tvg-id="愛爾達體育台" tvg-name="愛爾達體育台" group-title="台湾·体育",愛爾達體育台
 http://1.170.136.51:8022/udp/230.1.2.237:11111
 #EXTINF:-1 group-title="台湾·影视戏剧",==== 影视戏剧 ====
@@ -66,8 +58,6 @@ http://1.170.136.51:8022/udp/230.1.2.226:11111
 http://1.170.136.51:8022/udp/230.1.2.185:11111
 #EXTINF:-1 tvg-id="金鐘獎轉播" tvg-name="金鐘獎轉播" group-title="台湾·综合生活",金鐘獎轉播
 http://1.170.136.51:8022/udp/230.1.2.202:11111
-#EXTINF:-1 tvg-id="中視主頻" tvg-name="中視主頻" group-title="台湾·综合生活",中視主頻
-http://1.170.136.51:8022/udp/230.1.2.228:11111
 #EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" group-title="台湾·综合生活",中視菁采台
 http://1.170.136.51:8022/udp/230.1.2.224:11111
 #EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" group-title="台湾·综合生活",三立綜合台
@@ -78,8 +68,6 @@ http://1.170.136.51:8022/udp/230.1.2.239:11111
 http://1.170.136.51:8022/udp/230.1.2.182:11111
 #EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" group-title="台湾·综合生活",靖天綜合台
 http://1.170.136.51:8022/udp/230.1.2.174:11111
-#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" group-title="台湾·综合生活",靖天卡通台
-http://1.170.136.51:8022/udp/230.1.2.162:11111
 #EXTINF:-1 tvg-id="ANIMAX" tvg-name="ANIMAX" group-title="台湾·综合生活",ANIMAX
 http://1.170.136.51:8022/udp/230.1.2.243:11111
 #EXTINF:-1 tvg-id="寰宇綜合台" tvg-name="寰宇綜合台" group-title="台湾·综合生活",寰宇綜合台
@@ -90,8 +78,6 @@ http://1.170.136.51:8022/udp/230.1.2.214:11111
 http://1.170.136.51:8022/udp/230.1.2.193:11111
 #EXTINF:-1 tvg-id="觀音山宗教台" tvg-name="觀音山宗教台" group-title="台湾·综合生活",觀音山宗教台
 http://1.170.136.51:8022/udp/230.1.2.247:11111
-#EXTINF:-1 tvg-id="MOMO 綜合台" tvg-name="MOMO 綜合台" group-title="台湾·综合生活",MOMO 綜合台
-http://1.170.136.51:8022/udp/230.1.2.63:11111
 #EXTINF:-1 tvg-id="東森購物" tvg-name="東森購物" group-title="台湾·综合生活",東森購物
 http://1.170.136.51:8022/udp/230.1.2.33:11111
 #EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" group-title="台湾·综合生活",東森購物二台
@@ -100,10 +86,6 @@ http://1.170.136.51:8022/udp/230.1.2.45:11111
 http://1.170.136.51:8022/udp/230.1.2.70:11111
 #EXTINF:-1 tvg-id="松視1台" tvg-name="松視1台" group-title="台湾·综合生活",松視1台
 http://1.170.136.51:8022/udp/230.1.2.142:11111
-#EXTINF:-1 tvg-id="麥覺明台" tvg-name="麥覺明台" group-title="台湾·综合生活",麥覺明台
-http://1.170.136.51:8022/udp/230.1.2.161:11111
-#EXTINF:-1 tvg-id="TRAVEL 旅遊台" tvg-name="TRAVEL 旅遊台" group-title="台湾·综合生活",TRAVEL 旅遊台
-http://1.170.136.51:8022/udp/230.1.2.145:11111
 #EXTINF:-1 tvg-id="Travel+" tvg-name="Travel+" group-title="台湾·综合生活",Travel+
 http://1.170.136.51:8022/udp/230.1.2.166:11111
 #EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" group-title="台湾·综合生活",亞洲旅遊台

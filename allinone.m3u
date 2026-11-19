@@ -178,6 +178,8 @@ http://31.43.191.125:8080/restream/restream/158759
 #EXTINF:-1 group-title="台湾频道",非凡新闻
 http://31.43.191.125:8080/restream/restream/158823
 #EXTINF:-1 group-title="台湾频道",靖天电影台
+#EXTINF:-1 group-title="台湾频道",靖天电影台
+http://1.170.136.51:8022/udp/230.1.2.77:11111
 http://31.43.191.125:8080/restream/restream/158819
 #EXTINF:-1 group-title="台湾频道",三立新闻(备用1)
 http://31.43.191.125:8080/restream/restream/158829
@@ -186,8 +188,12 @@ http://31.43.191.125:8080/restream/restream/158749
 #EXTINF:-1 group-title="台湾频道",TVBS
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 group-title="台湾频道",人间卫视
+#EXTINF:-1 group-title="台湾频道",人间卫视
+http://1.170.136.51:8022/udp/230.1.2.193:11111
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 #EXTINF:-1 group-title="台湾频道",台视新闻
+#EXTINF:-1 group-title="台湾频道",台视新闻
+https://live.wcetv.com/hls/master-ttvnews.m3u8
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 group-title="其他",新唐人
 https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8

@@ -8,12 +8,12 @@ import subprocess
 from concurrent.futures import ThreadPoolExecutor
 
 SRC = 'https://raw.githubusercontent.com/adg-cloud/astro/refs/heads/main/astro.m3u'
-EPG = 'https://gh-proxy.com/raw.githubusercontent.com/ccm789/epg/main/epg_sgmy.xml'
+EPG = 'https://ghproxy.net/https://raw.githubusercontent.com/ccm789/epg/main/epg_sgmy.xml'
 UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0 Safari/537.36'
 
 req = urllib.request.Request(SRC, headers={'User-Agent': UA})
 raw = None
-for attempt in (SRC, 'https://gh-proxy.com/' + SRC):
+for attempt in (SRC, 'https://ghproxy.net/https://' + SRC):
     try:
         raw = urllib.request.urlopen(
             urllib.request.Request(attempt, headers={'User-Agent': UA}), timeout=60

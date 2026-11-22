@@ -56,7 +56,7 @@ def find_logo(name):
         if n2 and n2 in lmap: return lmap[n2]
     return None
 
-BASE = 'https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/'
+BASE = 'https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/'
 
 # ---------- 大陆台判定 ----------
 PROV = ['湖南','浙江','江苏','北京','上海','东方','安徽','广东','深圳','辽宁','山东','天津','重庆','东南',

@@ -46,7 +46,7 @@ def find_logo(names):
         for x in (name, name.replace(' HD', ''), re.sub(r'\s*HD$', '', name, flags=re.I)):
             n = norm(x)
             if n in lmap:
-                return 'https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/' + lmap[n] + '.png'
+                return 'https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/' + lmap[n] + '.png'
     return None
 
 # ---------- 抓源 ----------

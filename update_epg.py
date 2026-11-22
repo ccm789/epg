@@ -112,7 +112,7 @@ import gzip as _gzip, subprocess as _sp
 def _norm(s): return re.sub(r'[\s（）()·．.\-|]', '', _t2s.convert(s)).lower()
 def _fetch_merge(url, prefix, merged, ours):
     gz = f'/tmp/{prefix}src.xml.gz'
-    for u in [url, 'https://gh-proxy.com/'+url]:
+    for u in [url, 'https://ghproxy.net/https://'+url]:
         try:
             _sp.run(['curl','-sL','-m','150','-o',gz,u],timeout=160)
             if open(gz,'rb').read(2)==b'\x1f\x8b':

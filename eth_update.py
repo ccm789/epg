@@ -189,7 +189,7 @@ def write_m3u(items, path, epg_ids=None, logos=None):
             lg = f'tvg-logo="{my}" '
         else:
             logo = find_logo(nm, logos or {})
-            lg = f'tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/{logo}" ' if logo else ''
+            lg = f'tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/{logo}" ' if logo else ''
         lines.append(f'#EXTINF:-1 {lg}tvg-id="{tid}" tvg-name="{nm}" '
                      f'group-title="{x["group"] or "其他"}",{nm}')
         lines.append(x['url'])

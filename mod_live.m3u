@@ -1,7 +1,7 @@
 #EXTM3U
 # 台湾直播源 · 中华电信MOD组播(udpxy) + 网络补充源 · 每日自动测活
 # 注意：udpxy 有同时连接数上限，多个频道同时播放可能被拒，正常单人观看无影响
-url-tvg="epg_sgmy.xml.gz"
+url-tvg="https://ghproxy.net/https://raw.githubusercontent.com/ccm789/epg/main/epg_sgmy.xml.gz"
 #EXTINF:-1 group-title="台湾·新闻",==== 新闻 ====
 #EXTINF:-1 tvg-id="TaiwanPlus" tvg-name="TaiwanPlus" group-title="台湾·新闻",TaiwanPlus
 http://1.170.136.51:8022/udp/230.1.2.30:11111
@@ -106,7 +106,7 @@ https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-id="唯心電視台 WXTV" tvg-name="唯心電視台 WXTV" group-title="台湾·综合生活",唯心電視台 WXTV
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 group-title="台湾·MOD扩展",==== MOD扩展 ====
+#EXTINF:-1 group-title="台湾·MOD扩展",==== 扩展 ====
 #EXTINF:-1 tvg-id="MOD未名台·004" tvg-name="MOD未名台·004" group-title="台湾·MOD扩展",MOD未名台·004
 http://1.170.136.51:8022/udp/230.1.2.4:11111
 #EXTINF:-1 tvg-id="MOD未名台·005" tvg-name="MOD未名台·005" group-title="台湾·MOD扩展",MOD未名台·005

@@ -165,10 +165,6 @@ http://31.43.191.125:8080/restream/restream/158833
 http://31.43.191.125:8080/restream/restream/158870
 #EXTINF:-1 group-title="台湾频道",东森综合
 http://31.43.191.125:8080/restream/restream/158759
-#EXTINF:-1 group-title="台湾频道",非凡新闻
-http://31.43.191.125:8080/restream/restream/158823
-#EXTINF:-1 group-title="台湾频道",三立新闻(备用1)
-http://31.43.191.125:8080/restream/restream/158829
 #EXTINF:-1 group-title="台湾频道",欢乐台
 http://31.43.191.125:8080/restream/restream/158749
 #EXTINF:-1 group-title="台湾频道",TVBS

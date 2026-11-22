@@ -1,17 +1,17 @@
 #EXTM3U
 # 台湾直播源 · 中华电信MOD组播(udpxy) + 网络补充源 · 每日自动测活
 # 注意：udpxy 有同时连接数上限，多个频道同时播放可能被拒，正常单人观看无影响
-url-tvg="https://ghproxy.net/https://raw.githubusercontent.com/ccm789/epg/main/epg_sgmy.xml.gz"
+url-tvg="https://ghproxy.net/https://raw.githubusercontent.com/ccm789/epg/main/epg_tw.xml.gz"
 #EXTINF:-1 group-title="台湾·新闻",==== 新闻 ====
 #EXTINF:-1 tvg-id="TaiwanPlus" tvg-name="TaiwanPlus" group-title="台湾·新闻",TaiwanPlus
 http://1.170.136.51:8022/udp/230.1.2.30:11111
-#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" group-title="台湾·新闻",民視新聞台
+#EXTINF:-1 group-title="台湾·新闻" tvg-id="456553" tvg-name="民視新聞台",民視新聞台
 http://1.170.136.51:8022/udp/230.1.2.155:11111
-#EXTINF:-1 tvg-id="壹新聞" tvg-name="壹新聞" group-title="台湾·新闻",壹新聞
+#EXTINF:-1 group-title="台湾·新闻" tvg-id="456550" tvg-name="壹電視新聞台",壹新聞
 http://1.170.136.51:8022/udp/230.1.2.188:11111
-#EXTINF:-1 tvg-id="iNEWS 寰宇新聞" tvg-name="iNEWS 寰宇新聞" group-title="台湾·新闻",iNEWS 寰宇新聞
+#EXTINF:-1 group-title="台湾·新闻" tvg-id="370173" tvg-name="三立新聞iNEWS",iNEWS 寰宇新聞
 http://1.170.136.51:8022/udp/230.1.2.250:11111
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" group-title="台湾·新闻",寰宇新聞台
+#EXTINF:-1 group-title="台湾·新闻" tvg-id="370179" tvg-name="寰宇新聞台",寰宇新聞台
 http://1.170.136.51:8022/udp/230.1.2.147:11111
 #EXTINF:-1 tvg-id="寰宇新聞二台" tvg-name="寰宇新聞二台" group-title="台湾·新闻",寰宇新聞二台
 http://1.170.136.51:8022/udp/230.1.2.252:11111
@@ -20,57 +20,57 @@ http://1.170.136.51:8022/udp/230.1.2.210:11111
 #EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" group-title="台湾·新闻",台視新聞
 https://live.wcetv.com/hls/master-ttvnews.m3u8
 #EXTINF:-1 group-title="台湾·体育",==== 体育 ====
-#EXTINF:-1 tvg-id="愛爾達體育台" tvg-name="愛爾達體育台" group-title="台湾·体育",愛爾達體育台
+#EXTINF:-1 group-title="台湾·体育" tvg-id="457243" tvg-name="愛爾達體育1台",愛爾達體育台
 http://1.170.136.51:8022/udp/230.1.2.237:11111
 #EXTINF:-1 group-title="台湾·影视戏剧",==== 影视戏剧 ====
 #EXTINF:-1 tvg-id="CinemaWorld 電影台" tvg-name="CinemaWorld 電影台" group-title="台湾·影视戏剧",CinemaWorld 電影台
 http://1.170.136.51:8022/udp/230.1.2.3:11111
-#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" group-title="台湾·影视戏剧",靖天電影台
+#EXTINF:-1 group-title="台湾·影视戏剧" tvg-id="456653" tvg-name="靖天電影台",靖天電影台
 http://1.170.136.51:8022/udp/230.1.2.77:11111
 #EXTINF:-1 tvg-id="JS 極映電影台" tvg-name="JS 極映電影台" group-title="台湾·影视戏剧",JS 極映電影台
 http://1.170.136.51:8022/udp/230.1.2.152:11111
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" group-title="台湾·影视戏剧",AMC
 http://1.170.136.51:8022/udp/230.1.2.157:11111
-#EXTINF:-1 tvg-id="CATCHPLAY+" tvg-name="CATCHPLAY+" group-title="台湾·影视戏剧",CATCHPLAY+
+#EXTINF:-1 group-title="台湾·影视戏剧" tvg-id="456563" tvg-name="CATCHPLAY電影台",CATCHPLAY+
 http://1.170.136.51:8022/udp/230.1.2.217:11111
-#EXTINF:-1 tvg-id="龍華洋片台" tvg-name="龍華洋片台" group-title="台湾·影视戏剧",龍華洋片台
+#EXTINF:-1 group-title="台湾·影视戏剧" tvg-id="457364" tvg-name="龍華洋片HD",龍華洋片台
 http://1.170.136.51:8022/udp/230.1.2.211:11111
-#EXTINF:-1 tvg-id="台灣戲劇台" tvg-name="台灣戲劇台" group-title="台湾·影视戏剧",台灣戲劇台
+#EXTINF:-1 group-title="台湾·影视戏剧" tvg-id="457312" tvg-name="台灣戲劇HD",台灣戲劇台
 http://1.170.136.51:8022/udp/230.1.2.154:11111
-#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" group-title="台湾·影视戏剧",靖天戲劇台
+#EXTINF:-1 group-title="台湾·影视戏剧" tvg-id="370233" tvg-name="靖天戲劇台",靖天戲劇台
 http://1.170.136.51:8022/udp/230.1.2.173:11111
-#EXTINF:-1 tvg-id="三立戲劇台" tvg-name="三立戲劇台" group-title="台湾·影视戏剧",三立戲劇台
+#EXTINF:-1 group-title="台湾·影视戏剧" tvg-id="457311" tvg-name="三立戲劇台HD",三立戲劇台
 http://1.170.136.51:8022/udp/230.1.2.232:11111
-#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" group-title="台湾·影视戏剧",靖天日本台
+#EXTINF:-1 group-title="台湾·影视戏剧" tvg-id="456659" tvg-name="靖天日本台",靖天日本台
 http://1.170.136.51:8022/udp/230.1.2.221:11111
-#EXTINF:-1 tvg-id="靖天日本台 JP" tvg-name="靖天日本台 JP" group-title="台湾·影视戏剧",靖天日本台 JP
+#EXTINF:-1 group-title="台湾·影视戏剧" tvg-id="456659" tvg-name="靖天日本台",靖天日本台 JP
 http://1.170.136.51:8022/udp/230.1.2.242:11111
 #EXTINF:-1 tvg-id="韓國娛樂台" tvg-name="韓國娛樂台" group-title="台湾·影视戏剧",韓國娛樂台
 http://1.170.136.51:8022/udp/230.1.2.231:11111
 #EXTINF:-1 tvg-id="韓國娛樂台 KMTV" tvg-name="韓國娛樂台 KMTV" group-title="台湾·影视戏剧",韓國娛樂台 KMTV
 http://1.170.136.51:8022/udp/230.1.2.66:11111
 #EXTINF:-1 group-title="台湾·综合生活",==== 综合生活 ====
-#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" group-title="台湾·综合生活",民視綜藝台
+#EXTINF:-1 group-title="台湾·综合生活" tvg-id="370185" tvg-name="民視綜藝台",民視綜藝台
 http://1.170.136.51:8022/udp/230.1.2.201:11111
-#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" group-title="台湾·综合生活",民視台灣台
+#EXTINF:-1 group-title="台湾·综合生活" tvg-id="456643" tvg-name="民視台灣台",民視台灣台
 http://1.170.136.51:8022/udp/230.1.2.226:11111
-#EXTINF:-1 tvg-id="公視台語台" tvg-name="公視台語台" group-title="台湾·综合生活",公視台語台
+#EXTINF:-1 group-title="台湾·综合生活" tvg-id="456513" tvg-name="公視台語台",公視台語台
 http://1.170.136.51:8022/udp/230.1.2.185:11111
 #EXTINF:-1 tvg-id="金鐘獎轉播" tvg-name="金鐘獎轉播" group-title="台湾·综合生活",金鐘獎轉播
 http://1.170.136.51:8022/udp/230.1.2.202:11111
-#EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" group-title="台湾·综合生活",中視菁采台
+#EXTINF:-1 group-title="台湾·综合生活" tvg-id="457298" tvg-name="中視菁采台HD",中視菁采台
 http://1.170.136.51:8022/udp/230.1.2.224:11111
-#EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" group-title="台湾·综合生活",三立綜合台
+#EXTINF:-1 group-title="台湾·综合生活" tvg-id="370144" tvg-name="三立綜合台",三立綜合台
 http://1.170.136.51:8022/udp/230.1.2.192:11111
-#EXTINF:-1 tvg-id="八大綜合台" tvg-name="八大綜合台" group-title="台湾·综合生活",八大綜合台
+#EXTINF:-1 group-title="台湾·综合生活" tvg-id="456528" tvg-name="八大綜合台",八大綜合台
 http://1.170.136.51:8022/udp/230.1.2.239:11111
 #EXTINF:-1 tvg-id="八大衛視 GTV" tvg-name="八大衛視 GTV" group-title="台湾·综合生活",八大衛視 GTV
 http://1.170.136.51:8022/udp/230.1.2.182:11111
-#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" group-title="台湾·综合生活",靖天綜合台
+#EXTINF:-1 group-title="台湾·综合生活" tvg-id="456638" tvg-name="靖天綜合台",靖天綜合台
 http://1.170.136.51:8022/udp/230.1.2.174:11111
 #EXTINF:-1 tvg-id="ANIMAX" tvg-name="ANIMAX" group-title="台湾·综合生活",ANIMAX
 http://1.170.136.51:8022/udp/230.1.2.243:11111
-#EXTINF:-1 tvg-id="寰宇綜合台" tvg-name="寰宇綜合台" group-title="台湾·综合生活",寰宇綜合台
+#EXTINF:-1 group-title="台湾·综合生活" tvg-id="457297" tvg-name="寰宇HD綜合",寰宇綜合台
 http://1.170.136.51:8022/udp/230.1.2.148:11111
 #EXTINF:-1 tvg-id="EVE 綜合台" tvg-name="EVE 綜合台" group-title="台湾·综合生活",EVE 綜合台
 http://1.170.136.51:8022/udp/230.1.2.214:11111
@@ -78,9 +78,9 @@ http://1.170.136.51:8022/udp/230.1.2.214:11111
 http://1.170.136.51:8022/udp/230.1.2.193:11111
 #EXTINF:-1 tvg-id="觀音山宗教台" tvg-name="觀音山宗教台" group-title="台湾·综合生活",觀音山宗教台
 http://1.170.136.51:8022/udp/230.1.2.247:11111
-#EXTINF:-1 tvg-id="東森購物" tvg-name="東森購物" group-title="台湾·综合生活",東森購物
+#EXTINF:-1 group-title="台湾·综合生活" tvg-id="456548" tvg-name="東森購物1台",東森購物
 http://1.170.136.51:8022/udp/230.1.2.33:11111
-#EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" group-title="台湾·综合生活",東森購物二台
+#EXTINF:-1 group-title="台湾·综合生活" tvg-id="370184" tvg-name="東森購物二台",東森購物二台
 http://1.170.136.51:8022/udp/230.1.2.45:11111
 #EXTINF:-1 tvg-id="Rollor 滾動人文紀實" tvg-name="Rollor 滾動人文紀實" group-title="台湾·综合生活",Rollor 滾動人文紀實
 http://1.170.136.51:8022/udp/230.1.2.70:11111
@@ -90,7 +90,7 @@ http://1.170.136.51:8022/udp/230.1.2.142:11111
 http://1.170.136.51:8022/udp/230.1.2.166:11111
 #EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" group-title="台湾·综合生活",亞洲旅遊台
 http://1.170.136.51:8022/udp/230.1.2.175:11111
-#EXTINF:-1 tvg-id="FashionTV 時尚頻道" tvg-name="FashionTV 時尚頻道" group-title="台湾·综合生活",FashionTV 時尚頻道
+#EXTINF:-1 group-title="台湾·综合生活" tvg-id="457286" tvg-name="Fashion TV HD",FashionTV 時尚頻道
 http://1.170.136.51:8022/udp/230.1.2.177:11111
 #EXTINF:-1 tvg-id="Crime+ Investigation" tvg-name="Crime+ Investigation" group-title="台湾·综合生活",Crime+ Investigation
 http://1.170.136.51:8022/udp/230.1.2.238:11111
@@ -102,11 +102,11 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
 #EXTINF:-1 tvg-id="原住民族電視台" tvg-name="原住民族電視台" group-title="台湾·综合生活",原住民族電視台
 https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 tvg-id="TVBS-Asia" tvg-name="TVBS-Asia" group-title="台湾·综合生活",TVBS-Asia
+#EXTINF:-1 group-title="台湾·综合生活" tvg-id="s_TVBS ASIA" tvg-name="TVBS ASIA",TVBS-Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-id="唯心電視台 WXTV" tvg-name="唯心電視台 WXTV" group-title="台湾·综合生活",唯心電視台 WXTV
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 group-title="台湾·MOD扩展",==== MOD扩展 ====
+#EXTINF:-1 group-title="台湾·MOD扩展",==== 扩展 ====
 #EXTINF:-1 tvg-id="MOD未名台·004" tvg-name="MOD未名台·004" group-title="台湾·MOD扩展",MOD未名台·004
 http://1.170.136.51:8022/udp/230.1.2.4:11111
 #EXTINF:-1 tvg-id="MOD未名台·005" tvg-name="MOD未名台·005" group-title="台湾·MOD扩展",MOD未名台·005
@@ -125,7 +125,7 @@ http://1.170.136.51:8022/udp/230.1.2.44:11111
 http://1.170.136.51:8022/udp/230.1.2.61:11111
 #EXTINF:-1 tvg-id="MOD未名台·062" tvg-name="MOD未名台·062" group-title="台湾·MOD扩展",MOD未名台·062
 http://1.170.136.51:8022/udp/230.1.2.62:11111
-#EXTINF:-1 tvg-id="Lifetime娛樂台" tvg-name="Lifetime娛樂台" group-title="台湾·MOD扩展",Lifetime娛樂台
+#EXTINF:-1 group-title="台湾·MOD扩展" tvg-id="370193" tvg-name="Lifetime 娛樂頻道",Lifetime娛樂台
 http://1.170.136.51:8022/udp/230.1.2.64:11111
 #EXTINF:-1 tvg-id="MOD未名台·067" tvg-name="MOD未名台·067" group-title="台湾·MOD扩展",MOD未名台·067
 http://1.170.136.51:8022/udp/230.1.2.67:11111
@@ -133,11 +133,11 @@ http://1.170.136.51:8022/udp/230.1.2.67:11111
 http://1.170.136.51:8022/udp/230.1.2.73:11111
 #EXTINF:-1 tvg-id="MOD未名台·085" tvg-name="MOD未名台·085" group-title="台湾·MOD扩展",MOD未名台·085
 http://1.170.136.51:8022/udp/230.1.2.85:11111
-#EXTINF:-1 tvg-id="JET綜合台" tvg-name="JET綜合台" group-title="台湾·MOD扩展",JET綜合台
+#EXTINF:-1 group-title="台湾·MOD扩展" tvg-id="456546" tvg-name="JET綜合台",JET綜合台
 http://1.170.136.51:8022/udp/230.1.2.89:11111
 #EXTINF:-1 tvg-id="MOD未名台·090" tvg-name="MOD未名台·090" group-title="台湾·MOD扩展",MOD未名台·090
 http://1.170.136.51:8022/udp/230.1.2.90:11111
-#EXTINF:-1 tvg-id="JOJO購物台" tvg-name="JOJO購物台" group-title="台湾·MOD扩展",JOJO購物台
+#EXTINF:-1 group-title="台湾·MOD扩展" tvg-id="456548" tvg-name="東森購物1台",JOJO購物台
 http://1.170.136.51:8022/udp/230.1.2.95:11111
 #EXTINF:-1 tvg-id="MOD未名台·114" tvg-name="MOD未名台·114" group-title="台湾·MOD扩展",MOD未名台·114
 http://1.170.136.51:8022/udp/230.1.2.114:11111
@@ -153,7 +153,7 @@ http://1.170.136.51:8022/udp/230.1.2.129:11111
 http://1.170.136.51:8022/udp/230.1.2.130:11111
 #EXTINF:-1 tvg-id="MOD未名台·133" tvg-name="MOD未名台·133" group-title="台湾·MOD扩展",MOD未名台·133
 http://1.170.136.51:8022/udp/230.1.2.133:11111
-#EXTINF:-1 tvg-id="EYE TV戲劇台" tvg-name="EYE TV戲劇台" group-title="台湾·MOD扩展",EYE TV戲劇台
+#EXTINF:-1 group-title="台湾·MOD扩展" tvg-id="457319" tvg-name="EYE TV戲劇台HD",EYE TV戲劇台
 http://1.170.136.51:8022/udp/230.1.2.134:11111
 #EXTINF:-1 tvg-id="MOD未名台·135" tvg-name="MOD未名台·135" group-title="台湾·MOD扩展",MOD未名台·135
 http://1.170.136.51:8022/udp/230.1.2.135:11111
@@ -161,7 +161,7 @@ http://1.170.136.51:8022/udp/230.1.2.135:11111
 http://1.170.136.51:8022/udp/230.1.2.137:11111
 #EXTINF:-1 tvg-id="MOD未名台·138" tvg-name="MOD未名台·138" group-title="台湾·MOD扩展",MOD未名台·138
 http://1.170.136.51:8022/udp/230.1.2.138:11111
-#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" group-title="台湾·MOD扩展",民視新聞台
+#EXTINF:-1 group-title="台湾·MOD扩展" tvg-id="456553" tvg-name="民視新聞台",民視新聞台
 http://1.170.136.51:8022/udp/230.1.2.139:11111
 #EXTINF:-1 tvg-id="MOD未名台·140" tvg-name="MOD未名台·140" group-title="台湾·MOD扩展",MOD未名台·140
 http://1.170.136.51:8022/udp/230.1.2.140:11111
@@ -175,7 +175,7 @@ http://1.170.136.51:8022/udp/230.1.2.146:11111
 http://1.170.136.51:8022/udp/230.1.2.158:11111
 #EXTINF:-1 tvg-id="MOD未名台·163" tvg-name="MOD未名台·163" group-title="台湾·MOD扩展",MOD未名台·163
 http://1.170.136.51:8022/udp/230.1.2.163:11111
-#EXTINF:-1 tvg-id="GOOD TV好消息" tvg-name="GOOD TV好消息" group-title="台湾·MOD扩展",GOOD TV好消息
+#EXTINF:-1 group-title="台湾·MOD扩展" tvg-id="370249" tvg-name="好消息",GOOD TV好消息
 http://1.170.136.51:8022/udp/230.1.2.165:11111
 #EXTINF:-1 tvg-id="MOD未名台·167" tvg-name="MOD未名台·167" group-title="台湾·MOD扩展",MOD未名台·167
 http://1.170.136.51:8022/udp/230.1.2.167:11111
@@ -193,19 +193,19 @@ http://1.170.136.51:8022/udp/230.1.2.181:11111
 http://1.170.136.51:8022/udp/230.1.2.184:11111
 #EXTINF:-1 tvg-id="MOD未名台·189" tvg-name="MOD未名台·189" group-title="台湾·MOD扩展",MOD未名台·189
 http://1.170.136.51:8022/udp/230.1.2.189:11111
-#EXTINF:-1 tvg-id="iNEWS財經台" tvg-name="iNEWS財經台" group-title="台湾·MOD扩展",iNEWS財經台
+#EXTINF:-1 group-title="台湾·MOD扩展" tvg-id="370173" tvg-name="三立新聞iNEWS",iNEWS財經台
 http://1.170.136.51:8022/udp/230.1.2.191:11111
 #EXTINF:-1 tvg-id="MOD未名台·194" tvg-name="MOD未名台·194" group-title="台湾·MOD扩展",MOD未名台·194
 http://1.170.136.51:8022/udp/230.1.2.194:11111
-#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" group-title="台湾·MOD扩展",中視經典台
+#EXTINF:-1 group-title="台湾·MOD扩展" tvg-id="457296" tvg-name="中視經典台HD",中視經典台
 http://1.170.136.51:8022/udp/230.1.2.197:11111
 #EXTINF:-1 tvg-id="MOD未名台·204" tvg-name="MOD未名台·204" group-title="台湾·MOD扩展",MOD未名台·204
 http://1.170.136.51:8022/udp/230.1.2.204:11111
 #EXTINF:-1 tvg-id="MOD未名台·212" tvg-name="MOD未名台·212" group-title="台湾·MOD扩展",MOD未名台·212
 http://1.170.136.51:8022/udp/230.1.2.212:11111
-#EXTINF:-1 tvg-id="博斯撞球台" tvg-name="博斯撞球台" group-title="台湾·MOD扩展",博斯撞球台
+#EXTINF:-1 group-title="台湾·MOD扩展" tvg-id="456814" tvg-name="博斯無限台",博斯撞球台
 http://1.170.136.51:8022/udp/230.1.2.215:11111
-#EXTINF:-1 tvg-id="History歷史頻道" tvg-name="History歷史頻道" group-title="台湾·MOD扩展",History歷史頻道
+#EXTINF:-1 group-title="台湾·MOD扩展" tvg-id="370220" tvg-name="History 歷史頻道",History歷史頻道
 http://1.170.136.51:8022/udp/230.1.2.216:11111
 #EXTINF:-1 tvg-id="MOD未名台·220" tvg-name="MOD未名台·220" group-title="台湾·MOD扩展",MOD未名台·220
 http://1.170.136.51:8022/udp/230.1.2.220:11111

@@ -195,3 +195,29 @@ _out.append('</tv>')
 open('epg.xml', 'w', encoding='utf-8').write('\n'.join(_out) + '\n')
 print('收口: 频道', sum(1 for _c in _order if _pg.get(_c)),
       '节目', sum(len(v) for v in _pg.values()), '格式修正', _fmt_fix)
+
+# ============ 生成台湾精简包 epg_tw.xml.gz（供 mod_live 等台湾订阅使用） ============
+TW_KEYS = ["民视","民視","三立","台視","台视","中視","中视","華視","华视","公視","公视","八大","TVBS","東森","东森",
+"靖天","龍華","龙华","寰宇","愛爾達","爱尔达","大愛","大爱","好消息","原住民","壹電視","壹电视","年代","非凡","鏡電視","镜电视",
+"MOMO","緯來","纬来","博斯","GOOD TV","Good TV","台湾","台灣","衛視中文","卫视中文","天氣","座標","梵蒂","真心","達明","iNEWS","EYE TV","JET","Lifetime","History","ANIMAX","DAZN","CATCHPLAY","Crime","FashionTV","Travel","Rollor"]
+_tw_src = open('epg.xml', encoding='utf-8').read()
+_tw_ch = re.findall(r'(<channel id="[^"]+">[\s\S]*?</channel>)', _tw_src)
+_tw_ids = set()
+_tw_keep = []
+for _b in _tw_ch:
+    _names = re.findall(r'>([^<]+)</display-name>', _b)
+    if any(any(_k in _n for _k in TW_KEYS) for _n in _names):
+        _tw_keep.append(_b)
+        _tw_ids.add(re.search(r'channel id="([^"]+)"', _b).group(1))
+_tw_pg = []
+for _m in re.finditer(r'<programme (?:(?!<programme)[\s\S])*?</programme>', _tw_src):
+    _seg = _m.group(0)
+    _cm = re.search(r'channel="([^"]+)"', _seg)
+    if _cm and _cm.group(1) in _tw_ids:
+        _tw_pg.append(_seg)
+_tw_xml = '<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n' + "\n".join(_tw_keep) + "\n" + "\n".join(_tw_pg) + "\n</tv>\n"
+open('epg_tw.xml', 'w', encoding='utf-8').write(_tw_xml)
+import gzip as _gz
+with _gz.open('epg_tw.xml.gz', 'wb') as _f:
+    _f.write(_tw_xml.encode('utf-8'))
+print('epg_tw: 频道', len(_tw_keep), '节目', len(_tw_pg))

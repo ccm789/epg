@@ -125,8 +125,6 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 http://125.227.210.55:1004/VideoInput/play.ts
 #EXTINF:-1 tvg-id="s_HakkaTV" tvg-name="Hakka TV" tvg-logo="https://i.imgur.com/1CdGSbU.png" group-title="台湾",Hakka TV
 https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Asia Taiwan" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png" group-title="台湾",HBO Asia Taiwan
-http://125.227.210.55:1003/VideoInput/play.ts
 #EXTINF:-1 tvg-id="410316" tvg-name="Supreme Master TV" tvg-logo="https://i.imgur.com/kFMHayP.png" group-title="台湾",Supreme Master TV
 https://lbs-us1.suprememastertv.com/720p.m3u8
 #EXTINF:-1 tvg-id="368350" tvg-name="KIX" tvg-logo="https://i.imgur.com/zWcUAdb.png" group-title="香港",KIX

@@ -14,7 +14,7 @@ https://mvts.live/zes-ria
 #EXTINF:-1 tvg-id="astro193" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria Feed 2
 http://tv.cloudcdn.me/live.ts?channelId=132152&uid=10223&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-id="astro193" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",109 Astro Ria Feed 3
-https://linears2-playback.astro.com.my/vsg/41P4iS5kTy_IFVQxeDwC3JSafbr1sMJ6SCSK-NeP4mXAc=HWdZ/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41P4iS5kTy_IFVQxeDwC3JSf7sRrg6ceh25rIiVjciHNc=YA03/dash-wv/jitp-linearwm/1004/default_primary.mpd
 #EXTINF:-1 tvg-id="astro316" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",105 Astro Prima
 https://mvts.live/zes-prima
 #EXTINF:-1 tvg-id="astro316" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",105 Astro Prima Feed 2
@@ -22,7 +22,7 @@ http://iptv12k.com:35461/m260807962950028/111111/13630
 #EXTINF:-1 tvg-id="astro316" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",110 Astro Prima Feed 3
 http://tv.cloudcdn.me/live.ts?channelId=93734&uid=10223&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-id="astro316" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",110 Astro Prima Feed 4
-https://linears2-playback.astro.com.my/vsg/41Psin8e0sOv8oyc1NibNzPetI_i3fC4zvmv6Sl-fXBHQ=5jl7/dash-wv/jitp-linearwm/1000/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41EAXHQQHi3pSOi2CnhnzspyJevSDEEXnzE4pKYhNHcuU=cc8k/dash-wv/jitp-dashisowm/1000/default_primary.mpd
 #EXTINF:-1 tvg-id="astro315" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroOasis_2024.png",106 Astro Oasis
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #EXTINF:-1 tvg-id="astro301" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",108 Astro Citra
